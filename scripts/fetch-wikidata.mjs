@@ -123,11 +123,11 @@ function getWikiUrl(ent) {
 async function getEntity(qid) {
   const cached = cacheGet(`wd-${qid}.json`);
   if (cached) return cached;
-  const url = `${WD}?action=wbgetentities&ids=${qid}&props=labels|descriptions|claims|sitelinks&languages=${WIKI_LANGS.join('|')}&format=json&origin=*&maxlag=5`;
-  const data = await fetchJson(url, { retries: 4 });
+  const url = `${WD}?action=wbgetentities&ids=${qid}&props=labels|descriptions|claims|sitelinks&languages=${WIKI_LANGS.join('|')}&format=json&origin=*&maxlag=10`;
+  const data = await fetchJson(url, { retries: 5 });
   const ent = data?.entities?.[qid];
   if (ent) cacheSet(`wd-${qid}.json`, ent);
-  await sleep(300);
+  await sleep(180);
   return ent || null;
 }
 
@@ -135,11 +135,11 @@ async function searchEntities(name, lang) {
   const key = `wds-${hashString(name + '::' + lang)}.json`;
   const cached = cacheGet(key);
   if (cached) return cached;
-  const url = `${WD}?action=wbsearchentities&search=${encodeURIComponent(name)}&language=${lang}&uselang=${lang}&limit=8&format=json&origin=*&maxlag=5`;
-  const data = await fetchJson(url, { retries: 4 });
+  const url = `${WD}?action=wbsearchentities&search=${encodeURIComponent(name)}&language=${lang}&uselang=${lang}&limit=8&format=json&origin=*&maxlag=10`;
+  const data = await fetchJson(url, { retries: 5 });
   const list = data?.search || [];
   cacheSet(key, list);
-  await sleep(300);
+  await sleep(180);
   return list;
 }
 
@@ -164,7 +164,7 @@ async function getWikiExtract(qid, lang, title) {
     );
     const out = (data?.extract || '').slice(0, 420);
     cacheSet(key, out);
-    await sleep(250);
+    await sleep(150);
     return out;
   } catch {
     return '';

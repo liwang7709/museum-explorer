@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:58:50.312Z",
+  "generatedAt": "2026-08-19T06:16:01.341Z",
   "countries": [
     "中国",
     "中国台湾",
@@ -31,7 +31,7 @@
       "heat": 0.98,
       "heatLabel": "游客量世界第一 · 约1700万/年",
       "blurb": "明清两代皇宫，馆藏186万余件（数字文物库）。",
-      "count": 5
+      "count": 7
     },
     {
       "id": "nmc",
@@ -152,7 +152,7 @@
       "heat": 0.95,
       "heatLabel": "全球TOP3 · 约540万/年",
       "blurb": "百科全书式收藏47万件+，开放API图片CC0可自由使用。",
-      "count": 7
+      "count": 11
     },
     {
       "id": "moma",
@@ -167,7 +167,7 @@
       "heat": 0.88,
       "heatLabel": "现代艺术圣地 · 社媒热度高",
       "blurb": "《星月夜》《记忆的永恒》《亚维农少女》等现代艺术名作。",
-      "count": 6
+      "count": 7
     },
     {
       "id": "aic",
@@ -183,7 +183,7 @@
       "heat": 0.83,
       "heatLabel": "印象派收藏顶级",
       "blurb": "《美国哥特式》《夜游者》《大碗岛的星期天下午》。",
-      "count": 4
+      "count": 5
     },
     {
       "id": "smithsonian",
@@ -198,7 +198,7 @@
       "heat": 0.9,
       "heatLabel": "全球最大博物馆体系 · 450万件开放",
       "blurb": "20余座博物馆：航空航天、自然历史、美国历史…",
-      "count": 7
+      "count": 5
     },
     {
       "id": "nga",
@@ -213,7 +213,7 @@
       "heat": 0.78,
       "heatLabel": "美洲唯一达·芬奇油画藏地",
       "blurb": "吉内薇拉·德·班琪等文艺复兴至现代杰作。",
-      "count": 2
+      "count": 3
     },
     {
       "id": "cleveland",
@@ -229,7 +229,7 @@
       "heat": 0.66,
       "heatLabel": "开放API全CC0 · 免费入场",
       "blurb": "亚洲与印象派收藏闻名，开放数据完整。",
-      "count": 1
+      "count": 2
     },
     {
       "id": "british-museum",
@@ -244,7 +244,7 @@
       "heat": 0.94,
       "heatLabel": "全球TOP5 · 约580万/年",
       "blurb": "罗塞塔石碑、帕特农神庙雕塑、刘易斯棋子…世界史缩微。",
-      "count": 8
+      "count": 7
     },
     {
       "id": "national-gallery-london",
@@ -274,7 +274,7 @@
       "heat": 0.79,
       "heatLabel": "全球参观人数前列 · 约570万/年",
       "blurb": "透纳、米莱《奥菲莉亚》、现代与当代艺术。",
-      "count": 3
+      "count": 4
     },
     {
       "id": "vam",
@@ -304,7 +304,7 @@
       "heat": 0.99,
       "heatLabel": "全球参观量第一 · 约890万/年",
       "blurb": "《蒙娜丽莎》《米洛的维纳斯》《胜利女神》三大镇馆之宝。",
-      "count": 10
+      "count": 11
     },
     {
       "id": "musee-rodin",
@@ -334,7 +334,7 @@
       "heat": 0.8,
       "heatLabel": "伦勃朗《夜巡》藏地",
       "blurb": "荷兰黄金时代绘画殿堂：《夜巡》《倒牛奶的女仆》。",
-      "count": 4
+      "count": 3
     },
     {
       "id": "van-gogh",
@@ -349,7 +349,7 @@
       "heat": 0.86,
       "heatLabel": "全球最大梵高收藏 · 社媒热度高",
       "blurb": "梵高作品与信件收藏全球之最，《向日葵》系列。",
-      "count": 4
+      "count": 5
     },
     {
       "id": "mauritshuis",
@@ -379,7 +379,7 @@
       "heat": 0.84,
       "heatLabel": "文艺复兴殿堂 · 约500万/年",
       "blurb": "波提切利《维纳斯的诞生》《春》，文艺复兴艺术巅峰。",
-      "count": 5
+      "count": 4
     },
     {
       "id": "prado",
@@ -394,7 +394,7 @@
       "heat": 0.77,
       "heatLabel": "戈雅与委拉斯开兹殿堂",
       "blurb": "《宫娥》《人间乐园》《1808年5月3日》。",
-      "count": 5
+      "count": 4
     },
     {
       "id": "reina-sofia",
@@ -439,7 +439,7 @@
       "heat": 0.76,
       "heatLabel": "全球最大博物馆之一 · 300万+藏品",
       "blurb": "孔雀钟、达·芬奇《持花圣母》、伦勃朗《达娜厄》。",
-      "count": 3
+      "count": 4
     },
     {
       "id": "vatican",
@@ -454,7 +454,7 @@
       "heat": 0.93,
       "heatLabel": "全球TOP2 · 约680万/年",
       "blurb": "米开朗基罗《创世纪》《最后的审判》，拉奥孔群像。",
-      "count": 4
+      "count": 5
     },
     {
       "id": "tokyo-national",
@@ -469,7 +469,7 @@
       "heat": 0.72,
       "heatLabel": "日本最古老博物馆",
       "blurb": "曜变天目、松林图屏风、埴轮武人——日本国宝殿堂。",
-      "count": 1
+      "count": 2
     },
     {
       "id": "korea-national",
@@ -484,7 +484,7 @@
       "heat": 0.69,
       "heatLabel": "亚洲参观人数前列",
       "blurb": "金铜半跏思惟像、新罗金冠、青瓷精品。",
-      "count": 1
+      "count": 2
     },
     {
       "id": "norway-national",
@@ -499,7 +499,7 @@
       "heat": 0.65,
       "heatLabel": "《呐喊》藏地",
       "blurb": "蒙克《呐喊》与挪威艺术全集。",
-      "count": 1
+      "count": 2
     }
   ]
 }

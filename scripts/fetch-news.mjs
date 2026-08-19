@@ -15,11 +15,14 @@ const FEEDS = [
   { url: 'https://www.artnews.com/feed/', name: 'ARTnews', lang: 'en' },
   { url: 'https://www.theartnewspaper.com/rss.xml', name: 'The Art Newspaper', lang: 'en' },
   { url: 'https://www.smithsonianmag.com/rss/latest_articles/', name: 'Smithsonian Magazine', lang: 'en' },
-  // 中文
   // 中文（查询词必须 encodeURIComponent，否则 Google News 拒绝非 ASCII 路径）
   { url: `https://news.google.com/rss/search?q=${encodeURIComponent('博物馆 展览')}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`, name: 'Google News', lang: 'zh' },
   { url: `https://news.google.com/rss/search?q=${encodeURIComponent('美术馆 展览 开幕')}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`, name: 'Google News', lang: 'zh' },
   { url: `https://news.google.com/rss/search?q=${encodeURIComponent('故宫 文物 展览')}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`, name: 'Google News', lang: 'zh' },
+  { url: `https://news.google.com/rss/search?q=${encodeURIComponent('文博 新展 开展')}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`, name: 'Google News', lang: 'zh' },
+  { url: `https://news.google.com/rss/search?q=${encodeURIComponent('艺术展 观展 展讯')}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`, name: 'Google News', lang: 'zh' },
+  { url: `https://news.google.com/rss/search?q=${encodeURIComponent('博物馆 文物 考古 发现')}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`, name: 'Google News', lang: 'zh' },
+  { url: `https://news.google.com/rss/search?q=${encodeURIComponent('美术馆 展览')}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant`, name: 'Google News', lang: 'zh' },
 ];
 
 function isCjk(text) {
