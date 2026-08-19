@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-18T19:58:50.312Z",
+  "picks": [
+    "moma-37",
+    "musee-rodin-83",
+    "aic-40",
+    "npm-taipei-17",
+    "aic-39",
+    "nmc-10",
+    "hermitage-111",
+    "british-museum-56",
+    "vatican-116",
+    "aic-42",
+    "uffizi-97",
+    "louvre-77",
+    "npm-taipei-15",
+    "npm-taipei-16",
+    "nmc-7",
+    "national-gallery-london-65"
+  ],
+  "hotTerms": [
+    "Annunciation Triptych (Merode Altarpiece)",
+    "洛神賦圖",
+    "居魯士文書",
+    "米洛的维纳斯",
+    "汉谟拉比法典"
+  ],
+  "hotMuseumIds": [
+    "louvre",
+    "palace-beijing",
+    "met",
+    "british-museum",
+    "vatican",
+    "nmc",
+    "npm-taipei",
+    "smithsonian",
+    "moma",
+    "van-gogh"
+  ]
+}

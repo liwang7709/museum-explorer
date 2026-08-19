@@ -1,0 +1,50 @@
+name: Daily Data Refresh
+
+on:
+  schedule:
+    # 每天 UTC 21:17（北京时间 05:17）刷新一次数据
+    - cron: '17 21 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Refresh data (museum APIs + Wikidata + news RSS)
+        run: node scripts/build-data.mjs
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "museum-data-bot"
+          git config user.email "museum-data-bot@users.noreply.github.com"
+          git add public/data
+          if git diff --cached --quiet; then
+            echo "数据无变化，跳过提交"
+          else
+            git commit -m "chore(data): daily refresh $(date -u +%F)"
+            git push
+          fi
