@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_dAHrpmvgfFcnmf5wWoViepahqoj2",
+  "orgId": "team_G1RC3fQS3eIzQ0YXRCR7q6hl",
+  "projectName": "museum-explorer",
+  "settings": {
+    "createdAt": 1787197938481,
+    "framework": "vite",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}

@@ -2,7 +2,7 @@ name: Daily Data Refresh
 
 on:
   schedule:
-    # 每天 UTC 21:17（北京时间 05:17）刷新一次数据
+    # 每天 UTC 21:17（北京时间 05:17）刷新数据并重新部署
     - cron: '17 21 * * *'
   workflow_dispatch: {}
 
@@ -38,13 +38,23 @@ jobs:
         run: node scripts/build-data.mjs
 
       - name: Commit and push updated data
+        id: commit
         run: |
           git config user.name "museum-data-bot"
           git config user.email "museum-data-bot@users.noreply.github.com"
           git add public/data
           if git diff --cached --quiet; then
             echo "数据无变化，跳过提交"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "chore(data): daily refresh $(date -u +%F)"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Deploy to Vercel (数据有变化时)
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: |
+          pnpm dlx vercel@latest deploy --prod --yes --token "$VERCEL_TOKEN"
