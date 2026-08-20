@@ -233,16 +233,22 @@ export default function App() {
               onChange={(e) => setQuery(e.target.value)}
             />
           </div>
-          <div className="hot-terms">
-            <span className="hot-label">今日热门：</span>
-            {hotTerms.map((h) => (
-              <span key={h.term} className="hot-term">
-                <button className="chip" onClick={() => pickHotTerm(h.term)}>
-                  {h.term}
-                </button>
-                {h.reason && <span className="hot-term-reason">{h.reason}</span>}
-              </span>
-            ))}
+          <div className="hot-list">
+            <span className="hot-label">今日热门（点文物名可检索）：</span>
+            <div className="hot-table">
+              {hotTerms.map((h) => (
+                <div key={h.term} className="hot-row">
+                  <button
+                    className="hot-term-name"
+                    onClick={() => pickHotTerm(h.term)}
+                    title="点击检索这件文物"
+                  >
+                    {h.term}
+                  </button>
+                  <span className="hot-term-reason">{h.reason}</span>
+                </div>
+              ))}
+            </div>
           </div>
           {searchFocused && (
             <div className="search-results">
