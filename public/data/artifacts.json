@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T06:16:01.341Z",
-  "total": 132,
+  "generatedAt": "2026-08-20T04:06:48.599Z",
+  "total": 142,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
     {
@@ -342,7 +342,7 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%9F%83%E7%88%BE%E9%87%91%E7%9F%B3%E9%9B%95",
       "sourceUrl": "https://www.britishmuseum.org/collection/search?keyword=Parthenon%20Marbles",
       "tags": [],
-      "id": "british-museum-62",
+      "id": "british-museum-65",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -360,7 +360,7 @@
       "tags": [],
       "wikiExtract": "《蒙娜丽莎》 是一幅文艺复兴时期画家列奥纳多·达芬奇所绘的肖像画與其代表作。被認為是意大利文藝復興時期的傑作，也被視為世上最有名、訪問量最大且最常被寫、唱、模仿的藝術作品。該画中描绘了一位表情内敛的、微带笑容的女士，她的笑容有時被称作是「神秘的微笑」。\n",
       "wikiLang": "zh",
-      "id": "louvre-80",
+      "id": "louvre-85",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -378,7 +378,7 @@
       "tags": [],
       "wikiExtract": "米洛的维纳斯 也稱米洛斯的阿芙洛狄忒、断臂维纳斯，是一座著名的古希腊雕像。這座雕像創作於西元前150到125年之間，表现的是希腊神话中爱与美的女神阿芙洛狄忒（罗马神话中与之对应的女神是维纳斯）。這座大理石雕成的雕像高204公分，明顯大於女性人體真實大小。1820年發現於希臘米洛斯島（現代希臘語稱作米洛），故被稱作米洛的維納斯。\n",
       "wikiLang": "zh",
-      "id": "louvre-81",
+      "id": "louvre-86",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -396,7 +396,7 @@
       "tags": [],
       "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
       "wikiLang": "zh",
-      "id": "louvre-82",
+      "id": "louvre-87",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -414,7 +414,7 @@
       "tags": [],
       "wikiExtract": "《美杜莎之筏》 是法國浪漫主義畫家西奥多·杰利柯（1791─1824）在1818年─1819年間畫的油畫。这幅畫是在他27歲時畫的，之後成为法國浪漫主義的標誌。这幅畫的尺寸是491厘米×716厘米。这幅畫描绘了法國海軍的巡防艦美杜莎号沉没之后生還者的求生場面。这場海難發生于1816年7月2日毛里塔尼亞附近的海域，海難當時至少有147人生還，起先是在一隻自製的木筏上面漂流，但是13日后被救起时仅有15人倖存，期間他们缺少食物和饮水，甚至有人吃尸体来维持生命。導致这場海難的原因很大程度上是由于美杜莎号的船長失職無能，而这位船長是法國復辟王朝任命的，因此这一事件後來變成國際醜聞。不過實際上，任命貴族做船長是法國海軍內部的慣例，當時的路易十八無權任命船長，也並無直接參與入这一事件。\n",
       "wikiLang": "zh",
-      "id": "louvre-83",
+      "id": "louvre-88",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -432,7 +432,7 @@
       "tags": [],
       "wikiExtract": "《拿破崙加冕》 是法國畫家雅克-路易·大衛於1807年完成的油畫，描述拿破崙的加冕禮場景。\n",
       "wikiLang": "zh",
-      "id": "louvre-85",
+      "id": "louvre-90",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -450,7 +450,7 @@
       "tags": [],
       "wikiExtract": "大宫女 是法国画家让·奥古斯特·多米尼克·安格尔于1814年创造的一副油画。这幅画是受拿破仑的妹妹，那不勒斯王国王后卡罗琳·波拿巴的委托而做。显示土耳其内宫一裸体宫女。现藏于法国巴黎卢浮宫。\n",
       "wikiLang": "zh",
-      "id": "louvre-86",
+      "id": "louvre-91",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -468,7 +468,7 @@
       "tags": [],
       "wikiExtract": "普西莎与爱神 是安东尼奥·卡诺瓦于1787年受命为上校约翰·坎贝尔创作的雕塑。它刻画出神话中爱人情动的瞬间，被视为新古典主义的杰出作品，同时也带有新兴浪漫主义运动的特点。爱神丘比特以一吻唤醒了已逝去的普西莎，这一雕塑正展现出爱神的爱与温柔。丘比特与普西莎的故事出自阿普列尤斯的《金驴记》，已成为许多艺术创作的素材。\n",
       "wikiLang": "zh",
-      "id": "louvre-87",
+      "id": "louvre-92",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -486,7 +486,7 @@
       "tags": [],
       "wikiExtract": "The Lacemaker is a painting by the Dutch artist Johannes Vermeer (1632–1675), completed around 1669–1670 and held in the Louvre, Paris. The work shows a young woman wearing a yellow bodice, holding up a pair of bobbins in her left hand as she carefully places a pin in the pillow on which she is making her bobbin lace.",
       "wikiLang": "en",
-      "id": "louvre-89",
+      "id": "louvre-94",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -504,7 +504,7 @@
       "tags": [],
       "wikiExtract": "迦拿的婚礼，或译作加纳婚宴，是《约翰福音》所记载而三卷《对观福音》都没有记载的一个事件。约翰记载说耶稣和他的门徒一同参加在迦拿举行的一场犹太婚礼。当主人的酒用尽时，耶稣的母亲马利亚（在约翰福音中没有提到名字）告诉耶稣说，“他们没有酒了。”耶稣回答说，“妇人，這與我和你有什么相干？我的时候还没有到。”耶稣的母亲对仆人说，“他告诉你们什么，你们就做什么。”。耶稣命令仆人将空石缸都盛满水。他们照此办理，于是耶稣又告诉他们舀出一些水来，送给首席侍应。侍应品尝时，水已经变成了酒，他并不知道耶稣所做的。然后他对新郎说，新郎违背了宴席上先上好酒的风俗，把好酒留到最后才上。这是耶稣所行的第一个神迹，用以展示他的荣耀，并且他的门徒就信入了他。\n",
       "wikiLang": "zh",
-      "id": "louvre-90",
+      "id": "louvre-95",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -522,7 +522,7 @@
       "tags": [],
       "wikiExtract": "拉奧孔與兒子們，亦稱為拉奥孔群雕，是一座著名的大理石雕像，現藏於梵蒂岡博物館。該雕像根據古羅馬作家老普林尼所称是由三位来自于罗得岛的雕刻家：艾格桑德、阿提諾多洛斯（Athenodoros）及波利多魯斯（Polydorus）所創造的，表现了特洛伊祭司拉奥孔與他的兒子Antiphantes和Thymbraeus被海蛇纏繞而死的情景。\n",
       "wikiLang": "zh",
-      "id": "vatican-121",
+      "id": "vatican-131",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -540,7 +540,7 @@
       "tags": [],
       "wikiExtract": "居魯士文書 又譯居魯士圓柱或居魯士銘筒，是古代的一個泥製圓筒，現已破裂為幾件碎片，以居魯士大帝的名義由古代阿卡德語楔形文字所寫成，在美索不达米亚的巴比倫遺跡中出土，現存於大英博物館。它寫成的年代約為公元前6世紀。\n",
       "wikiLang": "zh",
-      "id": "british-museum-65",
+      "id": "british-museum-68",
       "popularity": 0.9989999999999999,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -574,7 +574,7 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%8E%B1%E7%89%B9%E9%A3%9E%E8%A1%8C%E5%99%A8",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Wright%20Flyer",
       "tags": [],
-      "id": "smithsonian-52",
+      "id": "smithsonian-54",
       "popularity": 0.994,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -592,7 +592,7 @@
       "tags": [],
       "wikiExtract": "《漢摩拉比法典》，是古巴比伦第六代国王漢摩拉比颁布的一部法律，約公元前1776年 頒布。\n",
       "wikiLang": "zh",
-      "id": "louvre-88",
+      "id": "louvre-93",
       "popularity": 0.992,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -630,7 +630,7 @@
       "tags": [],
       "wikiExtract": "《自由引導人民》，或譯稱《自由領導人民》，是法国浪漫主義畫家歐仁·德拉克洛瓦為紀念1830年法國七月革命而創作的作品。此画最早在1831年的巴黎沙龙上展出，而后被巴黎羅浮宫收藏至今。\n",
       "wikiLang": "zh",
-      "id": "louvre-84",
+      "id": "louvre-89",
       "popularity": 0.99,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -648,6 +648,8 @@
       "tags": [
         "MET"
       ],
+      "wikiExtract": "Autumn Rhythm  is a 1950 abstract expressionist painting by American artist Jackson Pollock in the collection of the Metropolitan Museum of Art in New York City. The work is a distinguished example of Pollock's 1947-50 poured-painting style, and is often considered one of his most notable works.",
+      "wikiLang": "en",
       "id": "met-37",
       "popularity": 0.989,
       "imageSource": "official",
@@ -666,7 +668,7 @@
       "tags": [],
       "wikiExtract": "希望鑽石 是世界上现存最大的一颗蓝色钻石，原產於印度貢土爾的科魯爾礦場，於17世紀開採，該鑽石重達45.52克拉（9.104克）。由於含有微量的硼，因此呈現藍色的色調，其卓越的大小，揭示了關於鑽石形成的新資訊。\n",
       "wikiLang": "zh",
-      "id": "smithsonian-53",
+      "id": "smithsonian-55",
       "popularity": 0.987,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -722,7 +724,7 @@
       "tags": [],
       "wikiExtract": "《雅典學院》，一译《雅典学派》，是義大利文藝復興艺术家拉斐尔因受任装饰梵蒂冈使徒宫，而在1509年至1510年间创作的一幅濕壁畫，位于拉斐尔房间的签字厅， 目前是梵蒂冈博物馆的一部分。此作被廣泛認定為拉斐爾的代表作之一，象征著文藝復興全盛期的精神。\n",
       "wikiLang": "zh",
-      "id": "vatican-124",
+      "id": "vatican-134",
       "popularity": 0.9780000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -740,7 +742,7 @@
       "tags": [],
       "wikiExtract": "《創造亞當》 是米開朗基羅創作的西斯汀小堂天頂畫《創世紀》的一部分，創作於1511至1512年間的文藝復興全盛期。這幅壁畫描繪的是《聖經·創世紀》中上帝創造人類始祖亞當的情形，按照事情發展順序是創世紀天頂畫中的第四幅。作為世界名畫之一，後世出現了許多《創造亞當》的仿作。\n",
       "wikiLang": "zh",
-      "id": "vatican-122",
+      "id": "vatican-132",
       "popularity": 0.9770000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -758,7 +760,7 @@
       "tags": [],
       "wikiExtract": "《最后的审判》 是意大利文艺复兴盛期画家和雕塑家米开朗基罗於1534年至1541年期間為西斯汀小堂繪製的一幅巨型祭壇畫。\n",
       "wikiLang": "zh",
-      "id": "vatican-123",
+      "id": "vatican-133",
       "popularity": 0.9770000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -774,7 +776,7 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%B4%9D%E5%AE%81%E9%9D%92%E9%93%9C%E5%99%A8",
       "sourceUrl": "https://www.britishmuseum.org/collection/search?keyword=Benin%20Bronzes",
       "tags": [],
-      "id": "british-museum-66",
+      "id": "british-museum-69",
       "popularity": 0.976,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -810,8 +812,24 @@
       "tags": [],
       "wikiExtract": "The Sutton Hoo helmet is a decorated Anglo-Saxon helmet found during a 1939 excavation of the Sutton Hoo ship-burial. It was thought to be buried around the years c. 620–625 AD and is widely associated with an Anglo-Saxon leader, King Rædwald of East Anglia; its elaborate decoration may have given it a secondary function akin to a crown. The helmet was both a functional piece of armour and a decorative piece of metal",
       "wikiLang": "en",
-      "id": "british-museum-64",
+      "id": "british-museum-67",
       "popularity": 0.972,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "moma",
+      "qid": "Q3877090",
+      "title": "Water Lilies",
+      "titleEn": "Water Lilies",
+      "description": "Triptych by Claude Monet (MoMA, 666.1959.a-c, Catalogue Raisonné no.s 1972-1973-1974)",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/WLA%20moma%20Monet%20Reflections%20of%20Clouds%20on%20the%20Water-Lily%20Pond.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/WLA%20moma%20Monet%20Reflections%20of%20Clouds%20on%20the%20Water-Lily%20Pond.jpg?width=420",
+      "wikiUrl": null,
+      "sourceUrl": "https://www.moma.org/collection/?q=Water%20Lilies%20(Monet%2C%20MoMA)",
+      "tags": [],
+      "id": "moma-46",
+      "popularity": 0.968,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -846,7 +864,7 @@
       "tags": [],
       "wikiExtract": "The royal Lion Hunt of Ashurbanipal is shown on a famous group of Assyrian palace reliefs from the North Palace of Nineveh that are now displayed in room 10a of the British Museum. They are widely regarded as \"the supreme masterpieces of Assyrian art\".",
       "wikiLang": "en",
-      "id": "british-museum-67",
+      "id": "british-museum-70",
       "popularity": 0.964,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -902,7 +920,7 @@
       "tags": [],
       "wikiExtract": "羅塞塔石碑，是一塊製作於公元前196年的花崗閃長岩石碑，原本只是一塊刻有古埃及法老托勒密五世詔書的石碑，但這塊石碑同時刻有同一段内容的三種不同文字版本，让近代的考古學家得以有機會對照埃及語和希臘語版本的內容後，解讀出已經失傳千餘年的埃及象形文之意義與結構，而成為今日研究古埃及歷史的重要里程碑。羅塞塔石碑最早是在1799年時由法軍上尉皮埃尔·弗朗索瓦·札維耶·布夏賀在一個埃及港灣城市羅塞塔（今日亦稱為拉希德）發現，但在英法兩國的戰爭之中輾轉到英國手中，自1802年起保存於大英博物館中並公開展示。\n",
       "wikiLang": "zh",
-      "id": "british-museum-61",
+      "id": "british-museum-64",
       "popularity": 0.957,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -938,7 +956,7 @@
       "tags": [],
       "wikiExtract": "The Star-Spangled Banner, or the Great Garrison Flag, was the garrison flag that flew over Fort McHenry in Baltimore Harbor during the naval portion of the Battle of Baltimore during the War of 1812. It is on exhibit at the National Museum of American History, Smithsonian Institution. Seeing the flag flying over Fort McHenry on the morning of September 14, 1814, after the battle ended, Francis Scott Key was inspired ",
       "wikiLang": "en",
-      "id": "smithsonian-54",
+      "id": "smithsonian-57",
       "popularity": 0.9560000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -956,7 +974,7 @@
       "tags": [],
       "wikiExtract": "《蓝色与金色的和谐：孔雀厅》 是詹姆斯·惠斯勒於1876-1877年所创作的两幅帆布油画，采用油画颜料和镀金叶饰。原为英国船王、惠斯勒的主要赞助人弗雷德里克·雷兰 的伦敦住宅设计的餐厅装饰。房间尺寸：高13英尺11又5⁄8英寸，宽33英尺2英寸，深19英尺9又1⁄2英寸 现藏于華盛頓哥倫比亞特區弗瑞爾藝廊。\n",
       "wikiLang": "zh",
-      "id": "smithsonian-55",
+      "id": "smithsonian-58",
       "popularity": 0.9560000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -972,7 +990,7 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%A7%82%E6%99%AF%E6%AE%BF%E7%9A%84%E9%98%BF%E6%B3%A2%E7%BD%97",
       "sourceUrl": "https://www.museivaticani.va",
       "tags": [],
-      "id": "vatican-125",
+      "id": "vatican-135",
       "popularity": 0.9510000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1044,7 +1062,7 @@
       "tags": [],
       "wikiExtract": "刘易斯岛象棋棋子 or Uig chessmen(因其发现地而命名)是一组12世纪用海象牙雕刻的国际象棋棋子，1881年在苏格兰的刘易斯岛上被发现。此批文物出土时一共有93件：包括78枚棋子，14个棋子底座和1个皮带扣。现在其中82件收藏在伦敦的大英博物馆，剩下11件收藏在爱丁堡的苏格兰国立博物馆。\n",
       "wikiLang": "zh",
-      "id": "british-museum-63",
+      "id": "british-museum-66",
       "popularity": 0.942,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1086,6 +1104,22 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "smithsonian",
+      "qid": "Q843007",
+      "title": "紅寶石鞋",
+      "titleEn": "ruby slippers",
+      "description": "any of several pairs of shoes worn by Judy Garland and stunt doubles portraying Dorothy Gale in the 1939 film The Wizard of Oz",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dorothy's%20Ruby%20Slippers%2C%20Wizard%20of%20Oz%201938.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Dorothy's%20Ruby%20Slippers%2C%20Wizard%20of%20Oz%201938.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E7%B4%85%E5%AF%B6%E7%9F%B3%E9%9E%8B",
+      "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Ruby%20slippers%20(Wizard%20of%20Oz)",
+      "tags": [],
+      "id": "smithsonian-56",
+      "popularity": 0.933,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "van-gogh",
       "qid": "Q1432536",
       "title": "盛开的杏花",
@@ -1098,7 +1132,7 @@
       "tags": [],
       "wikiExtract": "《盛开的杏花》 是梵高在1888年至1890年间在法国南部阿尔勒和圣雷米地区绘制的一组数幅画作。虽然翻译为杏花，Almond Blossoms实际上是指扁桃花。对于梵高来说，开花的树具有特殊的意义，它们代表着觉醒和希望。他喜欢这些开花的树，并且在绘制它们的过程中找到乐趣。这些作品受到印象派、点彩画法及日本木刻的影响。《盛开的杏花》是作为他新出生的侄子（弟弟提奥与弟媳乔的孩子）的贺礼。\n",
       "wikiLang": "zh",
-      "id": "van-gogh-99",
+      "id": "van-gogh-106",
       "popularity": 0.9309999999999999,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1136,7 +1170,7 @@
       ],
       "wikiExtract": "《美国哥特式》，又译作《美式哥特》，是美国画家格兰特·伍德于1930年创作的一幅油彩画，现藏于芝加哥艺术学院。这幅画作是最为知名的美国画面和文化符号之一，也是在美国流行文化和艺术史中最常被影射的美术作品之一。\n",
       "wikiLang": "zh",
-      "id": "aic-46",
+      "id": "aic-47",
       "popularity": 0.9259999999999999,
       "imageSource": "official",
       "sourceLabel": "官网开放数据"
@@ -1204,7 +1238,7 @@
       "tags": [],
       "wikiExtract": "圣路易斯精神号 是一款单引擎、单座的單翼機，查爾斯·林德伯格曾于1927 年5月20日至21日驾驶該飛機。當時他从纽约州長島起飛，並飛躍大西洋，最終抵達法国巴黎。這也是人類歷史上首次有人單獨駕駛飛機跨越大西洋。 聖路易精神號目前在美国国家航空航天博物馆主入口附近的一個畫廊中展出。\n",
       "wikiLang": "zh",
-      "id": "smithsonian-51",
+      "id": "smithsonian-53",
       "popularity": 0.911,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1224,7 +1258,7 @@
       ],
       "wikiExtract": "《睡莲》 是法国印象派画家莫奈所绘的系列油畫作品，總共約有250幅。\n",
       "wikiLang": "zh",
-      "id": "aic-50",
+      "id": "aic-52",
       "popularity": 0.9099999999999999,
       "imageSource": "official",
       "sourceLabel": "官网开放数据"
@@ -1242,7 +1276,7 @@
       "tags": [],
       "wikiExtract": "《勇莽號戰艦被拖往最後泊位拆解，1838年》 是英國藝術家威廉·透纳於1838年創作的一幅油畫，並於1839年在皇家艺术学院展出。\n",
       "wikiLang": "zh",
-      "id": "national-gallery-london-69",
+      "id": "national-gallery-london-72",
       "popularity": 0.907,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1260,7 +1294,7 @@
       "tags": [],
       "wikiExtract": "圣家族 是现存唯一一副由成熟阶段的米开朗基罗完成的面板画。（另外还有两幅未完成的面板画，一副为《埋葬》，另一幅被称为《曼彻斯特圣母》。这两幅画一般被认为是米开朗基罗的作品，现藏于伦敦国家美术馆。《圣家族》现藏于意大利佛罗伦萨的乌菲兹美术馆,而且仍保存于原来的画框之中。这幅画可能是阿格诺罗·多尼 为了纪念他与托斯卡纳权贵家族斯特罗齐家族的女儿玛达莱娜·斯特罗兹 的婚姻而委托米开朗基罗创作的。这幅画的形式为“tondo”，即意大利语中的“圆形”。这一形状在文艺复兴时期常与“家庭”这一概念相勾连。\n",
       "wikiLang": "zh",
-      "id": "uffizi-108",
+      "id": "uffizi-117",
       "popularity": 0.907,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1278,7 +1312,7 @@
       "tags": [],
       "wikiExtract": "《春》（Primavera）是意大利画家桑德罗·波提切利创作于1482年的名画。1482年他以诗人波利蒂安歌颂爱神维纳斯的长诗为主题，为美第奇别墅所画。这幅画和《维纳斯的诞生》一起，成为波提切利一生中最著名的两幅画作。现藏于意大利佛罗伦萨的乌菲兹美术馆。\n",
       "wikiLang": "zh",
-      "id": "uffizi-106",
+      "id": "uffizi-114",
       "popularity": 0.9059999999999999,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1296,7 +1330,23 @@
       "tags": [],
       "wikiExtract": "The Hay Wain – originally titled Landscape: Noon – is a painting by John Constable, completed in 1821, which depicts a rural scene on the River Stour between the English counties of Suffolk and Essex. It hangs in the National Gallery in London and is regarded as \"Constable's most famous image\" and one of the greatest and most popular English paintings. It is considered as one of the quintessential paintings from the ",
       "wikiLang": "en",
-      "id": "national-gallery-london-70",
+      "id": "national-gallery-london-73",
+      "popularity": 0.904,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "national-gallery-london",
+      "qid": "Q21948567",
+      "title": "Sunflowers",
+      "titleEn": "Sunflowers",
+      "description": "painting by Vincent van Gogh from the Sunflowers series in the National Gallery, London",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Sunflowers%20(1888%2C%20National%20Gallery%20London).jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Sunflowers%20(1888%2C%20National%20Gallery%20London).jpg?width=420",
+      "wikiUrl": null,
+      "sourceUrl": "https://www.nationalgallery.org.uk/search?q=Sunflowers%20(Van%20Gogh%2C%20London)",
+      "tags": [],
+      "id": "national-gallery-london-74",
       "popularity": 0.904,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1316,7 +1366,7 @@
       ],
       "wikiExtract": "夜遊者（Nighthawks）是美國畫家愛德華·霍普的代表作，描繪人們坐在城裡的餐廳吃晚餐。它除了是畫家的代表作以外，也是一件最為人所熟知的美國藝術品之一。它現在被收藏於芝加哥藝術學院。\n",
       "wikiLang": "zh",
-      "id": "aic-47",
+      "id": "aic-48",
       "popularity": 0.9029999999999999,
       "imageSource": "official",
       "sourceLabel": "官网开放数据"
@@ -1334,7 +1384,7 @@
       "tags": [],
       "wikiExtract": "《阿诺菲尼的婚礼》，又名《阿尔诺非尼夫妇》又名《阿诺菲尼的肖像》，由荷兰画家扬·范·艾克画于1434年。该画收藏于英國國家美術館。\n",
       "wikiLang": "zh",
-      "id": "national-gallery-london-68",
+      "id": "national-gallery-london-71",
       "popularity": 0.902,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1352,10 +1402,30 @@
       "tags": [],
       "wikiExtract": "《吃馬鈴薯的人》，又译食薯者，是荷兰后印象派画家文森特·梵高创作于1885年的一幅油画。该画现藏于阿姆斯特丹的梵高博物馆，這幅畫的原始油畫素描現藏於奧特洛的克勒勒-米勒博物館，圖像的石版畫收藏在紐約市的現代藝術博物館等收藏品中。這幅畫被認為是梵高的傑作之一。\n",
       "wikiLang": "zh",
-      "id": "van-gogh-98",
+      "id": "van-gogh-105",
       "popularity": 0.902,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "aic",
+      "qid": "Q19961135",
+      "title": "The Bedroom",
+      "titleEn": "The Bedroom",
+      "description": "painting by Pieter de Hooch, NGA — Vincent van Gogh  ·  Date: 1889  ·  Medium: Oil on canvas  ·  Culture: Saint-Rémy-de-Provence  ·  Department: Art Institute of Chicago",
+      "imageUrl": "https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/1200,/0/default.jpg",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20-%20The%20Bedroom%20-%20Google%20Art%20Project.jpg?width=420",
+      "wikiUrl": "https://en.wikipedia.org/wiki/The_Bedroom_(Widener_Collection)",
+      "sourceUrl": "https://www.artic.edu/artworks/28560",
+      "tags": [
+        "AIC"
+      ],
+      "wikiExtract": "The Bedroom (1658–1660) is an oil-on-canvas painting by the Dutch painter Pieter de Hooch. It is an example of Dutch Golden Age painting and is part of the collection of the National Gallery of Art in Washington, D.C., United States.",
+      "wikiLang": "en",
+      "id": "aic-51",
+      "popularity": 0.8999999999999999,
+      "imageSource": "official",
+      "sourceLabel": "官网开放数据"
     },
     {
       "museumId": "van-gogh",
@@ -1370,7 +1440,7 @@
       "tags": [],
       "wikiExtract": "《向日葵》是荷蘭畫家梵谷繪畫的一系列靜物油畫。當中有2幅繪有15朵向日葵，1幅繪有14朵向日葵，另有兩幅繪有12朵向日葵。畫家1888年8月在法國南部阿爾勒繪畫了第一幅15朵的《向日葵》（藏於英國倫敦英国国家美术馆）和第一幅12朵的《向日葵》（藏於德國慕尼黑新美術館），其餘的作品在翌年1月繪成。全部作品都畫在93 × 72 公分 的帆布上。1887年他另外在巴黎繪畫了一套四幅的向日葵靜物畫。\n",
       "wikiLang": "zh",
-      "id": "van-gogh-97",
+      "id": "van-gogh-104",
       "popularity": 0.892,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1424,7 +1494,7 @@
       "tags": [],
       "wikiExtract": "奥菲莉娅（Ophelia）是英国画家約翰·艾佛雷特·米萊 于1851～1852年绘制的布面油画，為米莱個人以及前拉斐尔派的经典作品，现藏于伦敦泰特美术馆，是镇馆之宝之一。\n",
       "wikiLang": "zh",
-      "id": "tate-73",
+      "id": "tate-78",
       "popularity": 0.882,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1442,7 +1512,7 @@
       "tags": [],
       "wikiExtract": "Self-Portrait with Bandaged Ear is an 1889 self-portrait by Dutch Post-Impressionist artist Vincent van Gogh. The painting is in the collection of the Courtauld Institute of Art and on display in the Gallery at Somerset House. The painting includes inspiration from Japanese woodblock printing.",
       "wikiLang": "en",
-      "id": "van-gogh-100",
+      "id": "van-gogh-107",
       "popularity": 0.881,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1460,7 +1530,7 @@
       "tags": [],
       "wikiExtract": "The Lady of Shalott is a painting of 1888 by the English painter John William Waterhouse. It is a representation of the ending of Alfred, Lord Tennyson's 1832 poem of the same name. Waterhouse painted three versions of this character, in 1888, 1894 and 1915. It is one of his most famous works, which adopted much of the style of the Pre-Raphaelite Brotherhood, though Waterhouse was painting several decades after the B",
       "wikiLang": "en",
-      "id": "tate-74",
+      "id": "tate-79",
       "popularity": 0.876,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1512,7 +1582,7 @@
       "tags": [],
       "wikiExtract": "《维纳斯的诞生》 是意大利文艺复兴画家桑德罗·波提切利的蛋彩画作，绘于亚麻布上，纵172.5厘米、横278.5厘米，现藏佛罗伦萨乌菲兹美术馆，藏品号为1890年清册第878号。画面中央，维纳斯赤身立于一枚扇贝壳上，右臂掩胸、左手持髮遮身；左侧一对相拥的有翼风神鼓颊送风，把贝壳吹向岸边；右侧一名少女张开绣花斗篷，等着为她披上。近人多指出，画上呈现的与其说是女神从海沫中诞生的瞬间，不如说是她随风漂到岸边的登陆场面。\n",
       "wikiLang": "zh",
-      "id": "uffizi-105",
+      "id": "uffizi-113",
       "popularity": 0.873,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1530,8 +1600,26 @@
       "tags": [],
       "wikiExtract": "《倒牛奶的女僕》 是一幅由荷蘭黃金時代畫家揚·維梅爾繪成的油畫，主題是一名倒牛奶的廚房女僕。此畫現藏於阿姆斯特丹國家博物館，是館中珍藏之一。\n",
       "wikiLang": "zh",
-      "id": "rijksmuseum-95",
+      "id": "rijksmuseum-101",
       "popularity": 0.872,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "rijksmuseum",
+      "qid": "Q192110",
+      "title": "自画像",
+      "titleEn": "self-portrait",
+      "description": "藝術家根據本尊所創作的畫像",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCrer%20-%20Selbstbildnis%20im%20Pelzrock%20-%20Alte%20Pinakothek.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCrer%20-%20Selbstbildnis%20im%20Pelzrock%20-%20Alte%20Pinakothek.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%BB%E5%83%8F",
+      "sourceUrl": "https://www.rijksmuseum.nl/en/search?q=Self-Portrait%20(Rembrandt%2C%20Rijksmuseum)",
+      "tags": [],
+      "wikiExtract": "自画像是指作者以自己為對象所繪畫的肖像作品。\n",
+      "wikiLang": "zh",
+      "id": "rijksmuseum-103",
+      "popularity": 0.869,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -1566,7 +1654,7 @@
       "tags": [],
       "wikiExtract": "The Bedroom (1658–1660) is an oil-on-canvas painting by the Dutch painter Pieter de Hooch. It is an example of Dutch Golden Age painting and is part of the collection of the National Gallery of Art in Washington, D.C., United States.",
       "wikiLang": "en",
-      "id": "van-gogh-101",
+      "id": "van-gogh-108",
       "popularity": 0.866,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1584,7 +1672,7 @@
       "tags": [],
       "wikiExtract": "《出訪英國宮廷的法國大使》 是一幅德國畫家小汉斯·霍尔拜因所創作的油畫，它創作於伊麗莎白一世出生當年。 《出訪英國宮廷的法國大使》除了包含雙人全身肖像以外，還有幾個物體，其含義產生許多爭論，目前收藏在倫敦國家畫廊。\n",
       "wikiLang": "zh",
-      "id": "national-gallery-london-71",
+      "id": "national-gallery-london-75",
       "popularity": 0.8630000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1602,7 +1690,7 @@
       "tags": [],
       "wikiExtract": "蜗牛是對所有陸生螺類的一個總稱，陸生軟體動物，在生物學上泛指软体动物门腹足綱真有肺总目中拥有外壳的所有物种（没有外壳的真有肺类称作蛞蝓）。虽然蝸牛一詞囊括许多不同科、属的动物，但其身體結構都非常相似。\n",
       "wikiLang": "zh",
-      "id": "tate-76",
+      "id": "tate-81",
       "popularity": 0.8580000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1638,7 +1726,7 @@
       "tags": [],
       "wikiExtract": "吉内薇拉‧班琪 是15世纪佛罗伦萨的一位贵族。她因睿智而广受同时代人的敬仰。达‧芬奇为她创作了一幅肖像画。1967年，这幅画被艾尔莎‧梅隆‧布鲁斯基金会以当时创纪录的5百万美金的高价从列支敦士登王室的手中获取。这幅木板画现收藏在坐落于华盛顿的國家藝廊。这是唯一一幅能在美洲見到的达‧芬奇画作。\n",
       "wikiLang": "zh",
-      "id": "nga-56",
+      "id": "nga-59",
       "popularity": 0.858,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1654,7 +1742,7 @@
       "wikiUrl": null,
       "sourceUrl": "https://www.nationalgallery.org.uk/search?q=The%20Virgin%20of%20the%20Rocks%20(London)",
       "tags": [],
-      "id": "national-gallery-london-72",
+      "id": "national-gallery-london-77",
       "popularity": 0.8570000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1672,7 +1760,7 @@
       "tags": [],
       "wikiExtract": "《乌尔比诺的维纳斯》 是意大利文艺复兴后期画家提香创作于1538年的一副油画。该画受乔尔乔内《沉睡的维纳斯》的影响，描繪了希腊神话爱神维纳斯赤裸躺臥的情景。现藏于意大利佛罗伦萨的乌菲兹美术馆。\n",
       "wikiLang": "zh",
-      "id": "uffizi-107",
+      "id": "uffizi-115",
       "popularity": 0.857,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1690,7 +1778,7 @@
       "tags": [],
       "wikiExtract": "《哺乳聖母》 是李奧納多·達·文西在15世紀末期繪製的一幅蛋彩畫，以聖母瑪利亞哺育聖嬰耶穌為主題。意大利文藝復興時期有許多畫家仿照這幅作品進行創作。此畫現藏於俄羅斯聖彼得堡埃爾米塔日博物館。\n",
       "wikiLang": "zh",
-      "id": "hermitage-118",
+      "id": "hermitage-127",
       "popularity": 0.856,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1708,7 +1796,7 @@
       "tags": [],
       "wikiExtract": "犹太新娘 是伦勃朗作于大约1667年的一幅画作。该画作的名字由一位19世纪的阿姆斯特丹的收藏家所取，他认为这幅画描绘的是一位犹太父亲为自己出嫁的女儿带上项链的场景。但这一解释后来不再被人们广泛承认。关于画中两人身份的说法有很多，但不可否认的是伦勃朗在此画中表现的崇高与深刻的爱情。该画现藏于阿姆斯特丹国家博物馆。\n",
       "wikiLang": "zh",
-      "id": "rijksmuseum-96",
+      "id": "rijksmuseum-102",
       "popularity": 0.8550000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1724,8 +1812,26 @@
       "wikiUrl": null,
       "sourceUrl": "https://www.nga.gov/collection-search-result.html?q=The%20Alba%20Madonna",
       "tags": [],
-      "id": "nga-57",
+      "id": "nga-60",
       "popularity": 0.851,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "uffizi",
+      "qid": "Q160730",
+      "title": "美杜莎",
+      "titleEn": "Medusa",
+      "description": "希臘神話中的女妖",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Medusa%20by%20Carvaggio.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Medusa%20by%20Carvaggio.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E6%9D%9C%E8%8E%8E",
+      "sourceUrl": "https://www.uffizi.it/en/artworks?search=Medusa%20(Caravaggio)",
+      "tags": [],
+      "wikiExtract": "美杜莎，或譯墨杜萨，是希腊神话人物，戈爾貢之一。她通常被描述為有翅膀的女性，頭髮內有活的毒蛇。凝視她眼睛的人都會變成石頭。大多資料將她描述為佛西士（Phorcys）和克托（Ceto）的女兒，但希吉努斯则记载她是戈爾貢和克托的女兒（或她與姐妹為堤豐和艾奇娜的孩子）。\n",
+      "wikiLang": "zh",
+      "id": "uffizi-116",
+      "popularity": 0.85,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -1744,10 +1850,28 @@
       ],
       "wikiExtract": "《大碗岛的星期天下午》，或译《大嘉特島的星期日下午》，是十九世紀法国画家乔治·秀拉 最著名的代表作之一，同时也是一幅典型的点描画派作品。\n",
       "wikiLang": "zh",
-      "id": "aic-48",
+      "id": "aic-49",
       "popularity": 0.849,
       "imageSource": "official",
       "sourceLabel": "官网开放数据"
+    },
+    {
+      "museumId": "hermitage",
+      "qid": "Q512755",
+      "title": "浪子回頭",
+      "titleEn": "The Return of the Prodigal Son",
+      "description": "painting by Rembrandt",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz%20van%20Rijn%20-%20Return%20of%20the%20Prodigal%20Son%20-%20Google%20Art%20Project.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz%20van%20Rijn%20-%20Return%20of%20the%20Prodigal%20Son%20-%20Google%20Art%20Project.jpg?width=420",
+      "wikiUrl": "https://en.wikipedia.org/wiki/The_Return_of_the_Prodigal_Son_(Rembrandt)",
+      "sourceUrl": "https://www.hermitagemuseum.org",
+      "tags": [],
+      "wikiExtract": "The Return of the Prodigal Son is an oil painting by Rembrandt, part of the collection of the Hermitage Museum in St. Petersburg. It is among the Dutch master's final works, likely completed within two years of his death in 1669. Depicting the moment of the prodigal son's return to his father in the Biblical parable, it is a renowned work described by art historian Kenneth Clark as \"a picture which those who have see",
+      "wikiLang": "en",
+      "id": "hermitage-129",
+      "popularity": 0.843,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
     },
     {
       "museumId": "aic",
@@ -1764,7 +1888,7 @@
       ],
       "wikiExtract": "The Old Guitarist is an oil painting by Pablo Picasso, which he created in late 1903 and early 1904. It depicts an elderly musician, a haggard man with threadbare clothing, who is hunched over his guitar while playing in the streets of Barcelona, Spain. It is on display at the Art Institute of Chicago as part of the Helen Birch Bartlett Memorial Collection.",
       "wikiLang": "en",
-      "id": "aic-49",
+      "id": "aic-50",
       "popularity": 0.842,
       "imageSource": "official",
       "sourceLabel": "官网开放数据"
@@ -1782,8 +1906,26 @@
       "tags": [],
       "wikiExtract": "Danaë is a painting by the Dutch artist Rembrandt van Rijn. It was first completed in 1636, but Rembrandt reworked it significantly by 1643 at the latest. Once part of Pierre Crozat's collection, it has been in the Hermitage Museum, in St. Petersburg, Russia, since the 18th century.",
       "wikiLang": "en",
-      "id": "hermitage-119",
+      "id": "hermitage-128",
       "popularity": 0.838,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "national-gallery-london",
+      "qid": "Q2293953",
+      "title": "维纳斯与战神",
+      "titleEn": "Venus and Mars",
+      "description": "painting by Sandro Botticelli",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Venus%20and%20Mars.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Venus%20and%20Mars.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E7%BA%B3%E6%96%AF%E4%B8%8E%E6%88%98%E7%A5%9E",
+      "sourceUrl": "https://www.nationalgallery.org.uk/search?q=Venus%20and%20Mars%20(Botticelli)",
+      "tags": [],
+      "wikiExtract": "维纳斯与战神 是桑德罗·波提切利約於1483年繪成的作品，现藏于英国倫敦的国家美术馆。\n",
+      "wikiLang": "zh",
+      "id": "national-gallery-london-76",
+      "popularity": 0.8250000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -1798,7 +1940,7 @@
       "wikiUrl": null,
       "sourceUrl": "https://www.tate.org.uk/search?q=Rain%2C%20Steam%20and%20Speed",
       "tags": [],
-      "id": "tate-75",
+      "id": "tate-80",
       "popularity": 0.8240000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1816,7 +1958,7 @@
       "tags": [],
       "wikiExtract": "《宮女》，是西班牙黃金時代畫家委拉斯开兹在1656年創作的一幅畫作，現收藏於馬德里的普拉多博物館。此作品帶有複雜且難解的構圖，引起了關於實景與虛景的難題；並建構了觀察者與畫中人物間的不穩定關係。由於這些複雜性，《宮女》是西方繪畫中經歷最多分析與研究的作品之一。\n",
       "wikiLang": "zh",
-      "id": "prado-109",
+      "id": "prado-118",
       "popularity": 0.8200000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1834,7 +1976,7 @@
       "tags": [],
       "wikiExtract": "The Peacock Clock is a large automaton featuring three life-sized mechanical birds. It was manufactured by the entrepreneur James Cox in the 2nd half of the 18th century, and through the influence of Grigory Potemkin, it was acquired by Catherine the Great in 1781. Today, it is a prominent exhibit in the collections of the Hermitage Museum in Saint Petersburg. The clock is also shown daily on the Russian TV channel R",
       "wikiLang": "en",
-      "id": "hermitage-117",
+      "id": "hermitage-126",
       "popularity": 0.8180000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1870,7 +2012,7 @@
       "tags": [],
       "wikiExtract": "《夜巡》 是17世纪荷兰黄金时代画家伦勃朗的名画。完成于1642年，是荷兰肖像画黄金时代的杰作，现在是荷兰阿姆斯特丹博物馆的馆藏，但一般在阿姆斯特丹国家博物馆展出。\n",
       "wikiLang": "zh",
-      "id": "rijksmuseum-94",
+      "id": "rijksmuseum-100",
       "popularity": 0.811,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1888,7 +2030,7 @@
       "tags": [],
       "wikiExtract": "1808年5月3日的枪杀，又称1808年5月3日夜枪杀起义者，是西班牙畫家弗朗西斯科·戈雅創作於1814年之作品，描繪西班牙半岛战争初期的情境。此作品現存於馬德里普拉多博物馆。\n",
       "wikiLang": "zh",
-      "id": "prado-111",
+      "id": "prado-120",
       "popularity": 0.807,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1922,7 +2064,7 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E7%99%BD%E6%A2%85%E5%9B%BE%E5%B1%8F%E9%A3%8E",
       "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Red%20and%20White%20Plum%20Blossoms%20(K%C5%8Drin)",
       "tags": [],
-      "id": "tokyo-national-127",
+      "id": "tokyo-national-137",
       "popularity": 0.8049999999999999,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1958,7 +2100,7 @@
       "tags": [],
       "wikiExtract": "《人间乐园》是早期荷兰大师耶羅尼米斯·波希在他四十岁至六十岁之间（即公元1490年至1510年之间）在橡木板上绘制的三联油画作品。自1939年起为西班牙马德里的普拉多博物馆馆藏。\n由于人们对博斯的生平或创作目的知之甚少，对这幅作品的创作意图可以解读为多种形式：对世俗肉体放纵的告诫；对生活的诱惑将承受的风险的严重警告，再到对终极性愉悦的唤醒。它所象征意义的复杂性，特别是中间的那一幅，引起了长达几个世纪的广泛的学术解读。二十世纪的艺术史学家对三联画的中间那幅到底是想表达是一个道德警告还是想描绘失乐园的全貌也存在着分歧。\n",
       "wikiLang": "zh",
-      "id": "prado-110",
+      "id": "prado-119",
       "popularity": 0.794,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1974,7 +2116,7 @@
       "wikiUrl": null,
       "sourceUrl": "https://www.nga.gov/collection-search-result.html?q=A%20Woman%20with%20a%20Lute%20(Vermeer)",
       "tags": [],
-      "id": "nga-58",
+      "id": "nga-61",
       "popularity": 0.791,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1992,7 +2134,7 @@
       "tags": [],
       "wikiExtract": "《农神吞噬其子》，是西班牙浪漫主义画派画家弗朗西斯科·戈雅的一幅名作。该作是戈雅晚年所绘制的《黑色绘画》系列中最为著名的一幅，以阴暗恐怖而闻名。画中是罗马神话中的农神萨图尔努斯为了防止儿子们夺权斗争而将他们全部吃掉。\n",
       "wikiLang": "zh",
-      "id": "prado-112",
+      "id": "prado-121",
       "popularity": 0.78,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2010,7 +2152,7 @@
       "tags": [],
       "wikiExtract": "《尼古拉斯·杜爾博士的解剖學課》 是荷蘭畫家林布蘭於1632年的油畫作品。這幅畫現存於海牙的莫瑞泰斯皇家美术馆。\n",
       "wikiLang": "zh",
-      "id": "mauritshuis-103",
+      "id": "mauritshuis-110",
       "popularity": 0.771,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2028,7 +2170,7 @@
       "tags": [],
       "wikiExtract": "《蹲下的男孩》是意大利文艺复兴时期画家和雕塑家米开朗基罗的一尊大理石雕塑，高54 厘米，现藏于圣彼得堡的冬宫博物馆，是米开朗基罗在这里的唯一作品。最初是为佛罗伦萨美第奇家族的陵墓而准备。 \n",
       "wikiLang": "zh",
-      "id": "hermitage-120",
+      "id": "hermitage-130",
       "popularity": 0.768,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2046,7 +2188,7 @@
       "tags": [],
       "wikiExtract": "《戴珍珠耳環的少女》，十七世紀荷蘭畫家楊·維梅爾的作品。畫作以少女戴著的珍珠耳環作為視角的焦點，現時畫作存放在海牙的毛里茨住宅中。\n",
       "wikiLang": "zh",
-      "id": "mauritshuis-102",
+      "id": "mauritshuis-109",
       "popularity": 0.758,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2064,7 +2206,7 @@
       "tags": [],
       "wikiExtract": "蒂普之虎 是指一座18世紀由邁索爾王國（今印度西南部卡納塔克邦）統治者蒂普苏丹設計的自動機。這個裝置由木製構成，外表雕刻並上色，呈現一隻老虎正撕咬一名幾乎等身大的歐洲男子。裝置內部的機械結構內令男子的一隻手能夠移動，並模擬出哀嚎聲，而老虎則會發出咆哮聲。此外，老虎一側還設有一個可打開的蓋板，露出一個擁有18個鍵的小型管風琴鍵盤。\n",
       "wikiLang": "zh",
-      "id": "vam-78",
+      "id": "vam-83",
       "popularity": 0.755,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2082,8 +2224,24 @@
       "tags": [],
       "wikiExtract": "新罗金冠是5世纪至6世纪之間新罗君主的头冠，出土于原新罗国都今韩国庆州市，并被列为韩国国宝。此外，另有出自伽倻的金冠。\n",
       "wikiLang": "zh",
-      "id": "korea-national-129",
+      "id": "korea-national-139",
       "popularity": 0.7549999999999999,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "mauritshuis",
+      "qid": "Q13726073",
+      "title": "金翅雀 (畫作)",
+      "titleEn": "The Goldfinch",
+      "description": "1654 painting by Carel Fabritius, Mauritshuis",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carel%20Fabritius%20-%20The%20Goldfinch%20-%20605%20-%20Mauritshuis.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Carel%20Fabritius%20-%20The%20Goldfinch%20-%20605%20-%20Mauritshuis.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E9%87%91%E7%BF%85%E9%9B%80_(%E7%95%AB%E4%BD%9C)",
+      "sourceUrl": "https://www.mauritshuis.nl/en/explore/collection/?q=The%20Goldfinch%20(Fabritius)",
+      "tags": [],
+      "id": "mauritshuis-112",
+      "popularity": 0.7490000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -2100,7 +2258,7 @@
       "tags": [],
       "wikiExtract": "《格尔尼卡》 是巴勃罗·毕加索最著名的绘画作品之一。当时正值西班牙内战，纳粹德国、意大利王国等国家支持弗朗西斯科·佛朗哥领导的西班牙國民軍对抗苏联、墨西哥等国家支持的西班牙第二共和國政府。德國空軍及意大利皇家空軍在內戰時期的1937年對格尔尼卡城进行了人类历史上第一次地毯式轰炸。\n",
       "wikiLang": "zh",
-      "id": "reina-sofia-113",
+      "id": "reina-sofia-122",
       "popularity": 0.736,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2118,7 +2276,7 @@
       "tags": [],
       "wikiExtract": "松林圖屏風 是日本安土桃山時代的繪師長谷川等伯的代表作。這部作品是近世日本水墨畫的代表作之一，也是日本國寶，現在收藏在東京國立博物館。\n",
       "wikiLang": "zh",
-      "id": "tokyo-national-126",
+      "id": "tokyo-national-136",
       "popularity": 0.733,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2136,7 +2294,7 @@
       "tags": [],
       "wikiExtract": "《吶喊》，或譯稱《尖叫》，通常是指挪威畫家愛德華·孟克在1893年的作品，是表現主義繪畫風格的代表作，表達了強烈的“存在性焦慮”。\n",
       "wikiLang": "zh",
-      "id": "norway-national-130",
+      "id": "norway-national-140",
       "popularity": 0.73,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2156,7 +2314,7 @@
       ],
       "wikiExtract": "《沉思者》 是一座由奧古斯特·羅丹創作的青銅雕塑，通常放置在石座上。該雕塑描繪了一個坐在岩石上的壯碩的裸體男性形象。他俯着身、右手肘放在左大腿上，右手背支撐着下巴、顯露着一種深思、沉思的姿勢，雕像經常被用作代表哲學的形象。\n",
       "wikiLang": "zh",
-      "id": "cleveland-59",
+      "id": "cleveland-62",
       "popularity": 0.7270000000000001,
       "imageSource": "official",
       "sourceLabel": "官网开放数据"
@@ -2176,7 +2334,7 @@
       ],
       "wikiExtract": "Saint George and the Dragon is a legend in which Saint George—a soldier venerated in Christianity and among the Druze—defeats a dragon. The story goes that the dragon originally extorted tribute from villagers. When they ran out of livestock and trinkets for the dragon, they started giving up a human tribute once a day. One day, the princess herself was chosen as the next offering. As she was walking toward the drago",
       "wikiLang": "en",
-      "id": "cleveland-60",
+      "id": "cleveland-63",
       "popularity": 0.7270000000000001,
       "imageSource": "official",
       "sourceLabel": "官网开放数据"
@@ -2194,7 +2352,7 @@
       "tags": [],
       "wikiExtract": "The Sick Child is the title given to a group of six paintings and a number of lithographs, drypoints and etchings completed by the Norwegian artist Edvard Munch between 1885 and 1926. Each work records the moments before the death of his older sister, Johanne Sophie (1862–1877), from tuberculosis aged 15. Munch repeatedly returned to this deeply traumatic event in his art over a period of over 40 years. In the works,",
       "wikiLang": "en",
-      "id": "norway-national-131",
+      "id": "norway-national-141",
       "popularity": 0.723,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2212,7 +2370,7 @@
       "tags": [],
       "wikiExtract": "The Great Bed of Ware is an extremely large oak four poster bed, carved with marquetry, that was originally housed in the White Hart Inn in Ware, Hertfordshire, England. Built by Hertfordshire carpenter Jonas Fosbrooke about 1590, the bed measures 3.38m long and 3.26m wide and can \"reputedly... accommodate at least four couples\". Many of those who have used the bed have carved their names into its posts.",
       "wikiLang": "en",
-      "id": "vam-79",
+      "id": "vam-84",
       "popularity": 0.717,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2228,7 +2386,7 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E8%BE%BE%E6%AF%94%E5%8B%92%E5%9C%B0%E6%AF%AF",
       "sourceUrl": "https://collections.vam.ac.uk/search/?q=Ardabil%20Carpet",
       "tags": [],
-      "id": "vam-77",
+      "id": "vam-82",
       "popularity": 0.714,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2246,7 +2404,7 @@
       "tags": [],
       "wikiExtract": "The Gilt-bronze Maitreya in Meditation is a gilt-bronze statue of Maitreya seated in meditation and is one of the best known and most highly regarded Korean Buddhist sculptures. Now part of the collection of the National Museum of Korea, it was designated as the 78th national treasure of Korea.",
       "wikiLang": "en",
-      "id": "korea-national-128",
+      "id": "korea-national-138",
       "popularity": 0.709,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2264,7 +2422,7 @@
       "tags": [],
       "wikiExtract": "《加萊義民》 (法語：Les Bourgeois de Calais）是由奧古斯特·羅丹創作的雕塑，該作品共以十二個鑄造品構成，並在此後製作眾多的複製品。該雕塑旨在紀念百年戰爭期間的一次事件，當時法國加萊在英吉利海峡上經歷了長達十一個月的圍城後向英軍投降，該城市於1884年委託羅丹創作這座雕塑，最終於1889年完成。\n",
       "wikiLang": "zh",
-      "id": "musee-rodin-92",
+      "id": "musee-rodin-98",
       "popularity": 0.692,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2282,7 +2440,7 @@
       "tags": [],
       "wikiExtract": "《地獄之門》 是由法國藝術家奧古斯特·羅丹創作的雕塑。該雕塑高6公尺，寬4公尺，深1公尺。其作品中包含180個人物，生動地描繪了中世紀意大利詩人但丁·阿利吉耶里所著長詩《神曲》中《地獄篇》的景象。\n",
       "wikiLang": "zh",
-      "id": "musee-rodin-93",
+      "id": "musee-rodin-99",
       "popularity": 0.6839999999999999,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2300,7 +2458,7 @@
       "tags": [],
       "wikiExtract": "台夫特風景 是一幅由荷蘭黃金時代畫家揚·弗美爾繪成于1660年至1661年間的油畫；台夫特是他的出生地，這幅作品也是畫家已知的三幅台夫特風景畫之一，其他兩幅為《小街》和《台夫特的房屋》（已遺失）。\n",
       "wikiLang": "zh",
-      "id": "mauritshuis-104",
+      "id": "mauritshuis-111",
       "popularity": 0.682,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2316,8 +2474,26 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E9%B9%BD%E7%BD%90",
       "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Cellini%20Salt%20Cellar",
       "tags": [],
-      "id": "khm-114",
+      "id": "khm-123",
       "popularity": 0.672,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "musee-rodin",
+      "qid": "Q698487",
+      "title": "吻",
+      "titleEn": "The Kiss",
+      "description": "painting by Gustav Klimt",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Kiss%20-%20Gustav%20Klimt%20-%20Google%20Cultural%20Institute.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Kiss%20-%20Gustav%20Klimt%20-%20Google%20Cultural%20Institute.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%90%BB_(%E5%8F%A4%E6%96%AF%E5%A1%94%E5%A4%AB%C2%B7%E5%85%8B%E9%87%8C%E5%A7%86%E7%89%B9)",
+      "sourceUrl": "https://www.musee-rodin.fr",
+      "tags": [],
+      "wikiExtract": "《吻》 是奧地利象徵主義畫家古斯塔夫·克里姆特的代表畫作之一，是他在黃金時期所創作的作品，他在此時期常使用金箔來作畫。《吻》是一幅正方形的畫作，呈現出一對相擁在一起的戀人，他們的身體藉由長袍纏繞在一起。這種表現手法同時受到同時期的新藝術運動及藝術與工藝美術運動的影響。古斯塔夫·克里姆特在傳統的油畫上覆蓋金箔，讓畫作的現代感更加突出。《吻》目前收藏在維也納美景宮內的奧地利美景宮美術館，被廣泛的視為是20世紀早期的經典。《吻》是象徵主義的代表作品，也是古斯塔夫·克林姆最受歡迎的作品。\n",
+      "wikiLang": "zh",
+      "id": "musee-rodin-97",
+      "popularity": 0.65,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -2332,7 +2508,7 @@
       "wikiUrl": "https://en.wikipedia.org/wiki/The_Tower_of_Babel_(Bruegels)",
       "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=The%20Tower%20of%20Babel",
       "tags": [],
-      "id": "khm-116",
+      "id": "khm-125",
       "popularity": 0.647,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2348,7 +2524,7 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E9%9B%AA%E4%B8%AD%E7%8D%B5%E4%BA%BA",
       "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=The%20Hunters%20in%20the%20Snow",
       "tags": [],
-      "id": "khm-115",
+      "id": "khm-124",
       "popularity": 0.635,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -2366,7 +2542,7 @@
       "tags": [],
       "wikiExtract": "《沉思者》 是一座由奧古斯特·羅丹創作的青銅雕塑，通常放置在石座上。該雕塑描繪了一個坐在岩石上的壯碩的裸體男性形象。他俯着身、右手肘放在左大腿上，右手背支撐着下巴、顯露着一種深思、沉思的姿勢，雕像經常被用作代表哲學的形象。\n",
       "wikiLang": "zh",
-      "id": "musee-rodin-91",
+      "id": "musee-rodin-96",
       "popularity": 0.607,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
