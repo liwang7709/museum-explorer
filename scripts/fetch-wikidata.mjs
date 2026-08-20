@@ -127,7 +127,7 @@ async function getEntity(qid) {
   const data = await fetchJson(url, { retries: 5 });
   const ent = data?.entities?.[qid];
   if (ent) cacheSet(`wd-${qid}.json`, ent);
-  await sleep(180);
+  await sleep(80);
   return ent || null;
 }
 
@@ -139,7 +139,7 @@ async function searchEntities(name, lang) {
   const data = await fetchJson(url, { retries: 5 });
   const list = data?.search || [];
   cacheSet(key, list);
-  await sleep(180);
+  await sleep(80);
   return list;
 }
 
@@ -153,21 +153,26 @@ function isCjk(s) {
 }
 
 // 维基百科摘要（增强"说明"字段；按文物所在语言取 zh 优先）
+// 顺带解决 P18 缺失：用维基条目的原图（originalimage）作为图片兜底
 async function getWikiExtract(qid, lang, title) {
   const key = `wks-${qid}.json`;
   const cached = cacheGet(key);
-  if (cached) return cached;
+  // 旧版缓存是纯字符串（无原图信息），视为未命中重新抓取
+  if (cached && typeof cached === 'object') return cached;
   try {
     const data = await fetchJson(
       `https://${lang}.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title.replace(/ /g, '_'))}`,
       { retries: 2, timeout: 15000 },
     );
-    const out = (data?.extract || '').slice(0, 420);
+    const out = {
+      extract: (data?.extract || '').slice(0, 420),
+      originalImage: data?.originalimage?.source || null,
+    };
     cacheSet(key, out);
-    await sleep(150);
+    await sleep(60);
     return out;
   } catch {
-    return '';
+    return { extract: '', originalImage: null };
   }
 }
 
@@ -224,17 +229,21 @@ async function buildArtifact(ent, entry, museum, scoreInfo) {
   const metId = claimValues(ent, 'P3634')[0];
   if (metId !== undefined) art._metId = String(metId);
 
-  // 说明太短时用维基百科摘要补足（原文语言）
-  if ((art.description || '').length < 60) {
+  // 说明太短时用维基百科摘要补足（原文语言）；P18 缺图时用维基条目原图兜底（无损）
+  if ((art.description || '').length < 60 || !art.imageUrl) {
     const zhTitle = ent.sitelinks?.zhwiki?.title;
     const enTitle = ent.sitelinks?.enwiki?.title;
     if (zhTitle || enTitle) {
       const sumLang = zhTitle ? 'zh' : 'en';
       const sumTitle = zhTitle || enTitle;
-      const extract = await getWikiExtract(ent.id, sumLang, sumTitle);
-      if (extract) {
-        art.wikiExtract = extract;
+      const summary = await getWikiExtract(ent.id, sumLang, sumTitle);
+      if (summary.extract) {
+        art.wikiExtract = summary.extract;
         art.wikiLang = sumLang;
+      }
+      if (!art.imageUrl && summary.originalImage) {
+        art.imageUrl = summary.originalImage; // 无损原图
+        if (!art.imageThumb) art.imageThumb = commonsThumb(imageFile, 420);
       }
     }
   }
@@ -292,23 +301,31 @@ async function resolveEntry(entry) {
 export async function resolveAll() {
   const artifacts = [];
   const failures = [];
-  let i = 0;
-  for (const entry of CURATED) {
-    i++;
-    try {
-      const r = await resolveEntry(entry);
-      if (r.ok) {
-        artifacts.push(r.art);
-      } else {
-        failures.push({ museum: entry.museum, name: entry.name, zh: entry.zh, reason: r.reason });
+  const CONCURRENCY = 4; // 并发拉取，配合 maxlag 提速（受限于 Wikidata 限流）
+  let next = 0;
+
+  async function worker() {
+    while (true) {
+      const idx = next++;
+      if (idx >= CURATED.length) return;
+      const entry = CURATED[idx];
+      try {
+        const r = await resolveEntry(entry);
+        if (r.ok) {
+          artifacts.push(r.art);
+        } else {
+          failures.push({ museum: entry.museum, name: entry.name, zh: entry.zh, reason: r.reason });
+        }
+      } catch (e) {
+        failures.push({ museum: entry.museum, name: entry.name, zh: entry.zh, reason: `exception: ${e.message?.slice(0, 120)}` });
       }
-    } catch (e) {
-      failures.push({ museum: entry.museum, name: entry.name, zh: entry.zh, reason: `exception: ${e.message?.slice(0, 120)}` });
+      if ((idx + 1) % 20 === 0) console.log(`  wikidata resolved ${idx + 1}/${CURATED.length}`);
     }
-    if (i % 20 === 0) console.log(`  wikidata resolved ${i}/${CURATED.length}`);
   }
+
+  await Promise.all(Array.from({ length: CONCURRENCY }, worker));
   console.log(`Wikidata: ${artifacts.length} resolved, ${failures.length} failed`);
-  for (const f of failures.slice(0, 50)) {
+  for (const f of failures.slice(0, 60)) {
     console.log(`  FAIL [${f.museum}] ${f.zh || f.name}: ${f.reason}`);
   }
   return artifacts;

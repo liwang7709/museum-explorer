@@ -1,8 +1,7 @@
-const COUNTRY_FLAGS = {
-  中国: '🇨🇳', 中国台湾: '🇹🇼', 美国: '🇺🇸', 英国: '🇬🇧', 法国: '🇫🇷',
-  荷兰: '🇳🇱', 意大利: '🇮🇹', 西班牙: '🇪🇸', 奥地利: '🇦🇹', 俄罗斯: '🇷🇺',
-  梵蒂冈: '🇻🇦', 日本: '🇯🇵', 韩国: '🇰🇷', 挪威: '🇳🇴',
-};
+import Flag from './Flag.jsx';
+
+// 台北故宫博物院按用户要求显示中国国旗；无旗的国家/地区不渲染，不留占位
+const FLAG_OVERRIDE = { 中国台湾: '中国' };
 
 export default function MuseumGrid({ museums, hotMuseumIds, selected, onSelect }) {
   return (
@@ -17,7 +16,7 @@ export default function MuseumGrid({ museums, hotMuseumIds, selected, onSelect }
             onClick={() => onSelect(active ? null : m.id)}
             title={m.blurb}
           >
-            <span className="museum-flag">{COUNTRY_FLAGS[m.country] || '🏛️'}</span>
+            <Flag country={FLAG_OVERRIDE[m.country] || m.country} />
             <span className="museum-name">{m.name}</span>
             <span className="museum-meta">{m.city} · 精选{m.count}件</span>
             {isHot && <span className="heat-badge">🔥 热门</span>}

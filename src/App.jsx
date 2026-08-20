@@ -1,11 +1,12 @@
 import { useEffect, useMemo, useState } from 'react';
 import { loadAll, searchArtifacts } from './lib/data.js';
 import { pickByDate, todayStr, formatDateCn } from './lib/seed.js';
-import { countCheckins } from './lib/checkin.js';
+import { countCheckins, getCheckins } from './lib/checkin.js';
 import ArtifactCard from './components/ArtifactCard.jsx';
 import ArtifactModal from './components/ArtifactModal.jsx';
 import MuseumGrid from './components/MuseumGrid.jsx';
 import NewsPanel from './components/NewsPanel.jsx';
+import CheckinHistory from './components/CheckinHistory.jsx';
 
 export default function App() {
   const [data, setData] = useState({ museums: [], countries: [], artifacts: [], news: [], today: null });
@@ -15,7 +16,9 @@ export default function App() {
   const [museumId, setMuseumId] = useState(null);
   const [query, setQuery] = useState('');
   const [modal, setModal] = useState(null);
+  const [showHistory, setShowHistory] = useState(false);
   const [checkins, setCheckins] = useState(countCheckins());
+  const [refreshCount, setRefreshCount] = useState(0);
 
   const reload = () => {
     setLoading(true);
@@ -60,19 +63,32 @@ export default function App() {
     return pool;
   }, [data.artifacts, museumId, country, filteredMuseums]);
 
+  // 已看过的文物不再推荐（只影响推荐，不影响检索）
+  const viewedIds = useMemo(() => new Set(Object.keys(getCheckins())), [checkins]);
+
   const dailyPicks = useMemo(() => {
-    // 未筛选时优先用服务端生成的"今日批次"（与客户端算法一致，互为兜底）
-    if (data.today?.picks?.length && !museumId && country === '全部') {
+    let picks;
+    if (refreshCount === 0 && data.today?.picks?.length && !museumId && country === '全部') {
+      // 服务端今日批次（与客户端算法一致，互为兜底）
       const byId = new Map(data.artifacts.map((a) => [a.id, a]));
-      return data.today.picks.map((id) => byId.get(id)).filter(Boolean);
+      picks = data.today.picks.map((id) => byId.get(id)).filter(Boolean);
+    } else {
+      // 手动"换一批"：种子 = 日期 + 刷新次数（日期不变，仅换内容）
+      const seed = refreshCount === 0 ? today : `${today}#${refreshCount}`;
+      picks = pickByDate(dailyPool, seed, 16);
     }
-    return pickByDate(dailyPool, today, 16);
-  }, [data.today, data.artifacts, dailyPool, today, museumId, country]);
+    const unseen = picks.filter((a) => !viewedIds.has(a.id));
+    return unseen.length >= 6 ? unseen : picks; // 避免清空：池子被看完时退回包含已看的批次
+  }, [dailyPool, today, data.today, data.artifacts, museumId, country, refreshCount, viewedIds]);
 
   const hotTerms = useMemo(() => {
-    if (data.today?.hotTerms?.length) return data.today.hotTerms;
+    if (data.today?.hotTerms?.length) {
+      return data.today.hotTerms.map((h) =>
+        typeof h === 'string' ? { term: h, reason: '' } : { term: h.term, reason: h.reason || '' },
+      );
+    }
     const top = [...data.artifacts].sort((a, b) => b.popularity - a.popularity).slice(0, 30);
-    return pickByDate(top, today, 5).map((a) => a.title);
+    return pickByDate(top, today, 5).map((a) => ({ term: a.title, reason: '' }));
   }, [data, today]);
 
   const results = useMemo(
@@ -87,6 +103,7 @@ export default function App() {
 
   const selectMuseum = (id) => {
     setMuseumId(id);
+    setRefreshCount(0);
     document.getElementById('museum-section')?.scrollIntoView({ behavior: 'smooth' });
   };
 
@@ -100,9 +117,13 @@ export default function App() {
             <p>Museum Explorer · 全球知名博物馆文物</p>
           </div>
         </div>
-        <div className="checkin-badge" title="点击图片/详情/维基百科均计入打卡">
-          🎫 已看 <b>{checkins}</b> 件文物
-        </div>
+        <button
+          className="checkin-badge"
+          onClick={() => setShowHistory(true)}
+          title="点击查看打卡历史"
+        >
+          🎫 已看 <b>{checkins}</b> 件文物 <span className="checkin-arrow">▾</span>
+        </button>
       </header>
 
       {loadError && (
@@ -121,6 +142,7 @@ export default function App() {
             onClick={() => {
               setCountry(c);
               setMuseumId(null);
+              setRefreshCount(0);
             }}
           >
             {c}
@@ -157,9 +179,18 @@ export default function App() {
         <div className="main-grid">
           {/* 今日推荐 */}
           <section className="section">
-            <h2 className="section-title">
-              🔄 今日推荐文物 <small>{formatDateCn(today)} · 每天零点自动更换一批</small>
-            </h2>
+            <div className="section-title-row">
+              <h2 className="section-title">
+                🔄 今日推荐文物 <small>{formatDateCn(today)} · 每天零点自动更换一批</small>
+              </h2>
+              <button
+                className="btn btn-refresh"
+                onClick={() => setRefreshCount((c) => c + 1)}
+                title="手动换一批（不影响每天自动更新的日期）"
+              >
+                🔄 换一批
+              </button>
+            </div>
             {loading && !data.artifacts.length ? (
               <p className="empty">加载中…</p>
             ) : dailyPicks.length ? (
@@ -201,10 +232,13 @@ export default function App() {
           </div>
           <div className="hot-terms">
             <span className="hot-label">今日热门：</span>
-            {hotTerms.map((t) => (
-              <button key={t} className="chip" onClick={() => pickHotTerm(t)}>
-                {t}
-              </button>
+            {hotTerms.map((h) => (
+              <span key={h.term} className="hot-term">
+                <button className="chip" onClick={() => pickHotTerm(h.term)}>
+                  {h.term}
+                </button>
+                {h.reason && <span className="hot-term-reason">{h.reason}</span>}
+              </span>
             ))}
           </div>
           {searchFocused && (
@@ -236,7 +270,7 @@ export default function App() {
           图片版权归各博物馆/权利人所有，点击文物可跳转官网原页；百科链接由维基百科提供（无词条的文物不展示）。
         </p>
         <p>
-          打卡记录仅保存在当前浏览器（localStorage）。今日推荐由日期种子确定性生成，每日零点更换。
+          打卡记录仅保存在当前浏览器（localStorage）。今日推荐由日期种子确定性生成，每日零点更换，可点"换一批"手动刷新。
           {data.generatedAt ? ` 数据更新于 ${new Date(data.generatedAt).toLocaleString('zh-CN')}` : ''}
         </p>
       </footer>
@@ -247,6 +281,14 @@ export default function App() {
         onClose={() => setModal(null)}
         onChecked={bumpCheckins}
       />
+      {showHistory && (
+        <CheckinHistory
+          artifacts={data.artifacts}
+          museumById={museumById}
+          onOpen={openArtifact}
+          onClose={() => setShowHistory(false)}
+        />
+      )}
     </div>
   );
 }

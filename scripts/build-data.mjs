@@ -69,8 +69,17 @@ async function main() {
   console.log('[5/5] 生成每日批次（日期种子确定性轮换）…');
   const today = todayStr();
   const picks = pickByDate(finalArtifacts, today, 16);
-  const topByPop = [...finalArtifacts].sort((a, b) => b.popularity - a.popularity).slice(0, 30);
-  const hotTerms = pickByDate(topByPop, today, 5).map((a) => a.title);
+  const sortedByPop = [...finalArtifacts].sort((a, b) => b.popularity - a.popularity);
+  const popRank = new Map(sortedByPop.map((a, i) => [a.id, i + 1]));
+  const topByPop = sortedByPop.slice(0, 30);
+  const hotTerms = pickByDate(topByPop, today, 5).map((a) => {
+    const museum = MUSEUM_MAP[a.museumId];
+    const rank = popRank.get(a.id);
+    return {
+      term: a.title,
+      reason: `${museum?.name || ''}馆藏 · 综合热度TOP${rank}${museum?.heatLabel ? ' · ' + museum.heatLabel : ''}`,
+    };
+  });
   const hotMuseumIds = [...museums].sort((a, b) => b.heat - a.heat).slice(0, 10).map((m) => m.id);
   writeJson(`${DATA_DIR}/today.json`, {
     date: today,
@@ -83,7 +92,7 @@ async function main() {
   console.log('──────────── 完成 ────────────');
   console.log(`文物总数: ${finalArtifacts.length}`);
   console.log(`博物馆数: ${museums.length}`);
-  console.log(`今日推荐: ${picks.length} 件 | 热门检索词: ${hotTerms.join(' / ')}`);
+  console.log(`今日推荐: ${picks.length} 件 | 热门检索词: ${hotTerms.map((h) => h.term).join(' / ')}`);
   console.log(`资讯条目: ${news?.items?.length || 0}`);
   const noImg = finalArtifacts.filter((a) => !a.imageUrl);
   const noWiki = finalArtifacts.filter((a) => !a.wikiUrl);

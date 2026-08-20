@@ -544,12 +544,14 @@ h1, h2, h3 {
 
 .modal {
   position: relative;
+  display: flex;
+  flex-direction: column;
   background: var(--card);
   border-radius: 18px;
   max-width: 960px;
   width: 100%;
   max-height: 92vh;
-  overflow: auto;
+  overflow: hidden;
   box-shadow: var(--shadow-lg);
   animation: pop 0.18s ease-out;
 }
@@ -565,11 +567,33 @@ h1, h2, h3 {
   }
 }
 
+/* 吸顶栏：关闭按钮固定，不随内容滚动 */
+.modal-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 12px 10px 18px;
+  border-bottom: 1px solid var(--line);
+  background: var(--card);
+  flex: 0 0 auto;
+}
+
+.modal-bar-title {
+  font-size: 14px;
+  color: var(--ink-soft);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.modal-scroll {
+  overflow-y: auto;
+  flex: 1;
+  min-height: 0;
+}
+
 .modal-close {
-  position: absolute;
-  top: 12px;
-  right: 12px;
-  z-index: 5;
   width: 34px;
   height: 34px;
   border-radius: 50%;
@@ -578,6 +602,7 @@ h1, h2, h3 {
   color: #fff;
   font-size: 15px;
   cursor: pointer;
+  flex: 0 0 auto;
 }
 
 .modal-close:hover {
@@ -585,6 +610,7 @@ h1, h2, h3 {
 }
 
 .modal-media {
+  position: relative;
   background: var(--paper-2);
 }
 
@@ -594,6 +620,17 @@ h1, h2, h3 {
   object-fit: contain;
   display: block;
   cursor: zoom-in;
+}
+
+.modal-img-hint {
+  position: absolute;
+  bottom: 8px;
+  right: 10px;
+  font-size: 11px;
+  color: #fff;
+  background: rgba(20, 24, 30, 0.5);
+  border-radius: 6px;
+  padding: 2px 8px;
 }
 
 .modal-body {
@@ -660,4 +697,212 @@ h1, h2, h3 {
 
 .site-footer p {
   margin: 4px 0;
+}
+
+/* ── V1.1 新增样式 ─────────────────────── */
+
+/* SVG 国旗 */
+.flag-svg {
+  width: 36px;
+  height: 24px;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(43, 36, 23, 0.3);
+  display: block;
+  flex: 0 0 auto;
+}
+
+.museum-card .flag {
+  margin-bottom: 6px;
+}
+
+/* 今日推荐标题行 + 换一批按钮 */
+.section-title-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+
+.section-title-row .section-title {
+  margin: 0;
+}
+
+.btn-refresh {
+  background: #fff;
+  color: var(--museum);
+  border: 1px solid var(--gold);
+  font-size: 13px;
+  padding: 6px 14px;
+}
+
+.btn-refresh:hover {
+  background: var(--gold);
+  color: #fff;
+}
+
+/* 今日热门：理由小字 */
+.hot-term {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+}
+
+.hot-term .chip {
+  padding: 4px 12px;
+  font-size: 13px;
+}
+
+.hot-term-reason {
+  font-size: 10.5px;
+  color: var(--ink-soft);
+  max-width: 220px;
+  line-height: 1.3;
+}
+
+/* 详情模块（看点/来源/点评） */
+.modal-module {
+  margin: 12px 0;
+  padding: 12px 14px;
+  background: #fbf7ee;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+
+.modal-module h4 {
+  margin: 0 0 6px;
+  font-size: 14px;
+  color: var(--museum);
+}
+
+.modal-highlights {
+  margin: 0;
+  font-size: 13.5px;
+  color: var(--ink);
+  line-height: 1.65;
+}
+
+.modal-sources {
+  margin: 8px 0 0;
+  font-size: 11.5px;
+  color: var(--ink-soft);
+}
+
+.modal-sources a {
+  margin: 0 6px 0 2px;
+  color: var(--museum);
+  text-decoration: underline dotted;
+}
+
+.modal-quote {
+  margin: 0 0 10px;
+  padding-left: 12px;
+  border-left: 3px solid var(--gold);
+}
+
+.modal-quote:last-child {
+  margin-bottom: 0;
+}
+
+.modal-quote p {
+  margin: 0 0 4px;
+  font-size: 13.5px;
+  color: var(--ink);
+  line-height: 1.6;
+}
+
+.modal-quote footer {
+  font-size: 12px;
+  color: var(--ink-soft);
+}
+
+.modal-quote footer a {
+  color: var(--museum);
+}
+
+/* ChatGPT 按钮 */
+.btn-chatgpt {
+  background: #10a37f;
+  color: #fff;
+}
+
+/* 打卡历史 */
+.history-modal {
+  max-width: 720px;
+}
+
+.history-list {
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.history-item {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 10px;
+  cursor: pointer;
+  transition: border-color 0.15s;
+}
+
+.history-item:hover {
+  border-color: var(--gold);
+}
+
+.history-img {
+  width: 68px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex: 0 0 auto;
+  background: var(--paper-2);
+}
+
+.history-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.history-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--museum-deep);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.history-meta {
+  font-size: 12px;
+  color: var(--ink-soft);
+  margin-top: 2px;
+}
+
+.history-wiki {
+  font-size: 12px;
+  white-space: nowrap;
+  color: var(--museum);
+  text-decoration: none;
+  border: 1px solid #c9d8ec;
+  border-radius: 8px;
+  padding: 4px 10px;
+  background: #eef3fa;
+}
+
+/* 打卡徽章点击提示 */
+.checkin-badge {
+  border: none;
+  cursor: pointer;
+}
+
+.checkin-arrow {
+  font-size: 10px;
+  opacity: 0.8;
+  margin-left: 2px;
 }
