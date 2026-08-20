@@ -43,7 +43,7 @@ export async function fetchJson(url, { timeout = 30000, retries = 4, headers = {
       });
       clearTimeout(t);
       if (res.status === 429) {
-        const wait = Math.min(Number(res.headers.get('retry-after')) * 1000 || 3000, 8000);
+        const wait = Math.min(Number(res.headers.get('retry-after')) * 1000 || 2500, 5000);
         await sleep(wait);
         throw new Error(`HTTP 429 (rate limited), will retry`);
       }

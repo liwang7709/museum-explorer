@@ -30,3 +30,23 @@ export function countCheckins() {
 export function isViewed(id) {
   return Object.prototype.hasOwnProperty.call(getCheckins(), id);
 }
+
+// 清理已不在当前数据中的打卡记录（如文物下线/ID迁移），避免脏计数
+export function pruneCheckins(validIds) {
+  const m = getCheckins();
+  let changed = false;
+  for (const k of Object.keys(m)) {
+    if (!validIds.has(k)) {
+      delete m[k];
+      changed = true;
+    }
+  }
+  if (changed) {
+    try {
+      localStorage.setItem(KEY, JSON.stringify(m));
+    } catch {
+      /* 忽略 */
+    }
+  }
+  return Object.keys(m).length;
+}

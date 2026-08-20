@@ -14,7 +14,7 @@ const COLLECTION_QID = {
   tate: 'Q430682', vam: 'Q213322', 'musee-rodin': 'Q1799916', rijksmuseum: 'Q190804',
   'van-gogh': 'Q224124', mauritshuis: 'Q221092', uffizi: 'Q51252', prado: 'Q160112',
   'reina-sofia': 'Q460889', khm: 'Q95569', hermitage: 'Q132783', vatican: 'Q182955',
-  'tokyo-national': 'Q653098', 'korea-national': 'Q494309', 'palace-beijing': 'Q212363',
+  'tokyo-national': 'Q653098', 'korea-national': 'Q494407', 'palace-beijing': 'Q212363',
   nmc: 'Q1074324', 'shanghai-museum': 'Q854217', 'npm-taipei': 'Q540195',
   smithsonian: 'Q131626', nga: 'Q214867', getty: 'Q731126', 'terra-cotta': 'Q48541',
   'norway-national': 'Q11973411',
@@ -124,7 +124,7 @@ async function getEntity(qid) {
   const cached = cacheGet(`wd-${qid}.json`);
   if (cached) return cached;
   const url = `${WD}?action=wbgetentities&ids=${qid}&props=labels|descriptions|claims|sitelinks&languages=${WIKI_LANGS.join('|')}&format=json&origin=*&maxlag=10`;
-  const data = await fetchJson(url, { retries: 5 });
+  const data = await fetchJson(url, { retries: 8 });
   const ent = data?.entities?.[qid];
   if (ent) cacheSet(`wd-${qid}.json`, ent);
   await sleep(80);
@@ -136,7 +136,7 @@ async function searchEntities(name, lang) {
   const cached = cacheGet(key);
   if (cached) return cached;
   const url = `${WD}?action=wbsearchentities&search=${encodeURIComponent(name)}&language=${lang}&uselang=${lang}&limit=8&format=json&origin=*&maxlag=10`;
-  const data = await fetchJson(url, { retries: 5 });
+  const data = await fetchJson(url, { retries: 8 });
   const list = data?.search || [];
   cacheSet(key, list);
   await sleep(80);
@@ -185,7 +185,7 @@ function scoreEntity(ent, entry, museum) {
   const targetNorm = norm(entry.name);
 
   let bestSim = 0;
-  const targets = [entry.name, stripParen(entry.name), entry.zh].filter(Boolean);
+  const targets = [entry.name, stripParen(entry.name), entry.zh, entry.ja, entry.ko].filter(Boolean);
   for (const t of targets) {
     for (const l of labels) bestSim = Math.max(bestSim, similarity(norm(t), norm(l)));
     for (const a of aliases) bestSim = Math.max(bestSim, similarity(norm(t), norm(a)));
@@ -250,7 +250,7 @@ async function buildArtifact(ent, entry, museum, scoreInfo) {
   return art;
 }
 
-async function resolveEntry(entry) {
+export async function resolveEntry(entry) {
   const museum = MUSEUM_MAP[entry.museum];
   if (!museum) return { ok: false, reason: `unknown museum ${entry.museum}` };
 
@@ -268,13 +268,20 @@ async function resolveEntry(entry) {
     }
   }
 
-  // 2) 中英文名称搜索（去掉括号后缀；中文查询用 zh 语言）→ 对候选拉全量实体再打分
-  const rawQueries = [entry.name, entry.zh].filter(Boolean);
-  const queries = [...new Set(rawQueries.map((q) => stripParen(q)).concat(rawQueries))];
+  // 2) 中英日韩名称搜索（去掉括号后缀；中文查询用 zh、日文用 ja、韩文用 ko）→ 对候选拉全量实体再打分
+  const rawQueries = [
+    { t: entry.name, lang: isCjk(entry.name) ? 'zh' : 'en' },
+    { t: entry.zh, lang: 'zh' },
+    { t: entry.ja, lang: 'ja' },
+    { t: entry.ko, lang: 'ko' },
+  ]
+    .filter((x) => x.t)
+    .map((x) => ({ t: stripParen(x.t), lang: x.lang }));
+  const queries = [...new Map(rawQueries.map((q) => [q.t + '::' + q.lang, q])).values()];
   for (const q of queries) {
     let results = [];
     try {
-      results = await searchEntities(q, isCjk(q) ? 'zh' : 'en');
+      results = await searchEntities(q.t, q.lang);
     } catch {
       /* 继续 */
     }
@@ -301,7 +308,7 @@ async function resolveEntry(entry) {
 export async function resolveAll() {
   const artifacts = [];
   const failures = [];
-  const CONCURRENCY = 4; // 并发拉取，配合 maxlag 提速（受限于 Wikidata 限流）
+  const CONCURRENCY = 3; // 并发拉取，配合 maxlag 提速（受限于 Wikidata 限流）
   let next = 0;
 
   async function worker() {

@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import { loadAll, searchArtifacts } from './lib/data.js';
 import { pickByDate, todayStr, formatDateCn } from './lib/seed.js';
-import { countCheckins, getCheckins } from './lib/checkin.js';
+import { countCheckins, getCheckins, pruneCheckins } from './lib/checkin.js';
 import ArtifactCard from './components/ArtifactCard.jsx';
 import ArtifactModal from './components/ArtifactModal.jsx';
 import MuseumGrid from './components/MuseumGrid.jsx';
@@ -25,6 +25,9 @@ export default function App() {
     setLoadError('');
     loadAll()
       .then((d) => {
+        // 清理失效的打卡记录（数据版本迁移后不留脏计数）
+        const valid = new Set(d.artifacts.map((a) => a.id));
+        setCheckins(pruneCheckins(valid));
         setData(d);
         setLoading(false);
       })

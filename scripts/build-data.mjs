@@ -48,13 +48,31 @@ async function main() {
       const { _score, _metId, ...rest } = a;
       return {
         ...rest,
-        id: `${a.museumId}-${i}`,
+        // 稳定 ID：基于维基实体号，跨版本不变（保证打卡记录不失效）
+        id: `${a.museumId}-${a.qid}`,
         popularity: Math.min(1, Math.max(0.1, (museum?.heat || 0.5) + jitter)),
         imageSource: museum?.dataSource === 'official-api' ? 'official' : 'commons',
         sourceLabel: museum?.dataSource === 'official-api' ? '官网开放数据' : '官网/维基共享资源',
       };
     })
     .sort((a, b) => b.popularity - a.popularity);
+
+  // 按 qid 去重（保留有图的第一条，避免同一文物多次出现）
+  const seenQid = new Set();
+  const deduped = [];
+  for (const a of finalArtifacts) {
+    if (!a.qid || seenQid.has(a.qid)) continue;
+    seenQid.add(a.qid);
+    deduped.push(a);
+  }
+  finalArtifacts.length = 0;
+  finalArtifacts.push(...deduped);
+
+  // 黑名单：误匹配实体（如把"宗周钟"解析成论文条目）直接剔除
+  const BLACKLIST_QIDS = new Set(['Q63663159']);
+  const filtered = finalArtifacts.filter((a) => !BLACKLIST_QIDS.has(a.qid));
+  finalArtifacts.length = 0;
+  finalArtifacts.push(...filtered);
 
   const generatedAt = isoNow();
   writeJson(`${DATA_DIR}/museums.json`, { generatedAt, countries: COUNTRIES, museums });
@@ -92,6 +110,13 @@ async function main() {
   console.log('──────────── 完成 ────────────');
   console.log(`文物总数: ${finalArtifacts.length}`);
   console.log(`博物馆数: ${museums.length}`);
+  // 每区数量（目标 ≥20）
+  const byRegion = {};
+  for (const a of finalArtifacts) {
+    const c = MUSEUM_MAP[a.museumId]?.country || '?';
+    byRegion[c] = (byRegion[c] || 0) + 1;
+  }
+  console.log('每区数量: ' + Object.entries(byRegion).sort((a, b) => b[1] - a[1]).map(([c, n]) => `${c}${n}`).join(' / '));
   console.log(`今日推荐: ${picks.length} 件 | 热门检索词: ${hotTerms.map((h) => h.term).join(' / ')}`);
   console.log(`资讯条目: ${news?.items?.length || 0}`);
   const noImg = finalArtifacts.filter((a) => !a.imageUrl);

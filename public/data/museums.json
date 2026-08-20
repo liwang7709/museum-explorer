@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T04:06:48.599Z",
+  "generatedAt": "2026-08-20T13:24:06.056Z",
   "countries": [
     "中国",
     "中国台湾",
@@ -76,7 +76,7 @@
       "heat": 0.9,
       "heatLabel": "东亚参观人数前列 · 约500万/年",
       "blurb": "翠玉白菜、肉形石、毛公鼎与《富春山居图》等稀世珍藏。",
-      "count": 4
+      "count": 22
     },
     {
       "id": "terra-cotta",
@@ -198,7 +198,7 @@
       "heat": 0.9,
       "heatLabel": "全球最大博物馆体系 · 450万件开放",
       "blurb": "20余座博物馆：航空航天、自然历史、美国历史…",
-      "count": 6
+      "count": 7
     },
     {
       "id": "nga",
@@ -216,6 +216,21 @@
       "count": 3
     },
     {
+      "id": "getty",
+      "name": "盖蒂博物馆",
+      "nameEn": "J. Paul Getty Museum",
+      "country": "美国",
+      "countryCode": "US",
+      "city": "洛杉矶",
+      "website": "https://www.getty.edu",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/蓋蒂中心",
+      "dataSource": "commons",
+      "heat": 0.72,
+      "heatLabel": "梵高《鸢尾花》藏地",
+      "blurb": "坐拥梵高《鸢尾花》与古希腊罗马雕塑的\"盖蒂别墅\"。",
+      "count": 1
+    },
+    {
       "id": "cleveland",
       "name": "克利夫兰艺术博物馆",
       "nameEn": "Cleveland Museum of Art",
@@ -229,7 +244,7 @@
       "heat": 0.66,
       "heatLabel": "开放API全CC0 · 免费入场",
       "blurb": "亚洲与印象派收藏闻名，开放数据完整。",
-      "count": 2
+      "count": 3
     },
     {
       "id": "british-museum",
@@ -244,7 +259,7 @@
       "heat": 0.94,
       "heatLabel": "全球TOP5 · 约580万/年",
       "blurb": "罗塞塔石碑、帕特农神庙雕塑、刘易斯棋子…世界史缩微。",
-      "count": 7
+      "count": 10
     },
     {
       "id": "national-gallery-london",
@@ -259,7 +274,7 @@
       "heat": 0.81,
       "heatLabel": "欧洲绘画谱系最全",
       "blurb": "《阿尔诺菲尼夫妇》《被拖去解体的战舰无畏号》《向日葵》。",
-      "count": 7
+      "count": 9
     },
     {
       "id": "tate",
@@ -274,7 +289,7 @@
       "heat": 0.79,
       "heatLabel": "全球参观人数前列 · 约570万/年",
       "blurb": "透纳、米莱《奥菲莉亚》、现代与当代艺术。",
-      "count": 4
+      "count": 5
     },
     {
       "id": "vam",
@@ -304,7 +319,7 @@
       "heat": 0.99,
       "heatLabel": "全球参观量第一 · 约890万/年",
       "blurb": "《蒙娜丽莎》《米洛的维纳斯》《胜利女神》三大镇馆之宝。",
-      "count": 11
+      "count": 15
     },
     {
       "id": "musee-rodin",
@@ -319,7 +334,7 @@
       "heat": 0.6,
       "heatLabel": "雕塑爱好者的朝圣地",
       "blurb": "《思想者》《吻》《地狱之门》与罗丹大量原作。",
-      "count": 4
+      "count": 5
     },
     {
       "id": "rijksmuseum",
@@ -334,7 +349,7 @@
       "heat": 0.8,
       "heatLabel": "伦勃朗《夜巡》藏地",
       "blurb": "荷兰黄金时代绘画殿堂：《夜巡》《倒牛奶的女仆》。",
-      "count": 4
+      "count": 11
     },
     {
       "id": "van-gogh",
@@ -349,7 +364,7 @@
       "heat": 0.86,
       "heatLabel": "全球最大梵高收藏 · 社媒热度高",
       "blurb": "梵高作品与信件收藏全球之最，《向日葵》系列。",
-      "count": 5
+      "count": 8
     },
     {
       "id": "mauritshuis",
@@ -379,7 +394,7 @@
       "heat": 0.84,
       "heatLabel": "文艺复兴殿堂 · 约500万/年",
       "blurb": "波提切利《维纳斯的诞生》《春》，文艺复兴艺术巅峰。",
-      "count": 5
+      "count": 20
     },
     {
       "id": "prado",
@@ -394,7 +409,7 @@
       "heat": 0.77,
       "heatLabel": "戈雅与委拉斯开兹殿堂",
       "blurb": "《宫娥》《人间乐园》《1808年5月3日》。",
-      "count": 4
+      "count": 19
     },
     {
       "id": "reina-sofia",
@@ -409,7 +424,7 @@
       "heat": 0.71,
       "heatLabel": "《格尔尼卡》藏地",
       "blurb": "毕加索《格尔尼卡》与20世纪西班牙现代艺术。",
-      "count": 1
+      "count": 5
     },
     {
       "id": "khm",
@@ -424,7 +439,7 @@
       "heat": 0.63,
       "heatLabel": "哈布斯堡皇室珍藏",
       "blurb": "切利尼盐罐、勃鲁盖尔《雪中猎人》。",
-      "count": 3
+      "count": 22
     },
     {
       "id": "hermitage",
@@ -439,7 +454,7 @@
       "heat": 0.76,
       "heatLabel": "全球最大博物馆之一 · 300万+藏品",
       "blurb": "孔雀钟、达·芬奇《持花圣母》、伦勃朗《达娜厄》。",
-      "count": 5
+      "count": 21
     },
     {
       "id": "vatican",
@@ -454,7 +469,7 @@
       "heat": 0.93,
       "heatLabel": "全球TOP2 · 约680万/年",
       "blurb": "米开朗基罗《创世纪》《最后的审判》，拉奥孔群像。",
-      "count": 5
+      "count": 27
     },
     {
       "id": "tokyo-national",
@@ -469,7 +484,7 @@
       "heat": 0.72,
       "heatLabel": "日本最古老博物馆",
       "blurb": "曜变天目、松林图屏风、埴轮武人——日本国宝殿堂。",
-      "count": 2
+      "count": 24
     },
     {
       "id": "korea-national",
@@ -484,7 +499,7 @@
       "heat": 0.69,
       "heatLabel": "亚洲参观人数前列",
       "blurb": "金铜半跏思惟像、新罗金冠、青瓷精品。",
-      "count": 2
+      "count": 21
     },
     {
       "id": "norway-national",
@@ -499,7 +514,7 @@
       "heat": 0.65,
       "heatLabel": "《呐喊》藏地",
       "blurb": "蒙克《呐喊》与挪威艺术全集。",
-      "count": 2
+      "count": 23
     }
   ]
 }
