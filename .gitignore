@@ -5,3 +5,7 @@ dist/
 .vercel/output/
 .dlx-cache/
 .vercel-home/
+
+.vercel/.env.*
+.vercel/static-build/
+.vercel/README.txt
