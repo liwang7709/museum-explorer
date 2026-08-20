@@ -3,3 +3,7 @@ dist/
 *.log
 .DS_Store
 scripts/.cache/
+
+.vercel/
+.dlx-cache/
+.vercel
