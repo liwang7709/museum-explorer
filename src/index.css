@@ -955,3 +955,47 @@ h1, h2, h3 {
   opacity: 0.8;
   margin-left: 2px;
 }
+
+/* ── 打卡历史页 ─────────────────────── */
+.history-page {
+  padding: 8px 0 20px;
+}
+
+.history-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 4px 0 18px;
+  flex-wrap: wrap;
+}
+
+.history-head h2 {
+  margin: 0;
+  font-size: 20px;
+  color: var(--museum);
+}
+
+.history-group {
+  margin: 6px 0 20px;
+}
+
+.history-date {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--ink-soft);
+  border-left: 3px solid var(--gold);
+  padding-left: 10px;
+  margin: 0 0 12px;
+}
+
+.history-time {
+  float: right;
+  font-size: 11px;
+  color: var(--ink-soft);
+  font-weight: normal;
+}
+
+.history-ghost {
+  opacity: 0.72;
+}

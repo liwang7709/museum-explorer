@@ -30,7 +30,7 @@ export default function ArtifactCard({ artifact, museum, onOpen, onChecked }) {
               target="_blank"
               rel="noopener noreferrer"
               onClick={() => {
-                recordCheckin(artifact.id);
+                recordCheckin(artifact.id, artifact);
                 onChecked?.();
               }}
               title="点击跳转维基百科深入了解（计入打卡）"

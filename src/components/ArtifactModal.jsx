@@ -19,7 +19,7 @@ export default function ArtifactModal({ artifact, museum, onClose, onChecked }) 
 
   useEffect(() => {
     if (artifact) {
-      const fresh = recordCheckin(artifact.id);
+      const fresh = recordCheckin(artifact.id, artifact);
       setCheckedIn(fresh || true);
       onChecked?.();
       const onKey = (e) => e.key === 'Escape' && onClose();
@@ -35,7 +35,7 @@ export default function ArtifactModal({ artifact, museum, onClose, onChecked }) 
   if (!artifact) return null;
 
   const doCheckin = () => {
-    recordCheckin(artifact.id);
+    recordCheckin(artifact.id, artifact);
     setCheckedIn(true);
     onChecked?.();
   };

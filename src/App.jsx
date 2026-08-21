@@ -1,12 +1,12 @@
 import { useEffect, useMemo, useState } from 'react';
 import { loadAll, searchArtifacts } from './lib/data.js';
 import { pickByDate, todayStr, formatDateCn } from './lib/seed.js';
-import { countCheckins, getCheckins, pruneCheckins } from './lib/checkin.js';
+import { countToday, countTotal, getViewedIds } from './lib/checkin.js';
 import ArtifactCard from './components/ArtifactCard.jsx';
 import ArtifactModal from './components/ArtifactModal.jsx';
 import MuseumGrid from './components/MuseumGrid.jsx';
 import NewsPanel from './components/NewsPanel.jsx';
-import CheckinHistory from './components/CheckinHistory.jsx';
+import HistoryPage from './components/HistoryPage.jsx';
 
 export default function App() {
   const [data, setData] = useState({ museums: [], countries: [], artifacts: [], news: [], today: null });
@@ -16,8 +16,9 @@ export default function App() {
   const [museumId, setMuseumId] = useState(null);
   const [query, setQuery] = useState('');
   const [modal, setModal] = useState(null);
-  const [showHistory, setShowHistory] = useState(false);
-  const [checkins, setCheckins] = useState(countCheckins());
+  const [page, setPage] = useState('home'); // 'home' | 'history'
+  const [todayCount, setTodayCount] = useState(countToday());
+  const [totalCount, setTotalCount] = useState(countTotal());
   const [refreshCount, setRefreshCount] = useState(0);
 
   const reload = () => {
@@ -25,9 +26,6 @@ export default function App() {
     setLoadError('');
     loadAll()
       .then((d) => {
-        // 清理失效的打卡记录（数据版本迁移后不留脏计数）
-        const valid = new Set(d.artifacts.map((a) => a.id));
-        setCheckins(pruneCheckins(valid));
         setData(d);
         setLoading(false);
       })
@@ -67,7 +65,7 @@ export default function App() {
   }, [data.artifacts, museumId, country, filteredMuseums]);
 
   // 已看过的文物不再推荐（只影响推荐，不影响检索）
-  const viewedIds = useMemo(() => new Set(Object.keys(getCheckins())), [checkins]);
+  const viewedIds = useMemo(() => getViewedIds(), [totalCount]);
 
   const dailyPicks = useMemo(() => {
     let picks;
@@ -99,7 +97,10 @@ export default function App() {
     [data.artifacts, museumById, query],
   );
 
-  const bumpCheckins = () => setCheckins(countCheckins());
+  const bumpCheckins = () => {
+    setTodayCount(countToday());
+    setTotalCount(countTotal());
+  };
   const openArtifact = (a) => setModal(a);
   const pickHotTerm = (t) => setQuery(t);
   const searchFocused = query.trim() !== '';
@@ -122,10 +123,11 @@ export default function App() {
         </div>
         <button
           className="checkin-badge"
-          onClick={() => setShowHistory(true)}
+          onClick={() => setPage('history')}
           title="点击查看打卡历史"
         >
-          🎫 已看 <b>{checkins}</b> 件文物 <span className="checkin-arrow">▾</span>
+          🎫 今天已看 <b>{todayCount}</b> 件 · 累计 <b>{totalCount}</b> 件
+          <span className="checkin-arrow">▾</span>
         </button>
       </header>
 
@@ -136,6 +138,8 @@ export default function App() {
         </div>
       )}
 
+      {page === 'home' ? (
+        <>
       {/* 第一行：国家/地区筛选 */}
       <nav className="filter-row" aria-label="按国家或地区筛选博物馆">
         {['全部', ...data.countries].map((c) => (
@@ -272,6 +276,15 @@ export default function App() {
           )}
         </section>
       </main>
+      </> /* end home page */
+      ) : (
+        <HistoryPage
+          artifacts={data.artifacts}
+          museumById={museumById}
+          onOpen={openArtifact}
+          onBack={() => setPage('home')}
+        />
+      )}
 
       <footer className="site-footer">
         <p>
@@ -290,14 +303,6 @@ export default function App() {
         onClose={() => setModal(null)}
         onChecked={bumpCheckins}
       />
-      {showHistory && (
-        <CheckinHistory
-          artifacts={data.artifacts}
-          museumById={museumById}
-          onOpen={openArtifact}
-          onClose={() => setShowHistory(false)}
-        />
-      )}
     </div>
   );
 }
