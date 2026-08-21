@@ -7,16 +7,18 @@ import ArtifactModal from './components/ArtifactModal.jsx';
 import MuseumGrid from './components/MuseumGrid.jsx';
 import NewsPanel from './components/NewsPanel.jsx';
 import HistoryPage from './components/HistoryPage.jsx';
+import MuseumPage from './components/MuseumPage.jsx';
 
 export default function App() {
   const [data, setData] = useState({ museums: [], countries: [], artifacts: [], news: [], today: null });
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState('');
   const [country, setCountry] = useState('全部');
-  const [museumId, setMuseumId] = useState(null);
   const [query, setQuery] = useState('');
   const [modal, setModal] = useState(null);
-  const [page, setPage] = useState('home'); // 'home' | 'history'
+  const [page, setPage] = useState('home'); // 'home' | 'history' | 'museum'
+  const [activeMuseum, setActiveMuseum] = useState(null);
+  const [showAllMuseums, setShowAllMuseums] = useState(false);
   const [todayCount, setTodayCount] = useState(countToday());
   const [totalCount, setTotalCount] = useState(countTotal());
   const [refreshCount, setRefreshCount] = useState(0);
@@ -55,21 +57,19 @@ export default function App() {
 
   const dailyPool = useMemo(() => {
     let pool = data.artifacts;
-    if (museumId) {
-      pool = pool.filter((a) => a.museumId === museumId);
-    } else if (country !== '全部') {
+    if (country !== '全部') {
       const ids = new Set(filteredMuseums.map((m) => m.id));
       pool = pool.filter((a) => ids.has(a.museumId));
     }
     return pool;
-  }, [data.artifacts, museumId, country, filteredMuseums]);
+  }, [data.artifacts, country, filteredMuseums]);
 
   // 已看过的文物不再推荐（只影响推荐，不影响检索）
   const viewedIds = useMemo(() => getViewedIds(), [totalCount]);
 
   const dailyPicks = useMemo(() => {
     let picks;
-    if (refreshCount === 0 && data.today?.picks?.length && !museumId && country === '全部') {
+    if (refreshCount === 0 && data.today?.picks?.length && country === '全部') {
       // 服务端今日批次（与客户端算法一致，互为兜底）
       const byId = new Map(data.artifacts.map((a) => [a.id, a]));
       picks = data.today.picks.map((id) => byId.get(id)).filter(Boolean);
@@ -80,7 +80,7 @@ export default function App() {
     }
     const unseen = picks.filter((a) => !viewedIds.has(a.id));
     return unseen.length >= 6 ? unseen : picks; // 避免清空：池子被看完时退回包含已看的批次
-  }, [dailyPool, today, data.today, data.artifacts, museumId, country, refreshCount, viewedIds]);
+  }, [dailyPool, today, data.today, data.artifacts, country, refreshCount, viewedIds]);
 
   const hotTerms = useMemo(() => {
     if (data.today?.hotTerms?.length) {
@@ -104,12 +104,17 @@ export default function App() {
   const openArtifact = (a) => setModal(a);
   const pickHotTerm = (t) => setQuery(t);
   const searchFocused = query.trim() !== '';
-
-  const selectMuseum = (id) => {
-    setMuseumId(id);
-    setRefreshCount(0);
-    document.getElementById('museum-section')?.scrollIntoView({ behavior: 'smooth' });
+  const openMuseum = (m) => {
+    setActiveMuseum(m);
+    setPage('museum');
   };
+
+  // 热门博物馆：默认只展示按热度排序的前 8 家，其余折叠
+  const hotSorted = useMemo(
+    () => [...filteredMuseums].sort((a, b) => b.heat - a.heat),
+    [filteredMuseums],
+  );
+  const visibleMuseums = showAllMuseums ? filteredMuseums : hotSorted.slice(0, 8);
 
   return (
     <div className="app">
@@ -148,8 +153,8 @@ export default function App() {
             className={`chip ${country === c ? 'active' : ''}`}
             onClick={() => {
               setCountry(c);
-              setMuseumId(null);
               setRefreshCount(0);
+              setShowAllMuseums(false);
             }}
           >
             {c}
@@ -158,7 +163,7 @@ export default function App() {
       </nav>
 
       <main>
-        {/* 热门博物馆 */}
+        {/* 热门博物馆：默认热门 TOP8 横滑，其余折叠 */}
         <section id="museum-section" className="section">
           <h2 className="section-title">
             🔥 当下热门博物馆
@@ -167,19 +172,26 @@ export default function App() {
           {loading && !data.museums.length ? (
             <p className="empty">加载中…</p>
           ) : filteredMuseums.length ? (
-            <MuseumGrid
-              museums={filteredMuseums}
-              hotMuseumIds={hotMuseumIds}
-              selected={museumId}
-              onSelect={selectMuseum}
-            />
+            <>
+              <MuseumGrid
+                museums={visibleMuseums}
+                hotMuseumIds={hotMuseumIds}
+                onOpen={openMuseum}
+                compact={!showAllMuseums}
+              />
+              {filteredMuseums.length > 8 && (
+                <button
+                  className="chip expand-btn"
+                  onClick={() => setShowAllMuseums((v) => !v)}
+                >
+                  {showAllMuseums
+                    ? '▴ 收起博物馆列表'
+                    : `▾ 展开全部 ${filteredMuseums.length} 家博物馆`}
+                </button>
+              )}
+            </>
           ) : (
             <p className="empty">该地区暂无博物馆数据</p>
-          )}
-          {museumId && (
-            <button className="chip clear-filter" onClick={() => setMuseumId(null)}>
-              ✕ 清除博物馆筛选（{museumById.get(museumId)?.name}）
-            </button>
           )}
         </section>
 
@@ -277,12 +289,21 @@ export default function App() {
         </section>
       </main>
       </> /* end home page */
-      ) : (
+      ) : page === 'history' ? (
         <HistoryPage
           artifacts={data.artifacts}
           museumById={museumById}
           onOpen={openArtifact}
           onBack={() => setPage('home')}
+        />
+      ) : (
+        <MuseumPage
+          museum={activeMuseum}
+          artifacts={data.artifacts}
+          museumById={museumById}
+          onOpen={openArtifact}
+          onBack={() => setPage('home')}
+          onChecked={bumpCheckins}
         />
       )}
 

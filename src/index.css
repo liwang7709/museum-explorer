@@ -999,3 +999,115 @@ h1, h2, h3 {
 .history-ghost {
   opacity: 0.72;
 }
+
+/* ── 热门博物馆压缩（V1.3） ───────────── */
+.museum-strip {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  padding: 2px 2px 8px;
+  scroll-snap-type: x proximity;
+}
+
+.museum-mini {
+  flex: 0 0 auto;
+  width: 172px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 10px 12px;
+  cursor: pointer;
+  text-align: left;
+  font: inherit;
+  color: inherit;
+  box-shadow: var(--shadow);
+  transition: border-color 0.15s, transform 0.15s;
+  scroll-snap-align: start;
+}
+
+.museum-mini:hover {
+  border-color: var(--gold);
+  transform: translateY(-2px);
+}
+
+.museum-mini .flag-svg {
+  width: 30px;
+  height: 20px;
+}
+
+.museum-mini-name {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--museum-deep);
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.museum-mini-meta {
+  font-size: 11px;
+  color: var(--ink-soft);
+}
+
+.expand-btn {
+  margin-top: 12px;
+  background: #fff;
+  border-color: var(--museum);
+  color: var(--museum);
+}
+
+.expand-btn:hover {
+  background: var(--museum);
+  color: #fff;
+}
+
+/* ── 博物馆详情页 ─────────────────────── */
+.museum-page {
+  padding: 8px 0 20px;
+}
+
+.museum-page-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin: 2px 0 4px;
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+
+.museum-page-blurb {
+  margin: 6px 0;
+  font-size: 13.5px;
+  color: var(--ink);
+  max-width: 720px;
+}
+
+.museum-page-links {
+  display: flex;
+  gap: 8px;
+  margin: 8px 0 4px;
+  flex-wrap: wrap;
+}
+
+.museum-page-count {
+  font-size: 16px;
+  color: var(--museum);
+  margin: 16px 0 12px;
+}
+
+.inline-flag {
+  display: inline-flex;
+  margin-right: 4px;
+  vertical-align: -3px;
+}
+
+.inline-flag .flag-svg {
+  width: 30px;
+  height: 20px;
+}
