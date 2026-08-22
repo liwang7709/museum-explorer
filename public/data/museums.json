@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T22:03:41.674Z",
+  "generatedAt": "2026-08-22T21:59:42.774Z",
   "countries": [
     "中国",
     "中国台湾",
@@ -349,7 +349,7 @@
       "heat": 0.8,
       "heatLabel": "伦勃朗《夜巡》藏地",
       "blurb": "荷兰黄金时代绘画殿堂：《夜巡》《倒牛奶的女仆》。",
-      "count": 14
+      "count": 15
     },
     {
       "id": "van-gogh",
@@ -394,7 +394,7 @@
       "heat": 0.84,
       "heatLabel": "文艺复兴殿堂 · 约500万/年",
       "blurb": "波提切利《维纳斯的诞生》《春》，文艺复兴艺术巅峰。",
-      "count": 34
+      "count": 37
     },
     {
       "id": "prado",
@@ -409,7 +409,7 @@
       "heat": 0.77,
       "heatLabel": "戈雅与委拉斯开兹殿堂",
       "blurb": "《宫娥》《人间乐园》《1808年5月3日》。",
-      "count": 30
+      "count": 31
     },
     {
       "id": "reina-sofia",
@@ -439,7 +439,7 @@
       "heat": 0.63,
       "heatLabel": "哈布斯堡皇室珍藏",
       "blurb": "切利尼盐罐、勃鲁盖尔《雪中猎人》。",
-      "count": 33
+      "count": 31
     },
     {
       "id": "hermitage",
@@ -454,7 +454,7 @@
       "heat": 0.76,
       "heatLabel": "全球最大博物馆之一 · 300万+藏品",
       "blurb": "孔雀钟、达·芬奇《持花圣母》、伦勃朗《达娜厄》。",
-      "count": 36
+      "count": 34
     },
     {
       "id": "vatican",
@@ -469,7 +469,7 @@
       "heat": 0.93,
       "heatLabel": "全球TOP2 · 约680万/年",
       "blurb": "米开朗基罗《创世纪》《最后的审判》，拉奥孔群像。",
-      "count": 35
+      "count": 34
     },
     {
       "id": "tokyo-national",
@@ -484,7 +484,7 @@
       "heat": 0.72,
       "heatLabel": "日本最古老博物馆",
       "blurb": "曜变天目、松林图屏风、埴轮武人——日本国宝殿堂。",
-      "count": 38
+      "count": 36
     },
     {
       "id": "korea-national",
@@ -499,7 +499,7 @@
       "heat": 0.69,
       "heatLabel": "亚洲参观人数前列",
       "blurb": "金铜半跏思惟像、新罗金冠、青瓷精品。",
-      "count": 33
+      "count": 32
     },
     {
       "id": "norway-national",
@@ -514,7 +514,7 @@
       "heat": 0.65,
       "heatLabel": "《呐喊》藏地",
       "blurb": "蒙克《呐喊》与挪威艺术全集。",
-      "count": 42
+      "count": 44
     }
   ]
 }
