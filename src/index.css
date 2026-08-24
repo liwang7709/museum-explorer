@@ -1128,3 +1128,17 @@ h1, h2, h3 {
   border-radius: 999px;
   padding: 2px 10px;
 }
+
+/* 历史旧记录（无快照） */
+.history-legacy {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 10px 14px;
+  background: #faf6ec;
+  border: 1px dashed var(--line);
+  border-radius: 10px;
+  font-size: 13px;
+  color: var(--ink-soft);
+}

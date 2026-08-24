@@ -31,6 +31,8 @@ export default function HistoryPage({ artifacts, museumById, onOpen, onBack }) {
         imageThumb: h.snapshot?.imageThumb || current?.imageThumb || null,
         wikiUrl: h.snapshot?.wikiUrl || current?.wikiUrl || null,
         artifact: current || null,
+        // 旧记录（无快照且无法映射回当前文物）只有时间信息
+        hasData: !!(h.snapshot || current),
       };
     });
     const g = new Map();
@@ -55,7 +57,14 @@ export default function HistoryPage({ artifacts, museumById, onOpen, onBack }) {
           <section key={label} className="history-group">
             <h3 className="history-date">{label}</h3>
             <div className="artifact-grid">
-              {items.map((item) => (
+              {items.map((item) =>
+                !item.hasData ? (
+                  // 历史旧记录：无快照且无法映射回当前文物（仅保留打卡时间与计数）
+                  <div key={item.id} className="history-legacy">
+                    <span>🕰 已查看的文物（历史旧记录）</span>
+                    <span className="history-time">{new Date(item.t).toLocaleString('zh-CN')}</span>
+                  </div>
+                ) : (
                 <article
                   key={item.id}
                   className={`artifact-card ${item.artifact ? '' : 'history-ghost'}`}
