@@ -1142,3 +1142,24 @@ h1, h2, h3 {
   font-size: 13px;
   color: var(--ink-soft);
 }
+
+/* 今日热门带图（V1.5） */
+.hot-thumb {
+  flex: 0 0 auto;
+  width: 52px;
+  height: 40px;
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--paper-2);
+}
+
+.hot-thumb-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.hot-row {
+  align-items: center;
+}

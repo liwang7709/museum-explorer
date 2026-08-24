@@ -7,6 +7,7 @@ import ArtifactModal from './components/ArtifactModal.jsx';
 import MuseumGrid from './components/MuseumGrid.jsx';
 import NewsPanel from './components/NewsPanel.jsx';
 import HistoryPage from './components/HistoryPage.jsx';
+import ImgWithFallback from './components/ImgWithFallback.jsx';
 import MuseumPage from './components/MuseumPage.jsx';
 
 export default function App() {
@@ -83,13 +84,20 @@ export default function App() {
   }, [dailyPool, today, data.today, data.artifacts, country, refreshCount, viewedIds]);
 
   const hotTerms = useMemo(() => {
+    // 用标题/英文标题建立"名称→文物"索引，供热门词带图
+    const byTitle = new Map();
+    for (const a of data.artifacts) {
+      if (!byTitle.has(a.title)) byTitle.set(a.title, a);
+      if (a.titleEn && !byTitle.has(a.titleEn)) byTitle.set(a.titleEn, a);
+    }
+    const withArtifact = (term, reason) => ({ term, reason, artifact: byTitle.get(term) || null });
     if (data.today?.hotTerms?.length) {
       return data.today.hotTerms.map((h) =>
-        typeof h === 'string' ? { term: h, reason: '' } : { term: h.term, reason: h.reason || '' },
+        typeof h === 'string' ? withArtifact(h, '') : withArtifact(h.term, h.reason || ''),
       );
     }
     const top = [...data.artifacts].sort((a, b) => b.popularity - a.popularity).slice(0, 30);
-    return pickByDate(top, today, 5).map((a) => ({ term: a.title, reason: '' }));
+    return pickByDate(top, today, 5).map((a) => ({ term: a.title, reason: '', artifact: a }));
   }, [data, today]);
 
   const results = useMemo(
@@ -254,6 +262,16 @@ export default function App() {
             <div className="hot-table">
               {hotTerms.map((h) => (
                 <div key={h.term} className="hot-row">
+                  <span className="hot-thumb">
+                    {h.artifact ? (
+                      <ImgWithFallback
+                        src={h.artifact.imageUrl}
+                        thumb={h.artifact.imageThumb}
+                        alt={h.term}
+                        className="hot-thumb-img"
+                      />
+                    ) : null}
+                  </span>
                   <button
                     className="hot-term-name"
                     onClick={() => pickHotTerm(h.term)}
