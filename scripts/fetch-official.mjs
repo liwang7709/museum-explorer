@@ -31,7 +31,9 @@ async function enrichMet(art) {
     title: hasZhTitle ? art.title : o.title || art.title,
     imageUrl: big || art.imageUrl,
     imageThumb: o.primaryImageSmall || art.imageThumb,
-    sourceUrl: o.objectURL || art.sourceUrl,
+    // 官网详情页与检索页分离：detailUrl=藏品详情，sourceUrl=官网检索（列表）
+    detailUrl: o.objectURL || art.detailUrl,
+    sourceUrl: art.sourceUrl,
     description: enrichDescription(art, {
       artist: o.artistDisplayName,
       dateText: o.objectDate,
@@ -70,7 +72,8 @@ async function enrichArtic(art) {
     // 官方图优先；缩略图保留维基共享资源版作为浏览器兜底（官方 CDN 可能拦截跨站热链）
     imageUrl: img || art.imageUrl,
     imageThumb: art.imageThumb || img,
-    sourceUrl: `https://www.artic.edu/artworks/${best.id}`,
+    detailUrl: `https://www.artic.edu/artworks/${best.id}`,
+    sourceUrl: art.sourceUrl,
     description: enrichDescription(art, {
       artist: best.artist_title,
       dateText: best.date_display,
@@ -105,7 +108,8 @@ async function enrichCleveland(art) {
     title: best.title || art.title,
     imageUrl: img || art.imageUrl,
     imageThumb: art.imageThumb || img,
-    sourceUrl: `https://www.clevelandart.org/art/${best.id}`,
+    detailUrl: `https://www.clevelandart.org/art/${best.id}`,
+    sourceUrl: art.sourceUrl,
     description: enrichDescription(art, {
       artist: best.creators?.map((c) => c.description).filter(Boolean).join(', '),
       dateText: best.creation_date,

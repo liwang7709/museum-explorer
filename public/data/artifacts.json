@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T22:00:39.884Z",
+  "generatedAt": "2026-08-24T08:19:45.339Z",
   "total": 373,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
@@ -242,7 +242,7 @@
       "imageUrl": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-13139-001.jpg",
       "imageThumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-13139-001.jpg",
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E6%A0%BC%E6%8B%89%E5%BA%95%E4%B9%8B%E6%AD%BB",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436105",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search?q=The%20Death%20of%20Socrates",
       "tags": [
         "MET"
       ],
@@ -251,7 +251,8 @@
       "id": "met-Q1752990",
       "popularity": 1,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.metmuseum.org/art/collection/search/436105"
     },
     {
       "museumId": "met",
@@ -262,7 +263,7 @@
       "imageUrl": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-20821-001.jpg",
       "imageThumb": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-20821-001.jpg",
       "wikiUrl": "https://en.wikipedia.org/wiki/The_Gulf_Stream_(painting)",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/11122",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search?q=The%20Gulf%20Stream",
       "tags": [
         "MET"
       ],
@@ -271,7 +272,8 @@
       "id": "met-Q7738501",
       "popularity": 1,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.metmuseum.org/art/collection/search/11122"
     },
     {
       "museumId": "met",
@@ -282,7 +284,7 @@
       "imageUrl": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-29006-001.jpg",
       "imageThumb": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-29006-001.jpg",
       "wikiUrl": "https://zh.wikipedia.org/wiki/X%E5%A4%AB%E4%BA%BA%E8%82%96%E5%83%8F",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/12127",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search?q=Madame%20X%20(Virginie%20Am%C3%A9lie%20Avegno%20Gautreau)",
       "tags": [
         "MET"
       ],
@@ -291,7 +293,8 @@
       "id": "met-Q2664039",
       "popularity": 1,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.metmuseum.org/art/collection/search/12127"
     },
     {
       "museumId": "met",
@@ -302,7 +305,7 @@
       "imageUrl": "https://images.metmuseum.org/CRDImages/cl/web-large/DP273206.jpg",
       "imageThumb": "https://images.metmuseum.org/CRDImages/cl/web-large/DP273206.jpg",
       "wikiUrl": "https://en.wikipedia.org/wiki/M%C3%A9rode_Altarpiece",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/470304",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search?q=M%C3%A9rode%20Altarpiece",
       "tags": [
         "MET"
       ],
@@ -311,7 +314,8 @@
       "id": "met-Q285392",
       "popularity": 1,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.metmuseum.org/art/collection/search/470304"
     },
     {
       "museumId": "met",
@@ -322,14 +326,15 @@
       "imageUrl": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1502_cropped2.jpg",
       "imageThumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1502_cropped2.jpg",
       "wikiUrl": null,
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436532",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search?q=Self-Portrait%20with%20a%20Straw%20Hat",
       "tags": [
         "MET"
       ],
       "id": "met-Q19911684",
       "popularity": 1,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.metmuseum.org/art/collection/search/436532"
     },
     {
       "museumId": "british-museum",
@@ -830,7 +835,7 @@
       "imageUrl": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-30758-001.jpg",
       "imageThumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-30758-001.jpg",
       "wikiUrl": "https://en.wikipedia.org/wiki/Aristotle_with_a_Bust_of_Homer",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437394",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search?q=Aristotle%20with%20a%20Bust%20of%20Homer",
       "tags": [
         "MET"
       ],
@@ -839,7 +844,8 @@
       "id": "met-Q2404992",
       "popularity": 0.99,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.metmuseum.org/art/collection/search/437394"
     },
     {
       "museumId": "louvre",
@@ -868,7 +874,7 @@
       "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/Autumn_Rhythm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "imageThumb": null,
       "wikiUrl": "https://en.wikipedia.org/wiki/Autumn_Rhythm_(Number_30)",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/488978",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search?q=Autumn%20Rhythm%20(Number%2030)",
       "tags": [
         "MET"
       ],
@@ -877,7 +883,8 @@
       "id": "met-Q2873092",
       "popularity": 0.989,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.metmuseum.org/art/collection/search/488978"
     },
     {
       "museumId": "smithsonian",
@@ -922,14 +929,15 @@
       "imageUrl": "https://images.metmuseum.org/CRDImages/as/web-large/DP130155.jpg",
       "imageThumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP130155.jpg",
       "wikiUrl": null,
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/45434",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search?q=The%20Great%20Wave%20off%20Kanagawa",
       "tags": [
         "MET"
       ],
       "id": "met-Q28912605",
       "popularity": 0.985,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.metmuseum.org/art/collection/search/45434"
     },
     {
       "museumId": "npm-taipei",
@@ -956,7 +964,7 @@
       "imageUrl": "https://images.metmuseum.org/CRDImages/ep/web-large/DP119115.jpg",
       "imageThumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP119115.jpg",
       "wikiUrl": "https://en.wikipedia.org/wiki/The_Harvesters_(painting)",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/435809",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search?q=The%20Harvesters",
       "tags": [
         "MET"
       ],
@@ -965,7 +973,8 @@
       "id": "met-Q776175",
       "popularity": 0.981,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.metmuseum.org/art/collection/search/435809"
     },
     {
       "museumId": "british-museum",
@@ -1150,14 +1159,15 @@
       "imageUrl": "https://images.metmuseum.org/CRDImages/eg/web-large/DP240337.jpg",
       "imageThumb": "https://images.metmuseum.org/CRDImages/eg/web-large/DP240337.jpg",
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E4%B8%B9%E9%93%8E%E7%A5%9E%E5%BA%99",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/547802",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search?q=Temple%20of%20Dendur",
       "tags": [
         "MET"
       ],
       "id": "met-Q1186970",
       "popularity": 0.972,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.metmuseum.org/art/collection/search/547802"
     },
     {
       "museumId": "british-museum",
@@ -1474,7 +1484,7 @@
       "imageUrl": "https://images.metmuseum.org/CRDImages/ad/web-large/DP215410.jpg",
       "imageThumb": "https://images.metmuseum.org/CRDImages/ad/web-large/DP215410.jpg",
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%8D%8E%E7%9B%9B%E9%A1%BF%E6%A8%AA%E6%B8%A1%E7%89%B9%E6%8B%89%E5%8D%8E%E6%B2%B3",
-      "sourceUrl": "https://www.metmuseum.org/art/collection/search/11417",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search?q=Washington%20Crossing%20the%20Delaware",
       "tags": [
         "MET"
       ],
@@ -1483,7 +1493,8 @@
       "id": "met-Q509806",
       "popularity": 0.958,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.metmuseum.org/art/collection/search/11417"
     },
     {
       "museumId": "british-museum",
@@ -2114,7 +2125,7 @@
       "imageUrl": "https://www.artic.edu/iiif/2/b272df73-a965-ac37-4172-be4e99483637/full/1200,/0/default.jpg",
       "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Grant%20Wood%20-%20American%20Gothic%20(1930).jpg?width=420",
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E5%93%A5%E7%89%B9%E5%BC%8F",
-      "sourceUrl": "https://www.artic.edu/artworks/6565",
+      "sourceUrl": "https://www.artic.edu/search?q=American%20Gothic",
       "tags": [
         "AIC"
       ],
@@ -2123,7 +2134,8 @@
       "id": "aic-Q464782",
       "popularity": 0.9259999999999999,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.artic.edu/artworks/6565"
     },
     {
       "museumId": "uffizi",
@@ -2390,7 +2402,7 @@
       "imageUrl": "https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/1200,/0/default.jpg",
       "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20Seerosen%20um%201915%20Neue%20Pinakothek-4.jpg?width=420",
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E7%9D%A1%E8%8E%B2_(%E8%8E%AB%E5%A5%88)",
-      "sourceUrl": "https://www.artic.edu/artworks/16568",
+      "sourceUrl": "https://www.artic.edu/search?q=Water%20Lilies",
       "tags": [
         "AIC"
       ],
@@ -2399,7 +2411,8 @@
       "id": "aic-Q1189907",
       "popularity": 0.9099999999999999,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.artic.edu/artworks/16568"
     },
     {
       "museumId": "uffizi",
@@ -2564,7 +2577,7 @@
       "imageUrl": "https://www.artic.edu/iiif/2/831a05de-d3f6-f4fa-a460-23008dd58dda/full/1200,/0/default.jpg",
       "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Nighthawks%20by%20Edward%20Hopper%201942.jpg?width=420",
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%A4%9C%E9%81%8A%E8%80%85",
-      "sourceUrl": "https://www.artic.edu/artworks/111628",
+      "sourceUrl": "https://www.artic.edu/search?q=Nighthawks",
       "tags": [
         "AIC"
       ],
@@ -2573,7 +2586,8 @@
       "id": "aic-Q83872",
       "popularity": 0.9029999999999999,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.artic.edu/artworks/111628"
     },
     {
       "museumId": "national-gallery-london",
@@ -2620,7 +2634,7 @@
       "imageUrl": "https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/1200,/0/default.jpg",
       "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20-%20The%20Bedroom%20-%20Google%20Art%20Project.jpg?width=420",
       "wikiUrl": "https://en.wikipedia.org/wiki/The_Bedroom_(Widener_Collection)",
-      "sourceUrl": "https://www.artic.edu/artworks/28560",
+      "sourceUrl": "https://www.artic.edu/search?q=The%20Bedroom",
       "tags": [
         "AIC"
       ],
@@ -2629,7 +2643,8 @@
       "id": "aic-Q19961135",
       "popularity": 0.8999999999999999,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.artic.edu/artworks/28560"
     },
     {
       "museumId": "uffizi",
@@ -3310,7 +3325,7 @@
       "imageUrl": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/1200,/0/default.jpg",
       "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20Sunday%20on%20La%20Grande%20Jatte%2C%20Georges%20Seurat%2C%201884.jpg?width=420",
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%A2%97%E5%B2%9B%E7%9A%84%E6%98%9F%E6%9C%9F%E5%A4%A9%E4%B8%8B%E5%8D%88",
-      "sourceUrl": "https://www.artic.edu/artworks/27992",
+      "sourceUrl": "https://www.artic.edu/search?q=A%20Sunday%20Afternoon%20on%20the%20Island%20of%20La%20Grande%20Jatte",
       "tags": [
         "AIC"
       ],
@@ -3319,7 +3334,8 @@
       "id": "aic-Q1044742",
       "popularity": 0.849,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.artic.edu/artworks/27992"
     },
     {
       "museumId": "uffizi",
@@ -3420,7 +3436,7 @@
       "imageUrl": "https://www.artic.edu/iiif/2/4e7f3081-179a-af18-8abd-7908a7ae8c4e/full/1200,/0/default.jpg",
       "imageThumb": "https://www.artic.edu/iiif/2/4e7f3081-179a-af18-8abd-7908a7ae8c4e/full/1200,/0/default.jpg",
       "wikiUrl": "https://en.wikipedia.org/wiki/The_Old_Guitarist",
-      "sourceUrl": "https://www.artic.edu/artworks/28067",
+      "sourceUrl": "https://www.artic.edu/search?q=The%20Old%20Guitarist",
       "tags": [
         "AIC"
       ],
@@ -3429,7 +3445,8 @@
       "id": "aic-Q3228112",
       "popularity": 0.842,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.artic.edu/artworks/28067"
     },
     {
       "museumId": "prado",
@@ -5286,7 +5303,7 @@
       "imageUrl": "https://openaccess-cdn.clevelandart.org/1959.341/1959.341_web.jpg",
       "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/0%20St%20Georges%20et%20le%20dragon%20-%20Jorge%20Ingl%C3%A9s%20-%20New%20York.jpg?width=420",
       "wikiUrl": "https://en.wikipedia.org/wiki/Saint_George_and_the_Dragon",
-      "sourceUrl": "https://www.clevelandart.org/art/135829",
+      "sourceUrl": "https://www.clevelandart.org/art/search?q=Saint%20George%20and%20the%20Dragon",
       "tags": [
         "CMA"
       ],
@@ -5295,7 +5312,8 @@
       "id": "cleveland-Q2509393",
       "popularity": 0.7270000000000001,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.clevelandart.org/art/135829"
     },
     {
       "museumId": "cleveland",
@@ -5306,7 +5324,7 @@
       "imageUrl": "https://openaccess-cdn.clevelandart.org/1917.42/1917.42_web.jpg",
       "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Thinker%2C%20Rodin.jpg?width=420",
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E6%B2%89%E6%80%9D%E8%80%85",
-      "sourceUrl": "https://www.clevelandart.org/art/97797",
+      "sourceUrl": "https://www.clevelandart.org/art/search?q=The%20Thinker",
       "tags": [
         "CMA"
       ],
@@ -5315,7 +5333,8 @@
       "id": "cleveland-Q18003128",
       "popularity": 0.7270000000000001,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.clevelandart.org/art/97797"
     },
     {
       "museumId": "korea-national",
@@ -6066,7 +6085,7 @@
       "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/La_Vie_by_Pablo_Picasso.jpg/3840px-La_Vie_by_Pablo_Picasso.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "imageThumb": null,
       "wikiUrl": "https://en.wikipedia.org/wiki/La_Vie_(painting)",
-      "sourceUrl": "https://www.clevelandart.org/art/124245",
+      "sourceUrl": "https://www.clevelandart.org/art/search?q=La%20Vie",
       "tags": [
         "CMA"
       ],
@@ -6075,7 +6094,8 @@
       "id": "cleveland-Q1799228",
       "popularity": 0.676,
       "imageSource": "official",
-      "sourceLabel": "官网开放数据"
+      "sourceLabel": "官网开放数据",
+      "detailUrl": "https://www.clevelandart.org/art/124245"
     },
     {
       "museumId": "norway-national",
