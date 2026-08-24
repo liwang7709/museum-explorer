@@ -1111,3 +1111,20 @@ h1, h2, h3 {
   width: 30px;
   height: 20px;
 }
+
+/* ── 看点结构化标签（V1.4） ───────────── */
+.tag-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+
+.tag {
+  font-size: 11.5px;
+  color: var(--museum);
+  background: #e8eef6;
+  border: 1px solid #c9d8ec;
+  border-radius: 999px;
+  padding: 2px 10px;
+}

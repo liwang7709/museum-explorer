@@ -211,6 +211,18 @@ function scoreEntity(ent, entry, museum) {
   return { score, bestSim };
 }
 
+// 结构化看点标签：从 Wikidata claims 提取（P31 类型 / P135 流派 / P170 作者 / P186 材质）
+// 标签实体的中文/英文名通过 wbgetentities 批量获取（走既有缓存，避免重复请求）
+async function fetchLabels(qids) {
+  const labels = {};
+  for (const qid of qids) {
+    if (labels[qid]) continue;
+    const ent = await getEntity(qid);
+    if (ent) labels[qid] = getLabel(ent);
+  }
+  return labels;
+}
+
 async function buildArtifact(ent, entry, museum, scoreInfo) {
   const imageFile = claimValues(ent, 'P18')[0];
   const art = {
@@ -228,6 +240,17 @@ async function buildArtifact(ent, entry, museum, scoreInfo) {
   };
   const metId = claimValues(ent, 'P3634')[0];
   if (metId !== undefined) art._metId = String(metId);
+
+  // 结构化看点标签（去重、优先中文）
+  try {
+    const labelQids = [...new Set(['P31', 'P135', 'P186', 'P170'].flatMap((p) => claimEntityIds(ent, p)))];
+    const labelMap = await fetchLabels(labelQids);
+    const tagNames = labelQids.map((q) => labelMap[q]).filter(Boolean);
+    const tagSet = [...new Set(tagNames)];
+    if (tagSet.length) art.highlightsTags = tagSet.slice(0, 6);
+  } catch {
+    /* 标签失败不影响主流程 */
+  }
 
   // 说明太短时用维基百科摘要补足（原文语言）；P18 缺图时用维基条目原图兜底（无损）
   if ((art.description || '').length < 60 || !art.imageUrl) {

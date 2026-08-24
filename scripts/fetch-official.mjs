@@ -50,7 +50,7 @@ async function enrichMet(art) {
 async function enrichArtic(art) {
   const name = norm(art.titleEn || art.title);
   if (!name) return art;
-  const url = `https://api.artic.edu/api/v1/artworks/search?q=${encodeURIComponent(name)}&limit=5&fields=id,title,image_id,artist_title,date_display,medium_display,place_of_origin,api_link`;
+  const url = `https://api.artic.edu/api/v1/artworks/search?q=${encodeURIComponent(name)}&limit=5&fields=id,title,image_id,artist_title,date_display,medium_display,place_of_origin,description,api_link`;
   const data = await fetchJson(url, { retries: 2 });
   const rows = data?.data || [];
   let best = null;
@@ -74,6 +74,7 @@ async function enrichArtic(art) {
     imageThumb: art.imageThumb || img,
     detailUrl: `https://www.artic.edu/artworks/${best.id}`,
     sourceUrl: art.sourceUrl,
+    officialDescription: best.description || null, // 官网长说明（用于看点，独立字段）
     description: enrichDescription(art, {
       artist: best.artist_title,
       dateText: best.date_display,
@@ -110,12 +111,12 @@ async function enrichCleveland(art) {
     imageThumb: art.imageThumb || img,
     detailUrl: `https://www.clevelandart.org/art/${best.id}`,
     sourceUrl: art.sourceUrl,
+    officialDescription: best.description || null, // 官网长说明（用于看点，独立字段）
     description: enrichDescription(art, {
       artist: best.creators?.map((c) => c.description).filter(Boolean).join(', '),
       dateText: best.creation_date,
       medium: best.technique,
       culture: best.culture?.[0],
-      extra: best.description || '',
     }),
     tags: ['CMA'],
   };

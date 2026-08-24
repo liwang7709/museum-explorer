@@ -41,10 +41,14 @@ export default function ArtifactModal({ artifact, museum, onClose, onChecked }) 
   };
 
   const quotes = getQuotes(artifact.qid);
-  // 看点：优先维基摘要，其次官网说明（均为权威来源原文/转述，不做 AI 编造）
-  const highlights = [artifact.wikiExtract, artifact.description].filter(Boolean).join(' ').trim().slice(0, 320);
+  // 看点：维基百科导语（前2句）+ 官网长说明；不再拼接 description（消除重复）
+  const wikiLead = (artifact.wikiExtract || '').split(/[。！？.!?]/).slice(0, 2).join('。');
+  const highlights = [wikiLead, artifact.officialDescription].filter(Boolean).join(' ').trim();
+  const tags = artifact.highlightsTags || [];
+  // 来源：官网详情页 / 官网说明(如有) / 维基百科 / Wikidata，均可点击
   const sources = [
-    { label: '官网藏品页', url: artifact.sourceUrl },
+    { label: '官网详情页', url: artifact.detailUrl },
+    { label: '官网说明', url: artifact.officialDescription ? artifact.detailUrl || artifact.sourceUrl : null },
     { label: '维基百科', url: artifact.wikiUrl },
     { label: 'Wikidata 数据', url: artifact.qid ? `https://www.wikidata.org/wiki/${artifact.qid}` : null },
   ].filter((s) => s.url);
@@ -77,15 +81,22 @@ export default function ArtifactModal({ artifact, museum, onClose, onChecked }) 
             </p>
             {artifact.description && <p className="modal-desc">{artifact.description}</p>}
 
-            {/* 看点 + 来源 Top3 */}
-            {highlights && (
+            {/* 看点 + 结构化标签 + 来源 */}
+            {(highlights || tags.length > 0) && (
               <div className="modal-module">
                 <h4>💡 看点</h4>
-                <p className="modal-highlights">{highlights}</p>
+                {tags.length > 0 && (
+                  <div className="tag-row">
+                    {tags.map((t) => (
+                      <span key={t} className="tag">{t}</span>
+                    ))}
+                  </div>
+                )}
+                {highlights && <p className="modal-highlights">{highlights}</p>}
                 {sources.length > 0 && (
                   <p className="modal-sources">
-                    信息来源 Top{Math.min(sources.length, 3)}：
-                    {sources.slice(0, 3).map((s, i) => (
+                    信息来源：
+                    {sources.map((s, i) => (
                       <a key={i} href={s.url} target="_blank" rel="noopener noreferrer">{s.label}</a>
                     ))}
                   </p>

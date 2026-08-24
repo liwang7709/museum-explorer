@@ -1,44 +1,44 @@
 {
-  "date": "2026-08-23",
-  "generatedAt": "2026-08-23T22:00:39.884Z",
+  "date": "2026-08-24",
+  "generatedAt": "2026-08-24T08:44:56.022Z",
   "picks": [
-    "npm-taipei-Q15944320",
-    "tate-Q110028468",
-    "npm-taipei-Q133926453",
-    "korea-national-Q16092427",
-    "khm-Q1311",
-    "vatican-Q55428253",
-    "korea-national-Q12586444",
-    "rijksmuseum-Q192110",
-    "prado-Q2213811",
-    "hermitage-Q3202069",
-    "nga-Q20127708",
-    "prado-Q1195238",
-    "npm-taipei-Q134225183",
-    "vatican-Q549953",
-    "norway-national-Q18890817",
-    "met-Q1752990"
+    "nmc-Q15916899",
+    "norway-national-Q18891411",
+    "norway-national-Q65119361",
+    "vatican-Q972196",
+    "norway-national-Q1744",
+    "nmc-Q10917916",
+    "norway-national-Q46721",
+    "vatican-Q1213160",
+    "norway-national-Q4289290",
+    "npm-taipei-Q20786155",
+    "prado-Q2268524",
+    "korea-national-Q16092969",
+    "vatican-Q567861",
+    "korea-national-Q12619239",
+    "vatican-Q2551806",
+    "shanghai-museum-Q132689763"
   ],
   "hotTerms": [
     {
-      "term": "千里江山图",
-      "reason": "故宫博物院馆藏 · 综合热度TOP1 · 游客量世界第一 · 约1700万/年"
+      "term": "蒙娜丽莎",
+      "reason": "卢浮宫馆藏 · 综合热度TOP23 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "五牛圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP2 · 游客量世界第一 · 约1700万/年"
+      "term": "The Lacemaker",
+      "reason": "卢浮宫馆藏 · 综合热度TOP27 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "清明上河圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP4 · 游客量世界第一 · 约1700万/年"
+      "term": "彩绘鹳鱼石斧图陶缸",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP12 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "金瓯永固杯",
-      "reason": "故宫博物院馆藏 · 综合热度TOP7 · 游客量世界第一 · 约1700万/年"
+      "term": "X夫人（皮埃尔·戈特罗夫人）",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP16 · 全球TOP3 · 约540万/年"
     },
     {
-      "term": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP18 · 全球TOP3 · 约540万/年"
+      "term": "拿破崙加冕",
+      "reason": "卢浮宫馆藏 · 综合热度TOP24 · 全球参观量第一 · 约890万/年"
     }
   ],
   "hotMuseumIds": [
