@@ -1,43 +1,43 @@
 {
-  "date": "2026-08-24",
-  "generatedAt": "2026-08-24T21:53:31.499Z",
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T05:33:26.461Z",
   "picks": [
-    "uffizi-Q1059211",
-    "rijksmuseum-Q98923690",
-    "musee-rodin-Q2418237",
-    "norway-national-Q1744",
-    "louvre-Q3080509",
-    "prado-Q19911452",
-    "npm-taipei-Q706846",
-    "npm-taipei-Q112200247",
-    "hermitage-Q128910",
-    "vatican-Q1213160",
-    "uffizi-Q1569622",
-    "norway-national-Q46721",
-    "tokyo-national-Q107045004",
-    "vatican-Q249449",
-    "uffizi-Q2011510",
-    "norway-national-Q18209775"
+    "hermitage-Q3202069",
+    "louvre-Q216402",
+    "korea-national-Q12583851",
+    "vatican-Q619135",
+    "palace-beijing-Q10881982",
+    "prado-Q1526106",
+    "nga-Q1267893",
+    "vatican-Q26221218",
+    "national-gallery-london-Q2293953",
+    "rijksmuseum-Q2881603",
+    "prado-Q6402081",
+    "khm-Q603751",
+    "nmc-Q15916899",
+    "npm-taipei-Q11612713",
+    "npm-taipei-Q10955092",
+    "hermitage-Q28060765"
   ],
   "hotTerms": [
     {
-      "term": "薩莫特拉斯的勝利女神",
-      "reason": "卢浮宫馆藏 · 综合热度TOP23 · 全球参观量第一 · 约890万/年"
+      "term": "击鼓说唱俑",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP8 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "普西莎与爱神",
-      "reason": "卢浮宫馆藏 · 综合热度TOP27 · 全球参观量第一 · 约890万/年"
+      "term": "捨杜",
+      "reason": "卢浮宫馆藏 · 综合热度TOP28 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "大盂鼎",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP12 · 全球参观量前列 · 约670万/年"
+      "term": "失落的朋友",
+      "reason": "大英博物馆馆藏 · 综合热度TOP20 · 全球TOP5 · 约580万/年"
     },
     {
-      "term": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP16 · 全球TOP3 · 约540万/年"
+      "term": "米洛的维纳斯",
+      "reason": "卢浮宫馆藏 · 综合热度TOP22 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "梅杜薩之筏",
+      "term": "拿破崙加冕",
       "reason": "卢浮宫馆藏 · 综合热度TOP24 · 全球参观量第一 · 约890万/年"
     }
   ],

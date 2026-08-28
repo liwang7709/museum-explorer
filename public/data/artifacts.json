@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T21:53:31.499Z",
-  "total": 406,
+  "generatedAt": "2026-08-28T05:33:26.461Z",
+  "total": 405,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
     {
@@ -525,31 +525,6 @@
     },
     {
       "museumId": "louvre",
-      "qid": "Q216402",
-      "title": "薩莫特拉斯的勝利女神",
-      "titleEn": "Winged Victory of Samothrace",
-      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
-      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
-      "tags": [],
-      "highlightsTags": [
-        "塑像",
-        "遺物",
-        "Hellenistic sculpture",
-        "帕里安大理石",
-        "Pythokritos"
-      ],
-      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
-      "wikiLang": "zh",
-      "id": "louvre-Q216402",
-      "popularity": 1,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "louvre",
       "qid": "Q212616",
       "title": "梅杜薩之筏",
       "titleEn": "The Raft of the Medusa",
@@ -810,6 +785,31 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "louvre",
+      "qid": "Q216402",
+      "title": "薩莫特拉斯的勝利女神",
+      "titleEn": "Winged Victory of Samothrace",
+      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
+      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
+      "tags": [],
+      "highlightsTags": [
+        "塑像",
+        "遺物",
+        "Hellenistic sculpture",
+        "帕里安大理石",
+        "Pythokritos"
+      ],
+      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
+      "wikiLang": "zh",
+      "id": "louvre-Q216402",
+      "popularity": 1,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "vatican",
       "qid": "Q56043195",
       "title": "The Transfiguration",
@@ -1004,6 +1004,14 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%8E%B1%E7%89%B9%E9%A3%9E%E8%A1%8C%E5%99%A8",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Wright%20Flyer",
       "tags": [],
+      "highlightsTags": [
+        "飛機",
+        "Flyer",
+        "平纹细布",
+        "spruce",
+        "钢",
+        "鑄鐵"
+      ],
       "id": "smithsonian-Q688605",
       "popularity": 0.994,
       "imageSource": "commons",
@@ -2066,6 +2074,12 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%AD%94%E9%9B%80%E5%8E%85",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Peacock%20Room",
       "tags": [],
+      "highlightsTags": [
+        "period room",
+        "裝置藝術作品",
+        "詹姆斯·惠斯勒",
+        "托馬斯·傑基爾"
+      ],
       "wikiExtract": "《蓝色与金色的和谐：孔雀厅》 是詹姆斯·惠斯勒於1876-1877年所创作的两幅帆布油画，采用油画颜料和镀金叶饰。原为英国船王、惠斯勒的主要赞助人弗雷德里克·雷兰 的伦敦住宅设计的餐厅装饰。房间尺寸：高13英尺11又5⁄8英寸，宽33英尺2英寸，深19英尺9又1⁄2英寸 现藏于華盛頓哥倫比亞特區弗瑞爾藝廊。\n",
       "wikiLang": "zh",
       "id": "smithsonian-Q16738523",
@@ -2156,12 +2170,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%A7%82%E6%99%AF%E6%AE%BF%E7%9A%84%E9%98%BF%E6%B3%A2%E7%BD%97",
       "sourceUrl": "https://www.museivaticani.va",
       "tags": [],
-      "highlightsTags": [
-        "塑像",
-        "Greek late classical period",
-        "大理岩",
-        "莱奥卡雷斯"
-      ],
       "id": "vatican-Q619135",
       "popularity": 0.9510000000000001,
       "imageSource": "commons",
@@ -2668,6 +2676,13 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E7%B4%85%E5%AF%B6%E7%9F%B3%E9%9E%8B",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Ruby%20slippers%20(Wizard%20of%20Oz)",
       "tags": [],
+      "highlightsTags": [
+        "电影纪念品收藏",
+        "fictional slipper",
+        "costume component",
+        "虚构的魔法物品",
+        "阿德里安"
+      ],
       "id": "smithsonian-Q843007",
       "popularity": 0.933,
       "imageSource": "commons",
@@ -3467,31 +3482,6 @@
       "sourceLabel": "官网开放数据"
     },
     {
-      "museumId": "van-gogh",
-      "qid": "Q154469",
-      "title": "吃馬鈴薯的人",
-      "titleEn": "The Potato Eaters",
-      "description": "文森特·梵高的畫",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%90%83%E9%A6%AC%E9%88%B4%E8%96%AF%E7%9A%84%E4%BA%BA",
-      "sourceUrl": "https://www.vangoghmuseum.nl/en/search?q=The%20Potato%20Eaters",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "后印象派",
-        "油彩",
-        "画布",
-        "文森特·梵高"
-      ],
-      "wikiExtract": "《吃馬鈴薯的人》，又译食薯者，是荷兰后印象派画家文森特·梵高创作于1885年的一幅油画。该画现藏于阿姆斯特丹的梵高博物馆，這幅畫的原始油畫素描現藏於奧特洛的克勒勒-米勒博物館，圖像的石版畫收藏在紐約市的現代藝術博物館等收藏品中。這幅畫被認為是梵高的傑作之一。\n",
-      "wikiLang": "zh",
-      "id": "van-gogh-Q154469",
-      "popularity": 0.902,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
       "museumId": "national-gallery-london",
       "qid": "Q220859",
       "title": "阿尔诺非尼夫妇",
@@ -3512,6 +3502,31 @@
       "wikiExtract": "《阿诺菲尼的婚礼》，又名《阿尔诺非尼夫妇》又名《阿诺菲尼的肖像》，由荷兰画家扬·范·艾克画于1434年。该画收藏于英國國家美術館。\n",
       "wikiLang": "zh",
       "id": "national-gallery-london-Q220859",
+      "popularity": 0.902,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "van-gogh",
+      "qid": "Q154469",
+      "title": "吃馬鈴薯的人",
+      "titleEn": "The Potato Eaters",
+      "description": "文森特·梵高的畫",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%90%83%E9%A6%AC%E9%88%B4%E8%96%AF%E7%9A%84%E4%BA%BA",
+      "sourceUrl": "https://www.vangoghmuseum.nl/en/search?q=The%20Potato%20Eaters",
+      "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "后印象派",
+        "油彩",
+        "画布",
+        "文森特·梵高"
+      ],
+      "wikiExtract": "《吃馬鈴薯的人》，又译食薯者，是荷兰后印象派画家文森特·梵高创作于1885年的一幅油画。该画现藏于阿姆斯特丹的梵高博物馆，這幅畫的原始油畫素描現藏於奧特洛的克勒勒-米勒博物館，圖像的石版畫收藏在紐約市的現代藝術博物館等收藏品中。這幅畫被認為是梵高的傑作之一。\n",
+      "wikiLang": "zh",
+      "id": "van-gogh-Q154469",
       "popularity": 0.902,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -4904,9 +4919,6 @@
       "wikiUrl": "https://en.wikipedia.org/wiki/Judith_(given_name)",
       "sourceUrl": "https://www.hermitagemuseum.org",
       "tags": [],
-      "highlightsTags": [
-        "女性人名"
-      ],
       "wikiExtract": "Judith is a feminine given name derived from the Hebrew name Yəhūdīt (יְהוּדִית), meaning \"praised\" and also more literally \"Woman of Judea\". It is the feminine form of Judah. Judith appeared in the Hebrew Bible as one of Esau's wives, while the deuterocanonical Book of Judith tells of a different Judith. It is in common usage in English, French, German, many Scandinavian languages, Dutch, and Hebrew. In Ethiopia and",
       "wikiLang": "en",
       "id": "hermitage-Q5954149",
@@ -6581,6 +6593,12 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E9%9F%B3%E4%B9%90",
       "sourceUrl": "https://www.hermitagemuseum.org",
       "tags": [],
+      "highlightsTags": [
+        "艺术种类",
+        "專業領域",
+        "研究领域",
+        "學科"
+      ],
       "wikiExtract": "音樂，廣義而言，就是指任何以聲音組成的藝術。英文Music一詞源於古希臘語的μουσική（mousike），意即缪斯（muse）女神的藝術。而中文的音樂二字，東漢許慎《說文解字》解釋為「音，聲也。生於心，有節於外，謂之音。」認為音樂和聲音的區別，在於音樂需要透過人心去想像和創造。\n",
       "wikiLang": "zh",
       "id": "hermitage-Q638",
@@ -7704,22 +7722,6 @@
       "wikiLang": "zh",
       "id": "khm-Q16930210",
       "popularity": 0.72,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "khm",
-      "qid": "Q2",
-      "title": "地球",
-      "titleEn": "Earth",
-      "description": "太陽系中距離太陽第三近的行星",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83",
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Earth%20(Arcimboldo)",
-      "tags": [],
-      "id": "khm-Q2",
-      "popularity": 0.718,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
