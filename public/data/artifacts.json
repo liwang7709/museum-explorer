@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28T05:33:26.461Z",
-  "total": 405,
+  "generatedAt": "2026-08-29T03:19:25.279Z",
+  "total": 407,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
     {
@@ -1004,14 +1004,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%8E%B1%E7%89%B9%E9%A3%9E%E8%A1%8C%E5%99%A8",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Wright%20Flyer",
       "tags": [],
-      "highlightsTags": [
-        "飛機",
-        "Flyer",
-        "平纹细布",
-        "spruce",
-        "钢",
-        "鑄鐵"
-      ],
       "id": "smithsonian-Q688605",
       "popularity": 0.994,
       "imageSource": "commons",
@@ -2074,12 +2066,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%AD%94%E9%9B%80%E5%8E%85",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Peacock%20Room",
       "tags": [],
-      "highlightsTags": [
-        "period room",
-        "裝置藝術作品",
-        "詹姆斯·惠斯勒",
-        "托馬斯·傑基爾"
-      ],
       "wikiExtract": "《蓝色与金色的和谐：孔雀厅》 是詹姆斯·惠斯勒於1876-1877年所创作的两幅帆布油画，采用油画颜料和镀金叶饰。原为英国船王、惠斯勒的主要赞助人弗雷德里克·雷兰 的伦敦住宅设计的餐厅装饰。房间尺寸：高13英尺11又5⁄8英寸，宽33英尺2英寸，深19英尺9又1⁄2英寸 现藏于華盛頓哥倫比亞特區弗瑞爾藝廊。\n",
       "wikiLang": "zh",
       "id": "smithsonian-Q16738523",
@@ -2170,6 +2156,12 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%A7%82%E6%99%AF%E6%AE%BF%E7%9A%84%E9%98%BF%E6%B3%A2%E7%BD%97",
       "sourceUrl": "https://www.museivaticani.va",
       "tags": [],
+      "highlightsTags": [
+        "塑像",
+        "Greek late classical period",
+        "大理岩",
+        "莱奥卡雷斯"
+      ],
       "id": "vatican-Q619135",
       "popularity": 0.9510000000000001,
       "imageSource": "commons",
@@ -2676,13 +2668,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E7%B4%85%E5%AF%B6%E7%9F%B3%E9%9E%8B",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Ruby%20slippers%20(Wizard%20of%20Oz)",
       "tags": [],
-      "highlightsTags": [
-        "电影纪念品收藏",
-        "fictional slipper",
-        "costume component",
-        "虚构的魔法物品",
-        "阿德里安"
-      ],
       "id": "smithsonian-Q843007",
       "popularity": 0.933,
       "imageSource": "commons",
@@ -4919,6 +4904,9 @@
       "wikiUrl": "https://en.wikipedia.org/wiki/Judith_(given_name)",
       "sourceUrl": "https://www.hermitagemuseum.org",
       "tags": [],
+      "highlightsTags": [
+        "女性人名"
+      ],
       "wikiExtract": "Judith is a feminine given name derived from the Hebrew name Yəhūdīt (יְהוּדִית), meaning \"praised\" and also more literally \"Woman of Judea\". It is the feminine form of Judah. Judith appeared in the Hebrew Bible as one of Esau's wives, while the deuterocanonical Book of Judith tells of a different Judith. It is in common usage in English, French, German, many Scandinavian languages, Dutch, and Hebrew. In Ethiopia and",
       "wikiLang": "en",
       "id": "hermitage-Q5954149",
@@ -6593,12 +6581,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E9%9F%B3%E4%B9%90",
       "sourceUrl": "https://www.hermitagemuseum.org",
       "tags": [],
-      "highlightsTags": [
-        "艺术种类",
-        "專業領域",
-        "研究领域",
-        "學科"
-      ],
       "wikiExtract": "音樂，廣義而言，就是指任何以聲音組成的藝術。英文Music一詞源於古希臘語的μουσική（mousike），意即缪斯（muse）女神的藝術。而中文的音樂二字，東漢許慎《說文解字》解釋為「音，聲也。生於心，有節於外，謂之音。」認為音樂和聲音的區別，在於音樂需要透過人心去想像和創造。\n",
       "wikiLang": "zh",
       "id": "hermitage-Q638",
@@ -7025,7 +7007,7 @@
       "title": "The Voice",
       "titleEn": "The Voice",
       "description": "Russell Watson album",
-      "imageUrl": null,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/The_Voice_%28Russell_Watson_album%29_coverart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "imageThumb": null,
       "wikiUrl": "https://en.wikipedia.org/wiki/The_Voice_(Russell_Watson_album)",
       "sourceUrl": "https://www.nasjonalmuseet.no",
@@ -7033,6 +7015,8 @@
       "highlightsTags": [
         "音樂專輯"
       ],
+      "wikiExtract": "The Voice is the 2000 debut album by British tenor Russell Watson.",
+      "wikiLang": "en",
       "id": "norway-national-Q7772973",
       "popularity": 0.741,
       "imageSource": "commons",
@@ -7203,6 +7187,25 @@
         "亨利·马蒂斯"
       ],
       "id": "reina-sofia-Q20816630",
+      "popularity": 0.734,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "tokyo-national",
+      "qid": "Q132408755",
+      "title": "普贤菩萨像",
+      "titleEn": "",
+      "description": "item from the collection of National Museum of China",
+      "imageUrl": null,
+      "imageThumb": null,
+      "wikiUrl": null,
+      "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Fugen%20Bosatsu%20statue",
+      "tags": [],
+      "highlightsTags": [
+        "雕塑作品"
+      ],
+      "id": "tokyo-national-Q132408755",
       "popularity": 0.734,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -7722,6 +7725,22 @@
       "wikiLang": "zh",
       "id": "khm-Q16930210",
       "popularity": 0.72,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "khm",
+      "qid": "Q2",
+      "title": "地球",
+      "titleEn": "Earth",
+      "description": "太陽系中距離太陽第三近的行星",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83",
+      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Earth%20(Arcimboldo)",
+      "tags": [],
+      "id": "khm-Q2",
+      "popularity": 0.718,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
