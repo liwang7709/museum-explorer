@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T03:19:25.279Z",
-  "total": 407,
+  "generatedAt": "2026-08-29T23:29:30.073Z",
+  "total": 406,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
     {
@@ -802,8 +802,6 @@
         "帕里安大理石",
         "Pythokritos"
       ],
-      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
-      "wikiLang": "zh",
       "id": "louvre-Q216402",
       "popularity": 1,
       "imageSource": "commons",
@@ -1004,6 +1002,14 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%8E%B1%E7%89%B9%E9%A3%9E%E8%A1%8C%E5%99%A8",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Wright%20Flyer",
       "tags": [],
+      "highlightsTags": [
+        "飛機",
+        "Flyer",
+        "平纹细布",
+        "spruce",
+        "钢",
+        "鑄鐵"
+      ],
       "id": "smithsonian-Q688605",
       "popularity": 0.994,
       "imageSource": "commons",
@@ -1124,8 +1130,6 @@
         "画布",
         "欧仁·德拉克罗瓦"
       ],
-      "wikiExtract": "《自由引導人民》，或譯稱《自由領導人民》，是法国浪漫主義畫家歐仁·德拉克洛瓦為紀念1830年法國七月革命而創作的作品。此画最早在1831年的巴黎沙龙上展出，而后被巴黎羅浮宫收藏至今。\n",
-      "wikiLang": "zh",
       "id": "louvre-Q29530",
       "popularity": 0.99,
       "imageSource": "commons",
@@ -2066,6 +2070,12 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%AD%94%E9%9B%80%E5%8E%85",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Peacock%20Room",
       "tags": [],
+      "highlightsTags": [
+        "period room",
+        "裝置藝術作品",
+        "詹姆斯·惠斯勒",
+        "托馬斯·傑基爾"
+      ],
       "wikiExtract": "《蓝色与金色的和谐：孔雀厅》 是詹姆斯·惠斯勒於1876-1877年所创作的两幅帆布油画，采用油画颜料和镀金叶饰。原为英国船王、惠斯勒的主要赞助人弗雷德里克·雷兰 的伦敦住宅设计的餐厅装饰。房间尺寸：高13英尺11又5⁄8英寸，宽33英尺2英寸，深19英尺9又1⁄2英寸 现藏于華盛頓哥倫比亞特區弗瑞爾藝廊。\n",
       "wikiLang": "zh",
       "id": "smithsonian-Q16738523",
@@ -2668,6 +2678,13 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E7%B4%85%E5%AF%B6%E7%9F%B3%E9%9E%8B",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Ruby%20slippers%20(Wizard%20of%20Oz)",
       "tags": [],
+      "highlightsTags": [
+        "电影纪念品收藏",
+        "fictional slipper",
+        "costume component",
+        "虚构的魔法物品",
+        "阿德里安"
+      ],
       "id": "smithsonian-Q843007",
       "popularity": 0.933,
       "imageSource": "commons",
@@ -7002,27 +7019,6 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
-      "museumId": "norway-national",
-      "qid": "Q7772973",
-      "title": "The Voice",
-      "titleEn": "The Voice",
-      "description": "Russell Watson album",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/The_Voice_%28Russell_Watson_album%29_coverart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "imageThumb": null,
-      "wikiUrl": "https://en.wikipedia.org/wiki/The_Voice_(Russell_Watson_album)",
-      "sourceUrl": "https://www.nasjonalmuseet.no",
-      "tags": [],
-      "highlightsTags": [
-        "音樂專輯"
-      ],
-      "wikiExtract": "The Voice is the 2000 debut album by British tenor Russell Watson.",
-      "wikiLang": "en",
-      "id": "norway-national-Q7772973",
-      "popularity": 0.741,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
       "museumId": "korea-national",
       "qid": "Q16095663",
       "title": "청자 참외모양 병",
@@ -7187,25 +7183,6 @@
         "亨利·马蒂斯"
       ],
       "id": "reina-sofia-Q20816630",
-      "popularity": 0.734,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "tokyo-national",
-      "qid": "Q132408755",
-      "title": "普贤菩萨像",
-      "titleEn": "",
-      "description": "item from the collection of National Museum of China",
-      "imageUrl": null,
-      "imageThumb": null,
-      "wikiUrl": null,
-      "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Fugen%20Bosatsu%20statue",
-      "tags": [],
-      "highlightsTags": [
-        "雕塑作品"
-      ],
-      "id": "tokyo-national-Q132408755",
       "popularity": 0.734,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -8928,6 +8905,29 @@
       "wikiExtract": "The Fight Between Carnival and Lent is an oil-on-panel painting executed by the Dutch and Flemish Renaissance painter Pieter Bruegel the Elder in 1559. It is a panorama of contemporary life in the Southern Netherlands. While the painting contains nearly 200 characters, it is unified under the theme of the transition from Shrove Tuesday to Lent, the period forty days before Easter.",
       "wikiLang": "en",
       "id": "khm-Q689236",
+      "popularity": 0.656,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "khm",
+      "qid": "Q2629715",
+      "title": "男子肖像",
+      "titleEn": "Portrait of a Man",
+      "description": "painting by Raphael",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=420",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_(Raphael)",
+      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Portrait%20of%20a%20Man%20(D%C3%BCrer)",
+      "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "文藝復興全盛期",
+        "油彩",
+        "画板",
+        "拉斐尔·圣齐奥"
+      ],
+      "id": "khm-Q2629715",
       "popularity": 0.656,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
