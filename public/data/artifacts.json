@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T23:29:30.073Z",
-  "total": 406,
+  "generatedAt": "2026-09-05T23:03:29.546Z",
+  "total": 405,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
     {
@@ -714,6 +714,31 @@
     },
     {
       "museumId": "louvre",
+      "qid": "Q216402",
+      "title": "薩莫特拉斯的勝利女神",
+      "titleEn": "Winged Victory of Samothrace",
+      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
+      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
+      "tags": [],
+      "highlightsTags": [
+        "塑像",
+        "遺物",
+        "Hellenistic sculpture",
+        "帕里安大理石",
+        "Pythokritos"
+      ],
+      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
+      "wikiLang": "zh",
+      "id": "louvre-Q216402",
+      "popularity": 1,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "louvre",
       "qid": "Q3080509",
       "title": "瓦平松的浴女",
       "titleEn": "The Valpinçon Bather",
@@ -780,29 +805,6 @@
       "wikiExtract": "塔尼斯的大狮身人面像是一座古埃及的花岗岩雕塑，这个雕像采用大理石雕刻，精美美观，很庄严肃穆。其历史可以追溯到公元前26世纪。它是在埃及第21王朝和第23王朝首都塔尼斯的阿蒙-拉神庙遗址中发现的。相比阿蒙-拉神庙，这座狮身人面像的完成时间要早得多，但具体完成时间仍存在着争论，主要有两种观点，一种认为雕像完成于于第四王朝，另一种则认为完成于第十二王朝。其原始铭文上仅存有关法老阿蒙涅姆赫特二世（第十二王朝）、麦伦普塔（第十九王朝）和舍顺克一世（第二十二王朝）的部分。\n",
       "wikiLang": "zh",
       "id": "louvre-Q6028852",
-      "popularity": 1,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "louvre",
-      "qid": "Q216402",
-      "title": "薩莫特拉斯的勝利女神",
-      "titleEn": "Winged Victory of Samothrace",
-      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
-      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
-      "tags": [],
-      "highlightsTags": [
-        "塑像",
-        "遺物",
-        "Hellenistic sculpture",
-        "帕里安大理石",
-        "Pythokritos"
-      ],
-      "id": "louvre-Q216402",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1130,6 +1132,8 @@
         "画布",
         "欧仁·德拉克罗瓦"
       ],
+      "wikiExtract": "《自由引導人民》，或譯稱《自由領導人民》，是法国浪漫主義畫家歐仁·德拉克洛瓦為紀念1830年法國七月革命而創作的作品。此画最早在1831年的巴黎沙龙上展出，而后被巴黎羅浮宫收藏至今。\n",
+      "wikiLang": "zh",
       "id": "louvre-Q29530",
       "popularity": 0.99,
       "imageSource": "commons",
@@ -2166,12 +2170,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%A7%82%E6%99%AF%E6%AE%BF%E7%9A%84%E9%98%BF%E6%B3%A2%E7%BD%97",
       "sourceUrl": "https://www.museivaticani.va",
       "tags": [],
-      "highlightsTags": [
-        "塑像",
-        "Greek late classical period",
-        "大理岩",
-        "莱奥卡雷斯"
-      ],
       "id": "vatican-Q619135",
       "popularity": 0.9510000000000001,
       "imageSource": "commons",
@@ -4921,9 +4919,6 @@
       "wikiUrl": "https://en.wikipedia.org/wiki/Judith_(given_name)",
       "sourceUrl": "https://www.hermitagemuseum.org",
       "tags": [],
-      "highlightsTags": [
-        "女性人名"
-      ],
       "wikiExtract": "Judith is a feminine given name derived from the Hebrew name Yəhūdīt (יְהוּדִית), meaning \"praised\" and also more literally \"Woman of Judea\". It is the feminine form of Judah. Judith appeared in the Hebrew Bible as one of Esau's wives, while the deuterocanonical Book of Judith tells of a different Judith. It is in common usage in English, French, German, many Scandinavian languages, Dutch, and Hebrew. In Ethiopia and",
       "wikiLang": "en",
       "id": "hermitage-Q5954149",
@@ -6598,6 +6593,12 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E9%9F%B3%E4%B9%90",
       "sourceUrl": "https://www.hermitagemuseum.org",
       "tags": [],
+      "highlightsTags": [
+        "艺术种类",
+        "專業領域",
+        "研究领域",
+        "學科"
+      ],
       "wikiExtract": "音樂，廣義而言，就是指任何以聲音組成的藝術。英文Music一詞源於古希臘語的μουσική（mousike），意即缪斯（muse）女神的藝術。而中文的音樂二字，東漢許慎《說文解字》解釋為「音，聲也。生於心，有節於外，謂之音。」認為音樂和聲音的區別，在於音樂需要透過人心去想像和創造。\n",
       "wikiLang": "zh",
       "id": "hermitage-Q638",
@@ -7015,6 +7016,25 @@
       ],
       "id": "korea-national-Q12588609",
       "popularity": 0.742,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "norway-national",
+      "qid": "Q7772973",
+      "title": "The Voice",
+      "titleEn": "The Voice",
+      "description": "Russell Watson album",
+      "imageUrl": null,
+      "imageThumb": null,
+      "wikiUrl": "https://en.wikipedia.org/wiki/The_Voice_(Russell_Watson_album)",
+      "sourceUrl": "https://www.nasjonalmuseet.no",
+      "tags": [],
+      "highlightsTags": [
+        "音樂專輯"
+      ],
+      "id": "norway-national-Q7772973",
+      "popularity": 0.741,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -7702,22 +7722,6 @@
       "wikiLang": "zh",
       "id": "khm-Q16930210",
       "popularity": 0.72,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "khm",
-      "qid": "Q2",
-      "title": "地球",
-      "titleEn": "Earth",
-      "description": "太陽系中距離太陽第三近的行星",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83",
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Earth%20(Arcimboldo)",
-      "tags": [],
-      "id": "khm-Q2",
-      "popularity": 0.718,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -8905,29 +8909,6 @@
       "wikiExtract": "The Fight Between Carnival and Lent is an oil-on-panel painting executed by the Dutch and Flemish Renaissance painter Pieter Bruegel the Elder in 1559. It is a panorama of contemporary life in the Southern Netherlands. While the painting contains nearly 200 characters, it is unified under the theme of the transition from Shrove Tuesday to Lent, the period forty days before Easter.",
       "wikiLang": "en",
       "id": "khm-Q689236",
-      "popularity": 0.656,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "khm",
-      "qid": "Q2629715",
-      "title": "男子肖像",
-      "titleEn": "Portrait of a Man",
-      "description": "painting by Raphael",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=420",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_(Raphael)",
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Portrait%20of%20a%20Man%20(D%C3%BCrer)",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "文藝復興全盛期",
-        "油彩",
-        "画板",
-        "拉斐尔·圣齐奥"
-      ],
-      "id": "khm-Q2629715",
       "popularity": 0.656,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
