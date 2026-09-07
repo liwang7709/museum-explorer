@@ -1,44 +1,44 @@
 {
-  "date": "2026-09-05",
-  "generatedAt": "2026-09-05T23:03:29.546Z",
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-07T23:39:30.712Z",
   "picks": [
-    "hermitage-Q65021325",
-    "rijksmuseum-Q650635",
-    "hermitage-Q128910",
-    "hermitage-Q1803755",
-    "tokyo-national-Q16255298",
-    "musee-rodin-Q978987",
-    "vatican-Q186953",
-    "louvre-Q29530",
-    "met-Q2664039",
-    "korea-national-Q16092399",
-    "norway-national-Q18209775",
-    "norway-national-Q471379",
-    "khm-Q16930210",
-    "tokyo-national-Q122747179",
-    "tokyo-national-Q3565037",
-    "hermitage-Q13365963"
+    "tokyo-national-Q91239334",
+    "vatican-Q549953",
+    "nga-Q1267893",
+    "british-museum-Q524447",
+    "hermitage-Q27033397",
+    "moma-Q45585",
+    "npm-taipei-Q19937982",
+    "vatican-Q21764177",
+    "tokyo-national-Q105096033",
+    "korea-national-Q5562626",
+    "uffizi-Q2344505",
+    "npm-taipei-Q5136665",
+    "uffizi-Q1473546",
+    "palace-beijing-Q112971367",
+    "norway-national-Q76338237",
+    "tate-Q2445726"
   ],
   "hotTerms": [
-    {
-      "term": "金瓯永固杯",
-      "reason": "故宫博物院馆藏 · 综合热度TOP6 · 游客量世界第一 · 约1700万/年"
-    },
-    {
-      "term": "普西莎与爱神",
-      "reason": "卢浮宫馆藏 · 综合热度TOP26 · 全球参观量第一 · 约890万/年"
-    },
-    {
-      "term": "X夫人（皮埃尔·戈特罗夫人）",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP17 · 全球TOP3 · 约540万/年"
-    },
     {
       "term": "清明上河圖",
       "reason": "故宫博物院馆藏 · 综合热度TOP3 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "大宫女",
-      "reason": "卢浮宫馆藏 · 综合热度TOP25 · 全球参观量第一 · 约890万/年"
+      "term": "洛神賦圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP5 · 游客量世界第一 · 约1700万/年"
+    },
+    {
+      "term": "步辇图",
+      "reason": "故宫博物院馆藏 · 综合热度TOP4 · 游客量世界第一 · 约1700万/年"
+    },
+    {
+      "term": "拉奥孔与儿子们",
+      "reason": "梵蒂冈博物馆馆藏 · 综合热度TOP30 · 全球TOP2 · 约680万/年"
+    },
+    {
+      "term": "捨杜",
+      "reason": "卢浮宫馆藏 · 综合热度TOP28 · 全球参观量第一 · 约890万/年"
     }
   ],
   "hotMuseumIds": [
