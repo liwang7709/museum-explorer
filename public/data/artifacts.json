@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07T23:39:30.712Z",
-  "total": 405,
+  "generatedAt": "2026-09-08T23:32:49.379Z",
+  "total": 407,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
     {
@@ -4538,6 +4538,28 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "hermitage",
+      "qid": "Q27700947",
+      "title": "The toilet of Venus",
+      "titleEn": "The toilet of Venus",
+      "description": "painting by Francesco Albani in the Prado",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Albani%20-%20Venus%20Attended%20by%20Nymphs%20and%20Cupids%20-%20WGA0111.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Albani%20-%20Venus%20Attended%20by%20Nymphs%20and%20Cupids%20-%20WGA0111.jpg?width=420",
+      "wikiUrl": null,
+      "sourceUrl": "https://www.hermitagemuseum.org",
+      "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "油彩",
+        "画布",
+        "弗朗西斯科·阿爾巴尼"
+      ],
+      "id": "hermitage-Q27700947",
+      "popularity": 0.848,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "rijksmuseum",
       "qid": "Q17319634",
       "title": "The Threatened Swan",
@@ -6136,8 +6158,6 @@
         "画板",
         "耶罗尼米斯·博斯"
       ],
-      "wikiExtract": "The Haywain Triptych is a panel painting by the Early Netherlandish painter Hieronymus Bosch, now in the Museo del Prado, Madrid, Spain. A date of around 1516 has been established by means of dendrochronological research. The central panel, signed \"Jheronimus Bosch\", measures 135 cm × 200 cm and the wings measure 147 cm × 66 cm. The outside shutters feature a full color version of Bosch's The Wayfarer.",
-      "wikiLang": "en",
       "id": "prado-Q2213811",
       "popularity": 0.784,
       "imageSource": "commons",
@@ -7004,6 +7024,25 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "norway-national",
+      "qid": "Q7772973",
+      "title": "The Voice",
+      "titleEn": "The Voice",
+      "description": "Russell Watson album",
+      "imageUrl": null,
+      "imageThumb": null,
+      "wikiUrl": "https://en.wikipedia.org/wiki/The_Voice_(Russell_Watson_album)",
+      "sourceUrl": "https://www.nasjonalmuseet.no",
+      "tags": [],
+      "highlightsTags": [
+        "音樂專輯"
+      ],
+      "id": "norway-national-Q7772973",
+      "popularity": 0.741,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "korea-national",
       "qid": "Q16095663",
       "title": "청자 참외모양 병",
@@ -7691,6 +7730,22 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "khm",
+      "qid": "Q2",
+      "title": "地球",
+      "titleEn": "Earth",
+      "description": "太陽系中距離太陽第三近的行星",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83",
+      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Earth%20(Arcimboldo)",
+      "tags": [],
+      "id": "khm-Q2",
+      "popularity": 0.718,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "vam",
       "qid": "Q456932",
       "title": "Great Bed of Ware",
@@ -7812,6 +7867,9 @@
       "wikiUrl": null,
       "sourceUrl": "https://www.nasjonalmuseet.no",
       "tags": [],
+      "highlightsTags": [
+        "电视节目分集"
+      ],
       "id": "norway-national-Q59190739",
       "popularity": 0.714,
       "imageSource": "commons",
@@ -8874,29 +8932,6 @@
       "wikiExtract": "The Fight Between Carnival and Lent is an oil-on-panel painting executed by the Dutch and Flemish Renaissance painter Pieter Bruegel the Elder in 1559. It is a panorama of contemporary life in the Southern Netherlands. While the painting contains nearly 200 characters, it is unified under the theme of the transition from Shrove Tuesday to Lent, the period forty days before Easter.",
       "wikiLang": "en",
       "id": "khm-Q689236",
-      "popularity": 0.656,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "khm",
-      "qid": "Q2629715",
-      "title": "男子肖像",
-      "titleEn": "Portrait of a Man",
-      "description": "painting by Raphael",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=420",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_(Raphael)",
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Portrait%20of%20a%20Man%20(D%C3%BCrer)",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "文藝復興全盛期",
-        "油彩",
-        "画板",
-        "拉斐尔·圣齐奥"
-      ],
-      "id": "khm-Q2629715",
       "popularity": 0.656,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
