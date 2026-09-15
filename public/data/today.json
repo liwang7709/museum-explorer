@@ -1,44 +1,44 @@
 {
-  "date": "2026-09-08",
-  "generatedAt": "2026-09-08T23:32:49.379Z",
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T00:00:30.888Z",
   "picks": [
-    "npm-taipei-Q134225183",
-    "hermitage-Q21481261",
-    "norway-national-Q471379",
-    "smithsonian-Q16738523",
-    "louvre-Q12418",
-    "khm-Q704757",
-    "louvre-Q212616",
-    "korea-national-Q717407",
-    "met-Q285392",
-    "prado-Q17277950",
-    "norway-national-Q18753113",
-    "khm-Q500985",
-    "musee-rodin-Q2003287",
-    "tokyo-national-Q11531476",
-    "khm-Q556553",
-    "mauritshuis-Q523974"
+    "sanxingdui-Q17029263",
+    "van-gogh-Q3955068",
+    "nmc-Q132501266",
+    "korea-national-Q482772",
+    "korea-national-Q16092399",
+    "npm-taipei-Q15931105",
+    "khm-Q697332",
+    "met-Q19911684",
+    "vatican-Q2715152",
+    "national-gallery-london-Q2293953",
+    "hubei-museum-Q4902549",
+    "national-gallery-london-Q2366825",
+    "uffizi-Q618057",
+    "hermitage-Q638",
+    "korea-national-Q497657",
+    "national-gallery-london-Q21948567"
   ],
   "hotTerms": [
     {
-      "term": "石鼓 (先秦)",
-      "reason": "故宫博物院馆藏 · 综合热度TOP7 · 游客量世界第一 · 约1700万/年"
+      "term": "蒙娜丽莎",
+      "reason": "卢浮宫馆藏 · 综合热度TOP21 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "米洛的维纳斯",
-      "reason": "卢浮宫馆藏 · 综合热度TOP22 · 全球参观量第一 · 约890万/年"
+      "term": "洛神賦圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP5 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "X夫人（皮埃尔·戈特罗夫人）",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP17 · 全球TOP3 · 约540万/年"
+      "term": "捨杜",
+      "reason": "卢浮宫馆藏 · 综合热度TOP28 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "苏格拉底之死",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP14 · 全球TOP3 · 约540万/年"
+      "term": "步辇图",
+      "reason": "故宫博物院馆藏 · 综合热度TOP4 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "梅杜薩之筏",
-      "reason": "卢浮宫馆藏 · 综合热度TOP23 · 全球参观量第一 · 约890万/年"
+      "term": "人面鱼纹彩陶盆",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP11 · 全球参观量前列 · 约670万/年"
     }
   ],
   "hotMuseumIds": [
