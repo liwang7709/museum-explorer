@@ -1,44 +1,44 @@
 {
-  "date": "2026-09-15",
-  "generatedAt": "2026-09-15T00:00:30.888Z",
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-17T23:40:52.070Z",
   "picks": [
-    "sanxingdui-Q17029263",
-    "van-gogh-Q3955068",
-    "nmc-Q132501266",
-    "korea-national-Q482772",
-    "korea-national-Q16092399",
-    "npm-taipei-Q15931105",
-    "khm-Q697332",
-    "met-Q19911684",
-    "vatican-Q2715152",
-    "national-gallery-london-Q2293953",
-    "hubei-museum-Q4902549",
-    "national-gallery-london-Q2366825",
-    "uffizi-Q618057",
-    "hermitage-Q638",
-    "korea-national-Q497657",
-    "national-gallery-london-Q21948567"
+    "khm-Q58701",
+    "vatican-Q2610709",
+    "npm-taipei-Q109293076",
+    "prado-Q984058",
+    "prado-Q2537138",
+    "sanxingdui-Q17029249",
+    "reina-sofia-Q20816630",
+    "musee-rodin-Q2003287",
+    "uffizi-Q154326",
+    "norway-national-Q18891035",
+    "korea-national-Q12583858",
+    "korea-national-Q12586444",
+    "british-museum-Q524447",
+    "rijksmuseum-Q167605",
+    "nmc-Q97503214",
+    "louvre-Q1231009"
   ],
   "hotTerms": [
     {
-      "term": "蒙娜丽莎",
-      "reason": "卢浮宫馆藏 · 综合热度TOP21 · 全球参观量第一 · 约890万/年"
+      "term": "失落的朋友",
+      "reason": "大英博物馆馆藏 · 综合热度TOP20 · 全球TOP5 · 约580万/年"
     },
     {
-      "term": "洛神賦圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP5 · 游客量世界第一 · 约1700万/年"
+      "term": "拉奥孔与儿子们",
+      "reason": "梵蒂冈博物馆馆藏 · 综合热度TOP30 · 全球TOP2 · 约680万/年"
+    },
+    {
+      "term": "大宫女",
+      "reason": "卢浮宫馆藏 · 综合热度TOP25 · 全球参观量第一 · 约890万/年"
     },
     {
       "term": "捨杜",
       "reason": "卢浮宫馆藏 · 综合热度TOP28 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "步辇图",
-      "reason": "故宫博物院馆藏 · 综合热度TOP4 · 游客量世界第一 · 约1700万/年"
-    },
-    {
-      "term": "人面鱼纹彩陶盆",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP11 · 全球参观量前列 · 约670万/年"
+      "term": "清明上河圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP3 · 游客量世界第一 · 约1700万/年"
     }
   ],
   "hotMuseumIds": [
