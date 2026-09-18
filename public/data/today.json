@@ -1,44 +1,44 @@
 {
-  "date": "2026-09-17",
-  "generatedAt": "2026-09-17T23:40:52.070Z",
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-18T23:27:28.232Z",
   "picks": [
-    "khm-Q58701",
     "vatican-Q2610709",
-    "npm-taipei-Q109293076",
-    "prado-Q984058",
-    "prado-Q2537138",
-    "sanxingdui-Q17029249",
-    "reina-sofia-Q20816630",
-    "musee-rodin-Q2003287",
-    "uffizi-Q154326",
-    "norway-national-Q18891035",
-    "korea-national-Q12583858",
-    "korea-national-Q12586444",
-    "british-museum-Q524447",
-    "rijksmuseum-Q167605",
-    "nmc-Q97503214",
-    "louvre-Q1231009"
+    "uffizi-Q164294",
+    "korea-national-Q12588609",
+    "khm-Q2629715",
+    "prado-Q2413468",
+    "vatican-Q3968659",
+    "vatican-Q26221218",
+    "british-museum-Q248101",
+    "sanxingdui-Q17029263",
+    "british-museum-Q606662",
+    "met-Q1186970",
+    "norway-national-Q4150068",
+    "uffizi-Q1569622",
+    "uffizi-Q80513",
+    "prado-Q2213811",
+    "hermitage-Q28060765"
   ],
   "hotTerms": [
     {
-      "term": "失落的朋友",
-      "reason": "大英博物馆馆藏 · 综合热度TOP20 · 全球TOP5 · 约580万/年"
+      "term": "五牛圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP2 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "拉奥孔与儿子们",
-      "reason": "梵蒂冈博物馆馆藏 · 综合热度TOP30 · 全球TOP2 · 约680万/年"
+      "term": "击鼓说唱俑",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP8 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "大宫女",
+      "term": "拿破崙加冕",
       "reason": "卢浮宫馆藏 · 综合热度TOP25 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "捨杜",
-      "reason": "卢浮宫馆藏 · 综合热度TOP28 · 全球参观量第一 · 约890万/年"
+      "term": "X夫人（皮埃尔·戈特罗夫人）",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP17 · 全球TOP3 · 约540万/年"
     },
     {
-      "term": "清明上河圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP3 · 游客量世界第一 · 约1700万/年"
+      "term": "米洛的维纳斯",
+      "reason": "卢浮宫馆藏 · 综合热度TOP22 · 全球参观量第一 · 约890万/年"
     }
   ],
   "hotMuseumIds": [
