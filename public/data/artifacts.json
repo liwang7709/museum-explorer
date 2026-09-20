@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T23:27:28.232Z",
-  "total": 406,
+  "generatedAt": "2026-09-20T23:23:27.744Z",
+  "total": 405,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
     {
@@ -550,31 +550,6 @@
     },
     {
       "museumId": "louvre",
-      "qid": "Q216402",
-      "title": "薩莫特拉斯的勝利女神",
-      "titleEn": "Winged Victory of Samothrace",
-      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
-      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
-      "tags": [],
-      "highlightsTags": [
-        "塑像",
-        "遺物",
-        "Hellenistic sculpture",
-        "帕里安大理石",
-        "Pythokritos"
-      ],
-      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
-      "wikiLang": "zh",
-      "id": "louvre-Q216402",
-      "popularity": 1,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "louvre",
       "qid": "Q1231009",
       "title": "拿破崙加冕",
       "titleEn": "The Coronation of Napoleon",
@@ -810,6 +785,29 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "louvre",
+      "qid": "Q216402",
+      "title": "薩莫特拉斯的勝利女神",
+      "titleEn": "Winged Victory of Samothrace",
+      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
+      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
+      "tags": [],
+      "highlightsTags": [
+        "塑像",
+        "遺物",
+        "Hellenistic sculpture",
+        "帕里安大理石",
+        "Pythokritos"
+      ],
+      "id": "louvre-Q216402",
+      "popularity": 1,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "vatican",
       "qid": "Q56043195",
       "title": "The Transfiguration",
@@ -1004,6 +1002,14 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%8E%B1%E7%89%B9%E9%A3%9E%E8%A1%8C%E5%99%A8",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Wright%20Flyer",
       "tags": [],
+      "highlightsTags": [
+        "飛機",
+        "Flyer",
+        "平纹细布",
+        "spruce",
+        "钢",
+        "鑄鐵"
+      ],
       "id": "smithsonian-Q688605",
       "popularity": 0.994,
       "imageSource": "commons",
@@ -2066,6 +2072,12 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%AD%94%E9%9B%80%E5%8E%85",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Peacock%20Room",
       "tags": [],
+      "highlightsTags": [
+        "period room",
+        "裝置藝術作品",
+        "詹姆斯·惠斯勒",
+        "托馬斯·傑基爾"
+      ],
       "wikiExtract": "《蓝色与金色的和谐：孔雀厅》 是詹姆斯·惠斯勒於1876-1877年所创作的两幅帆布油画，采用油画颜料和镀金叶饰。原为英国船王、惠斯勒的主要赞助人弗雷德里克·雷兰 的伦敦住宅设计的餐厅装饰。房间尺寸：高13英尺11又5⁄8英寸，宽33英尺2英寸，深19英尺9又1⁄2英寸 现藏于華盛頓哥倫比亞特區弗瑞爾藝廊。\n",
       "wikiLang": "zh",
       "id": "smithsonian-Q16738523",
@@ -2668,6 +2680,13 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E7%B4%85%E5%AF%B6%E7%9F%B3%E9%9E%8B",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Ruby%20slippers%20(Wizard%20of%20Oz)",
       "tags": [],
+      "highlightsTags": [
+        "电影纪念品收藏",
+        "fictional slipper",
+        "costume component",
+        "虚构的魔法物品",
+        "阿德里安"
+      ],
       "id": "smithsonian-Q843007",
       "popularity": 0.933,
       "imageSource": "commons",
@@ -4904,9 +4923,6 @@
       "wikiUrl": "https://en.wikipedia.org/wiki/Judith_(given_name)",
       "sourceUrl": "https://www.hermitagemuseum.org",
       "tags": [],
-      "highlightsTags": [
-        "女性人名"
-      ],
       "wikiExtract": "Judith is a feminine given name derived from the Hebrew name Yəhūdīt (יְהוּדִית), meaning \"praised\" and also more literally \"Woman of Judea\". It is the feminine form of Judah. Judith appeared in the Hebrew Bible as one of Esau's wives, while the deuterocanonical Book of Judith tells of a different Judith. It is in common usage in English, French, German, many Scandinavian languages, Dutch, and Hebrew. In Ethiopia and",
       "wikiLang": "en",
       "id": "hermitage-Q5954149",
@@ -6136,8 +6152,6 @@
         "画板",
         "耶罗尼米斯·博斯"
       ],
-      "wikiExtract": "The Haywain Triptych is a panel painting by the Early Netherlandish painter Hieronymus Bosch, now in the Museo del Prado, Madrid, Spain. A date of around 1516 has been established by means of dendrochronological research. The central panel, signed \"Jheronimus Bosch\", measures 135 cm × 200 cm and the wings measure 147 cm × 66 cm. The outside shutters feature a full color version of Bosch's The Wayfarer.",
-      "wikiLang": "en",
       "id": "prado-Q2213811",
       "popularity": 0.784,
       "imageSource": "commons",
@@ -7004,6 +7018,25 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "norway-national",
+      "qid": "Q7772973",
+      "title": "The Voice",
+      "titleEn": "The Voice",
+      "description": "Russell Watson album",
+      "imageUrl": null,
+      "imageThumb": null,
+      "wikiUrl": "https://en.wikipedia.org/wiki/The_Voice_(Russell_Watson_album)",
+      "sourceUrl": "https://www.nasjonalmuseet.no",
+      "tags": [],
+      "highlightsTags": [
+        "音樂專輯"
+      ],
+      "id": "norway-national-Q7772973",
+      "popularity": 0.741,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "korea-national",
       "qid": "Q16095663",
       "title": "청자 참외모양 병",
@@ -7687,22 +7720,6 @@
       "wikiLang": "zh",
       "id": "khm-Q16930210",
       "popularity": 0.72,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "khm",
-      "qid": "Q2",
-      "title": "地球",
-      "titleEn": "Earth",
-      "description": "太陽系中距離太陽第三近的行星",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83",
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Earth%20(Arcimboldo)",
-      "tags": [],
-      "id": "khm-Q2",
-      "popularity": 0.718,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -8890,29 +8907,6 @@
       "wikiExtract": "The Fight Between Carnival and Lent is an oil-on-panel painting executed by the Dutch and Flemish Renaissance painter Pieter Bruegel the Elder in 1559. It is a panorama of contemporary life in the Southern Netherlands. While the painting contains nearly 200 characters, it is unified under the theme of the transition from Shrove Tuesday to Lent, the period forty days before Easter.",
       "wikiLang": "en",
       "id": "khm-Q689236",
-      "popularity": 0.656,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "khm",
-      "qid": "Q2629715",
-      "title": "男子肖像",
-      "titleEn": "Portrait of a Man",
-      "description": "painting by Raphael",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=420",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_(Raphael)",
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Portrait%20of%20a%20Man%20(D%C3%BCrer)",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "文藝復興全盛期",
-        "油彩",
-        "画板",
-        "拉斐尔·圣齐奥"
-      ],
-      "id": "khm-Q2629715",
       "popularity": 0.656,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
