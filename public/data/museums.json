@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T23:23:27.744Z",
+  "generatedAt": "2026-09-23T23:50:28.094Z",
   "countries": [
     "中国",
     "中国台湾",
@@ -439,7 +439,7 @@
       "heat": 0.63,
       "heatLabel": "哈布斯堡皇室珍藏",
       "blurb": "切利尼盐罐、勃鲁盖尔《雪中猎人》。",
-      "count": 38
+      "count": 40
     },
     {
       "id": "hermitage",
@@ -484,7 +484,7 @@
       "heat": 0.72,
       "heatLabel": "日本最古老博物馆",
       "blurb": "曜变天目、松林图屏风、埴轮武人——日本国宝殿堂。",
-      "count": 38
+      "count": 39
     },
     {
       "id": "korea-national",
@@ -499,7 +499,7 @@
       "heat": 0.69,
       "heatLabel": "亚洲参观人数前列",
       "blurb": "金铜半跏思惟像、新罗金冠、青瓷精品。",
-      "count": 37
+      "count": 36
     },
     {
       "id": "norway-national",

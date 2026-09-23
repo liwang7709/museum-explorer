@@ -1,44 +1,44 @@
 {
-  "date": "2026-09-20",
-  "generatedAt": "2026-09-20T23:23:27.744Z",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T23:50:28.094Z",
   "picks": [
-    "norway-national-Q124714",
-    "khm-Q21676074",
-    "british-museum-Q606662",
-    "npm-taipei-Q15931105",
-    "vatican-Q2551806",
-    "british-museum-Q405008",
-    "npm-taipei-Q536779",
-    "hermitage-Q1327676",
-    "tokyo-national-Q112200319",
-    "tokyo-national-Q120676",
-    "national-gallery-london-Q26708368",
-    "norway-national-Q18891504",
-    "norway-national-Q7772973",
-    "korea-national-Q12586444",
-    "korea-national-Q16092399",
-    "korea-national-Q29383347"
+    "met-Q285392",
+    "british-museum-Q248101",
+    "reina-sofia-Q3820656",
+    "korea-national-Q29383347",
+    "rijksmuseum-Q586035",
+    "nga-Q65019145",
+    "uffizi-Q549847",
+    "npm-taipei-Q134225183",
+    "prado-Q208758",
+    "norway-national-Q1931228",
+    "npm-taipei-Q134119393",
+    "cleveland-Q2509393",
+    "norway-national-Q7752682",
+    "prado-Q1091086",
+    "norway-national-Q76338237",
+    "prado-Q984058"
   ],
   "hotTerms": [
     {
-      "term": "五牛圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP2 · 游客量世界第一 · 约1700万/年"
+      "term": "清明上河圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP3 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "捨杜",
-      "reason": "卢浮宫馆藏 · 综合热度TOP28 · 全球参观量第一 · 约890万/年"
+      "term": "人面鱼纹彩陶盆",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP11 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "石鼓 (先秦)",
-      "reason": "故宫博物院馆藏 · 综合热度TOP7 · 游客量世界第一 · 约1700万/年"
+      "term": "大盂鼎",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP12 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "蒙娜丽莎",
-      "reason": "卢浮宫馆藏 · 综合热度TOP21 · 全球参观量第一 · 约890万/年"
+      "term": "四羊方尊",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP10 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "普西莎与爱神",
-      "reason": "卢浮宫馆藏 · 综合热度TOP26 · 全球参观量第一 · 约890万/年"
+      "term": "大宫女",
+      "reason": "卢浮宫馆藏 · 综合热度TOP25 · 全球参观量第一 · 约890万/年"
     }
   ],
   "hotMuseumIds": [
