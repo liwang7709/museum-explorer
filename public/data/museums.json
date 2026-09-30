@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T23:50:28.094Z",
+  "generatedAt": "2026-09-30T00:37:27.856Z",
   "countries": [
     "中国",
     "中国台湾",
@@ -484,7 +484,7 @@
       "heat": 0.72,
       "heatLabel": "日本最古老博物馆",
       "blurb": "曜变天目、松林图屏风、埴轮武人——日本国宝殿堂。",
-      "count": 39
+      "count": 38
     },
     {
       "id": "korea-national",
@@ -499,7 +499,7 @@
       "heat": 0.69,
       "heatLabel": "亚洲参观人数前列",
       "blurb": "金铜半跏思惟像、新罗金冠、青瓷精品。",
-      "count": 36
+      "count": 37
     },
     {
       "id": "norway-national",
@@ -514,7 +514,7 @@
       "heat": 0.65,
       "heatLabel": "《呐喊》藏地",
       "blurb": "蒙克《呐喊》与挪威艺术全集。",
-      "count": 48
+      "count": 47
     }
   ]
 }

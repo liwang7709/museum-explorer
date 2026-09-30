@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-23T23:50:28.094Z",
-  "total": 407,
+  "generatedAt": "2026-09-30T00:37:27.856Z",
+  "total": 406,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
     {
@@ -388,7 +388,8 @@
         "畫作",
         "學院藝術",
         "油彩",
-        "画布"
+        "画布",
+        "约翰·辛格·沙金"
       ],
       "wikiExtract": "《X夫人肖像》 是美國藝術家約翰·辛格·薩金特於1884年創作的肖像畫，描繪的是年輕的社交名媛維吉妮·阿梅莉·阿韋尼奧·高特羅，一位年轻的社交名媛。她出生于美国，四岁时失去父亲，随母亲和姐姐来到法国，年轻时嫁给了富有的法国银行家兼船东皮埃尔·高特罗。她在巴黎社交圈以美貌而闻名。\n",
       "wikiLang": "zh",
@@ -413,11 +414,11 @@
       ],
       "highlightsTags": [
         "三聯畫",
+        "單幅祭壇畫",
         "祭壇畫",
         "畫作",
         "早期尼德蘭繪畫",
-        "oak panel",
-        "油彩"
+        "oak panel"
       ],
       "wikiExtract": "The Mérode Altarpiece is an oil on oak panel triptych, now in The Cloisters in New York. It is unsigned and undated, but attributed to Early Netherlandish painter Robert Campin and an assistant. The three panels represent, from left to right, the donors kneeling in prayer in a garden, the moment of the Annunciation to Mary, which is set in a contemporary, domestic setting, and Saint Joseph, a carpenter with the tools",
       "wikiLang": "en",
@@ -801,6 +802,8 @@
         "帕里安大理石",
         "Pythokritos"
       ],
+      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
+      "wikiLang": "zh",
       "id": "louvre-Q216402",
       "popularity": 1,
       "imageSource": "commons",
@@ -1001,13 +1004,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%8E%B1%E7%89%B9%E9%A3%9E%E8%A1%8C%E5%99%A8",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Wright%20Flyer",
       "tags": [],
-      "highlightsTags": [
-        "飛機",
-        "Flyer",
-        "平纹细布",
-        "spruce",
-        "钢"
-      ],
       "id": "smithsonian-Q688605",
       "popularity": 0.994,
       "imageSource": "commons",
@@ -1128,6 +1124,8 @@
         "画布",
         "欧仁·德拉克罗瓦"
       ],
+      "wikiExtract": "《自由引導人民》，或譯稱《自由領導人民》，是法国浪漫主義畫家歐仁·德拉克洛瓦為紀念1830年法國七月革命而創作的作品。此画最早在1831年的巴黎沙龙上展出，而后被巴黎羅浮宫收藏至今。\n",
+      "wikiLang": "zh",
       "id": "louvre-Q29530",
       "popularity": 0.99,
       "imageSource": "commons",
@@ -1537,6 +1535,7 @@
         "MET"
       ],
       "highlightsTags": [
+        "埃及神廟",
         "period room"
       ],
       "detailUrl": "https://www.metmuseum.org/art/collection/search/547802",
@@ -1562,7 +1561,7 @@
         "遺物",
         "鐵",
         "青铜",
-        "金"
+        "锡"
       ],
       "wikiExtract": "The Sutton Hoo helmet is a decorated Anglo-Saxon helmet found during a 1939 excavation of the Sutton Hoo ship-burial. It was thought to be buried around the years c. 620–625 AD and is widely associated with an Anglo-Saxon leader, King Rædwald of East Anglia; its elaborate decoration may have given it a secondary function akin to a crown. The helmet was both a functional piece of armour and a decorative piece of metal",
       "wikiLang": "en",
@@ -2067,10 +2066,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%AD%94%E9%9B%80%E5%8E%85",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Peacock%20Room",
       "tags": [],
-      "highlightsTags": [
-        "period room",
-        "裝置藝術作品"
-      ],
       "wikiExtract": "《蓝色与金色的和谐：孔雀厅》 是詹姆斯·惠斯勒於1876-1877年所创作的两幅帆布油画，采用油画颜料和镀金叶饰。原为英国船王、惠斯勒的主要赞助人弗雷德里克·雷兰 的伦敦住宅设计的餐厅装饰。房间尺寸：高13英尺11又5⁄8英寸，宽33英尺2英寸，深19英尺9又1⁄2英寸 现藏于華盛頓哥倫比亞特區弗瑞爾藝廊。\n",
       "wikiLang": "zh",
       "id": "smithsonian-Q16738523",
@@ -2164,7 +2159,8 @@
       "highlightsTags": [
         "塑像",
         "Greek late classical period",
-        "大理岩"
+        "大理岩",
+        "莱奥卡雷斯"
       ],
       "id": "vatican-Q619135",
       "popularity": 0.9510000000000001,
@@ -2415,8 +2411,10 @@
       "tags": [],
       "highlightsTags": [
         "畫作",
+        "新造形主义",
         "油彩",
-        "画布"
+        "画布",
+        "皮特·蒙德里安"
       ],
       "wikiExtract": "百老匯爵士樂 是畫家皮特·蒙德里安的最後畫作，完成於1943年，就在他在1940年搬到紐約後不久。\n",
       "wikiLang": "zh",
@@ -2670,12 +2668,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E7%B4%85%E5%AF%B6%E7%9F%B3%E9%9E%8B",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Ruby%20slippers%20(Wizard%20of%20Oz)",
       "tags": [],
-      "highlightsTags": [
-        "电影纪念品收藏",
-        "fictional slipper",
-        "costume component",
-        "虚构的魔法物品"
-      ],
       "id": "smithsonian-Q843007",
       "popularity": 0.933,
       "imageSource": "commons",
@@ -2832,7 +2824,9 @@
       "highlightsTags": [
         "畫作",
         "美國場景繪製藝術",
-        "油彩"
+        "油彩",
+        "beaverboard",
+        "格兰特·伍德"
       ],
       "wikiExtract": "《美国哥特式》，又译作《美式哥特》，是美国画家格兰特·伍德于1930年创作的一幅油彩画，现藏于芝加哥艺术学院。这幅画作是最为知名的美国画面和文化符号之一，也是在美国流行文化和艺术史中最常被影射的美术作品之一。\n",
       "wikiLang": "zh",
@@ -3075,7 +3069,8 @@
       "tags": [],
       "highlightsTags": [
         "畫作",
-        "丝绸"
+        "丝绸",
+        "顾闳中"
       ],
       "wikiExtract": "《韩熙载夜宴图》，據宋《宣和画谱》所載為五代十国南唐画家顾闳中的作品，現存此本摹於南宋，元代汤垕《画鉴》、清代孙承泽《庚子消夏记》、顾复《平生壮观》、《石渠宝笈初编》等书皆著錄。清末流出宫外，1945年，张大千以500兩黃金的鉅款購得，现藏于北京故宫博物院。據記載，南唐的周文矩亦作《韓熙載夜宴圖》，元朝時兩作俱在，現今僅存顧本傳世。另有唐寅摹本，现收藏於重庆中国三峡博物馆。\n",
       "wikiLang": "zh",
@@ -3259,7 +3254,8 @@
         "畫作",
         "浪漫主义",
         "油彩",
-        "画布"
+        "画布",
+        "约瑟夫·马洛德·威廉·透纳"
       ],
       "wikiExtract": "《勇莽號戰艦被拖往最後泊位拆解，1838年》 是英國藝術家威廉·透纳於1838年創作的一幅油畫，並於1839年在皇家艺术学院展出。\n",
       "wikiLang": "zh",
@@ -3485,7 +3481,8 @@
         "畫作",
         "早期尼德蘭繪畫",
         "油彩",
-        "oak panel"
+        "oak panel",
+        "揚·范·艾克"
       ],
       "wikiExtract": "《阿诺菲尼的婚礼》，又名《阿尔诺非尼夫妇》又名《阿诺菲尼的肖像》，由荷兰画家扬·范·艾克画于1434年。该画收藏于英國國家美術館。\n",
       "wikiLang": "zh",
@@ -4907,6 +4904,9 @@
       "wikiUrl": "https://en.wikipedia.org/wiki/Judith_(given_name)",
       "sourceUrl": "https://www.hermitagemuseum.org",
       "tags": [],
+      "highlightsTags": [
+        "女性人名"
+      ],
       "wikiExtract": "Judith is a feminine given name derived from the Hebrew name Yəhūdīt (יְהוּדִית), meaning \"praised\" and also more literally \"Woman of Judea\". It is the feminine form of Judah. Judith appeared in the Hebrew Bible as one of Esau's wives, while the deuterocanonical Book of Judith tells of a different Judith. It is in common usage in English, French, German, many Scandinavian languages, Dutch, and Hebrew. In Ethiopia and",
       "wikiLang": "en",
       "id": "hermitage-Q5954149",
@@ -7043,27 +7043,6 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
-      "museumId": "norway-national",
-      "qid": "Q7752682",
-      "title": "The Murderer",
-      "titleEn": "The Murderer",
-      "description": "short story by Ray Bradbury",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Bradbury's%20The%20Murderer%20-%202013.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Bradbury's%20The%20Murderer%20-%202013.jpg?width=420",
-      "wikiUrl": "https://en.wikipedia.org/wiki/The_Murderer",
-      "sourceUrl": "https://www.nasjonalmuseet.no",
-      "tags": [],
-      "highlightsTags": [
-        "文學作品"
-      ],
-      "wikiExtract": "\"The Murderer\" (1953) is a short story by Ray Bradbury, published in his collection The Golden Apples of the Sun.",
-      "wikiLang": "en",
-      "id": "norway-national-Q7752682",
-      "popularity": 0.74,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
       "museumId": "korea-national",
       "qid": "Q12597882",
       "title": "White Porcelain Moon Jar (National Treasure No. 262)",
@@ -7187,25 +7166,6 @@
         "亨利·马蒂斯"
       ],
       "id": "reina-sofia-Q20816630",
-      "popularity": 0.734,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "tokyo-national",
-      "qid": "Q132408755",
-      "title": "普贤菩萨像",
-      "titleEn": "",
-      "description": "item from the collection of National Museum of China",
-      "imageUrl": null,
-      "imageThumb": null,
-      "wikiUrl": null,
-      "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Fugen%20Bosatsu%20statue",
-      "tags": [],
-      "highlightsTags": [
-        "雕塑作品"
-      ],
-      "id": "tokyo-national-Q132408755",
       "popularity": 0.734,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -7360,6 +7320,28 @@
       "wikiExtract": "The Storm is a drama in five acts by the 19th-century Russian playwright Aleksandr Ostrovsky. As with Ostrovsky's other plays, The Storm is a work of social criticism, which is directed particularly towards the Russian merchant class.",
       "wikiLang": "en",
       "id": "norway-national-Q4150068",
+      "popularity": 0.729,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "norway-national",
+      "qid": "Q2494850",
+      "title": "The Funeral",
+      "titleEn": "The Funeral",
+      "description": "painting by Édouard Manet",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Funeral%20MET%20DT1931.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Funeral%20MET%20DT1931.jpg?width=420",
+      "wikiUrl": "https://en.wikipedia.org/wiki/The_Funeral_(painting)",
+      "sourceUrl": "https://www.nasjonalmuseet.no",
+      "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "油彩",
+        "画布",
+        "愛德華·馬奈"
+      ],
+      "id": "norway-national-Q2494850",
       "popularity": 0.729,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -7582,22 +7564,6 @@
       "wikiExtract": "The Sick Child is the title given to a group of six paintings and a number of lithographs, drypoints and etchings completed by the Norwegian artist Edvard Munch between 1885 and 1926. Each work records the moments before the death of his older sister, Johanne Sophie (1862–1877), from tuberculosis aged 15. Munch repeatedly returned to this deeply traumatic event in his art over a period of over 40 years. In the works,",
       "wikiLang": "en",
       "id": "norway-national-Q2267579",
-      "popularity": 0.723,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "norway-national",
-      "qid": "Q309",
-      "title": "歷史",
-      "titleEn": "history",
-      "description": "過去發生的事件",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikolaos%20Gyzis%20-%20Historia.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikolaos%20Gyzis%20-%20Historia.jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2",
-      "sourceUrl": "https://www.nasjonalmuseet.no",
-      "tags": [],
-      "id": "norway-national-Q309",
       "popularity": 0.723,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -8171,6 +8137,27 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "korea-national",
+      "qid": "Q65248711",
+      "title": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
+      "titleEn": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
+      "description": "",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%86%8C%EC%9E%A5%20%EB%AA%A9%EC%A1%B0%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81%2001.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%86%8C%EC%9E%A5%20%EB%AA%A9%EC%A1%B0%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81%2001.jpg?width=420",
+      "wikiUrl": null,
+      "sourceUrl": "https://www.museum.go.kr",
+      "tags": [],
+      "highlightsTags": [
+        "文化遺產",
+        "塑像",
+        "木材"
+      ],
+      "id": "korea-national-Q65248711",
+      "popularity": 0.701,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "norway-national",
       "qid": "Q698487",
       "title": "吻",
@@ -8227,6 +8214,9 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%AD%A3",
       "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Summer%20(Arcimboldo)",
       "tags": [],
+      "highlightsTags": [
+        "周期事件"
+      ],
       "wikiExtract": "夏季是一年四季的第二季，也是一年中最炎热的季节，同时也是一年中太阳高度最高、白昼最长的季节。北半球的夏季依公曆通常被認為在6、7、8月，但實際則隨地區而不同。夏季是许多农作物旺盛生长的季节，充足的光照和适宜的温度给植物提供了所需的条件。此外，由於夏季時全球大部份中小學學生都放暑假，因此也是相當旺盛的學生旅遊季節。以北半球為例，除了赤道一帶其他地方都有夏季：曼谷夏季約八個月、北極夏季約五個月（另外七個月為冬季）。\n",
       "wikiLang": "zh",
       "id": "khm-Q1313",
@@ -8784,27 +8774,6 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
-      "museumId": "khm",
-      "qid": "Q59676195",
-      "title": "Saint Margaret",
-      "titleEn": "Saint Margaret",
-      "description": "painting by the workshop of Titian",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Margarita%2C%20del%20taller%20de%20Tiziano%20(Museo%20del%20Prado).jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Margarita%2C%20del%20taller%20de%20Tiziano%20(Museo%20del%20Prado).jpg?width=420",
-      "wikiUrl": null,
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Saint%20Margaret%20(Rubens)",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "油彩",
-        "画布"
-      ],
-      "id": "khm-Q59676195",
-      "popularity": 0.67,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
       "museumId": "norway-national",
       "qid": "Q1767705",
       "title": "The Eye",
@@ -8919,6 +8888,29 @@
       "wikiExtract": "The Fight Between Carnival and Lent is an oil-on-panel painting executed by the Dutch and Flemish Renaissance painter Pieter Bruegel the Elder in 1559. It is a panorama of contemporary life in the Southern Netherlands. While the painting contains nearly 200 characters, it is unified under the theme of the transition from Shrove Tuesday to Lent, the period forty days before Easter.",
       "wikiLang": "en",
       "id": "khm-Q689236",
+      "popularity": 0.656,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "khm",
+      "qid": "Q2629715",
+      "title": "男子肖像",
+      "titleEn": "Portrait of a Man",
+      "description": "painting by Raphael",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=420",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_(Raphael)",
+      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Portrait%20of%20a%20Man%20(D%C3%BCrer)",
+      "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "文藝復興全盛期",
+        "油彩",
+        "画板",
+        "拉斐尔·圣齐奥"
+      ],
+      "id": "khm-Q2629715",
       "popularity": 0.656,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"

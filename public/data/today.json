@@ -1,44 +1,44 @@
 {
-  "date": "2026-09-23",
-  "generatedAt": "2026-09-23T23:50:28.094Z",
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T00:37:27.856Z",
   "picks": [
-    "met-Q285392",
-    "british-museum-Q248101",
-    "reina-sofia-Q3820656",
-    "korea-national-Q29383347",
-    "rijksmuseum-Q586035",
+    "korea-national-Q4543149",
+    "norway-national-Q18890817",
+    "korea-national-Q16095663",
+    "uffizi-Q1473546",
+    "reina-sofia-Q123328536",
+    "norway-national-Q3955717",
+    "norway-national-Q2494850",
+    "hermitage-Q128910",
+    "hubei-museum-Q4902549",
+    "hermitage-Q60329141",
+    "vam-Q1766064",
     "nga-Q65019145",
-    "uffizi-Q549847",
-    "npm-taipei-Q134225183",
-    "prado-Q208758",
-    "norway-national-Q1931228",
-    "npm-taipei-Q134119393",
-    "cleveland-Q2509393",
-    "norway-national-Q7752682",
-    "prado-Q1091086",
-    "norway-national-Q76338237",
-    "prado-Q984058"
+    "npm-taipei-Q112200247",
+    "khm-Q3196",
+    "uffizi-Q3937472",
+    "moma-Q1219263"
   ],
   "hotTerms": [
     {
-      "term": "清明上河圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP3 · 游客量世界第一 · 约1700万/年"
+      "term": "The Lacemaker",
+      "reason": "卢浮宫馆藏 · 综合热度TOP27 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "人面鱼纹彩陶盆",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP11 · 全球参观量前列 · 约670万/年"
+      "term": "米洛的维纳斯",
+      "reason": "卢浮宫馆藏 · 综合热度TOP22 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "大盂鼎",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP12 · 全球参观量前列 · 约670万/年"
+      "term": "拿破崙加冕",
+      "reason": "卢浮宫馆藏 · 综合热度TOP24 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "四羊方尊",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP10 · 全球参观量前列 · 约670万/年"
+      "term": "步辇图",
+      "reason": "故宫博物院馆藏 · 综合热度TOP4 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "大宫女",
-      "reason": "卢浮宫馆藏 · 综合热度TOP25 · 全球参观量第一 · 约890万/年"
+      "term": "《天使报喜三联画》（梅罗德圣坛饰）",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP18 · 全球TOP3 · 约540万/年"
     }
   ],
   "hotMuseumIds": [
