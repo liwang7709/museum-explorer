@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-02",
-  "generatedAt": "2026-10-02T00:56:26.871Z",
+  "date": "2026-10-05",
+  "generatedAt": "2026-10-05T00:04:28.610Z",
   "picks": [
-    "nga-Q65019145",
-    "prado-Q1195238",
-    "rijksmuseum-Q219831",
-    "reina-sofia-Q175036",
-    "shanghai-museum-Q132689763",
-    "van-gogh-Q634122",
-    "vam-Q1320874",
-    "rijksmuseum-Q766782",
-    "van-gogh-Q157541",
-    "prado-Q1526106",
-    "hubei-museum-Q4902549",
-    "reina-sofia-Q3820656",
-    "moma-Q45585",
-    "british-museum-Q248101",
-    "khm-Q17323989",
-    "nmc-Q10936980"
+    "van-gogh-Q19363211",
+    "tate-Q1800888",
+    "norway-national-Q471379",
+    "uffizi-Q154326",
+    "norway-national-Q1744",
+    "british-museum-Q27920165",
+    "vatican-Q2500226",
+    "norway-national-Q18891504",
+    "rijksmuseum-Q735061",
+    "norway-national-Q170516",
+    "npm-taipei-Q706846",
+    "sanxingdui-Q11178546",
+    "louvre-Q1231009",
+    "khm-Q698228",
+    "prado-Q920030",
+    "louvre-Q6028852"
   ],
   "hotTerms": [
     {
@@ -25,20 +25,20 @@
       "reason": "中国国家博物馆馆藏 · 综合热度TOP8 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP16 · 全球TOP3 · 约540万/年"
+      "term": "The Gulf Stream",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP15 · 全球TOP3 · 约540万/年"
     },
     {
-      "term": "《天使报喜三联画》（梅罗德圣坛饰）",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP18 · 全球TOP3 · 约540万/年"
+      "term": "千里江山图",
+      "reason": "故宫博物院馆藏 · 综合热度TOP1 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "苏格拉底之死",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP14 · 全球TOP3 · 约540万/年"
+      "term": "大盂鼎",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP12 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "步辇图",
-      "reason": "故宫博物院馆藏 · 综合热度TOP4 · 游客量世界第一 · 约1700万/年"
+      "term": "金瓯永固杯",
+      "reason": "故宫博物院馆藏 · 综合热度TOP6 · 游客量世界第一 · 约1700万/年"
     }
   ],
   "hotMuseumIds": [
