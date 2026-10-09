@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T00:04:28.610Z",
+  "generatedAt": "2026-10-09T01:21:47.547Z",
   "countries": [
     "中国",
     "中国台湾",
@@ -439,7 +439,7 @@
       "heat": 0.63,
       "heatLabel": "哈布斯堡皇室珍藏",
       "blurb": "切利尼盐罐、勃鲁盖尔《雪中猎人》。",
-      "count": 38
+      "count": 39
     },
     {
       "id": "hermitage",
@@ -454,7 +454,7 @@
       "heat": 0.76,
       "heatLabel": "全球最大博物馆之一 · 300万+藏品",
       "blurb": "孔雀钟、达·芬奇《持花圣母》、伦勃朗《达娜厄》。",
-      "count": 38
+      "count": 39
     },
     {
       "id": "vatican",
@@ -499,7 +499,7 @@
       "heat": 0.69,
       "heatLabel": "亚洲参观人数前列",
       "blurb": "金铜半跏思惟像、新罗金冠、青瓷精品。",
-      "count": 36
+      "count": 37
     },
     {
       "id": "norway-national",
@@ -514,7 +514,7 @@
       "heat": 0.65,
       "heatLabel": "《呐喊》藏地",
       "blurb": "蒙克《呐喊》与挪威艺术全集。",
-      "count": 47
+      "count": 49
     }
   ]
 }
