@@ -1,44 +1,44 @@
 {
-  "date": "2026-10-10",
-  "generatedAt": "2026-10-10T01:01:44.521Z",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T00:42:29.274Z",
   "picks": [
-    "norway-national-Q28802071",
-    "louvre-Q616332",
-    "hermitage-Q183332",
-    "tokyo-national-Q123090266",
-    "npm-taipei-Q63557795",
-    "norway-national-Q698487",
-    "uffizi-Q28810336",
-    "musee-rodin-Q2418237",
-    "npm-taipei-Q15944320",
-    "uffizi-Q154326",
-    "korea-national-Q16092435",
-    "khm-Q1245512",
-    "prado-Q2413468",
-    "smithsonian-Q688605",
-    "tokyo-national-Q107045370",
-    "tokyo-national-Q53752209"
+    "hermitage-Q19911647",
+    "aic-Q464782",
+    "khm-Q698228",
+    "norway-national-Q18890817",
+    "vatican-Q465762",
+    "vatican-Q2500226",
+    "korea-national-Q16093040",
+    "hermitage-Q13365963",
+    "hunan-museum-Q901206",
+    "van-gogh-Q19835866",
+    "korea-national-Q5562626",
+    "moma-Q3877090",
+    "sanxingdui-Q17029263",
+    "npm-taipei-Q11126402",
+    "prado-Q9048543",
+    "met-Q285392"
   ],
   "hotTerms": [
     {
-      "term": "拿破崙加冕",
-      "reason": "卢浮宫馆藏 · 综合热度TOP24 · 全球参观量第一 · 约890万/年"
+      "term": "苏格拉底之死",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP14 · 全球TOP3 · 约540万/年"
     },
     {
-      "term": "洛神賦圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP5 · 游客量世界第一 · 约1700万/年"
+      "term": "步辇图",
+      "reason": "故宫博物院馆藏 · 综合热度TOP4 · 游客量世界第一 · 约1700万/年"
+    },
+    {
+      "term": "《天使报喜三联画》（梅罗德圣坛饰）",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP18 · 全球TOP3 · 约540万/年"
+    },
+    {
+      "term": "五牛圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP2 · 游客量世界第一 · 约1700万/年"
     },
     {
       "term": "后母戊鼎",
       "reason": "中国国家博物馆馆藏 · 综合热度TOP9 · 全球参观量前列 · 约670万/年"
-    },
-    {
-      "term": "千里江山图",
-      "reason": "故宫博物院馆藏 · 综合热度TOP1 · 游客量世界第一 · 约1700万/年"
-    },
-    {
-      "term": "額爾金大理石",
-      "reason": "大英博物馆馆藏 · 综合热度TOP19 · 全球TOP5 · 约580万/年"
     }
   ],
   "hotMuseumIds": [
