@@ -1,44 +1,44 @@
 {
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T00:42:29.274Z",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T02:43:28.662Z",
   "picks": [
-    "hermitage-Q19911647",
-    "aic-Q464782",
-    "khm-Q698228",
-    "norway-national-Q18890817",
-    "vatican-Q465762",
-    "vatican-Q2500226",
-    "korea-national-Q16093040",
-    "hermitage-Q13365963",
-    "hunan-museum-Q901206",
-    "van-gogh-Q19835866",
     "korea-national-Q5562626",
-    "moma-Q3877090",
-    "sanxingdui-Q17029263",
-    "npm-taipei-Q11126402",
-    "prado-Q9048543",
-    "met-Q285392"
+    "palace-beijing-Q7618932",
+    "uffizi-Q948745",
+    "louvre-Q151952",
+    "vatican-Q16933120",
+    "nmc-Q132501266",
+    "khm-Q533619",
+    "tate-Q4540018",
+    "palace-beijing-Q10881982",
+    "smithsonian-Q688605",
+    "tokyo-national-Q107425",
+    "palace-beijing-Q4997694",
+    "prado-Q1091086",
+    "vatican-Q2531790",
+    "khm-Q556553",
+    "national-gallery-london-Q4009972"
   ],
   "hotTerms": [
     {
-      "term": "苏格拉底之死",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP14 · 全球TOP3 · 约540万/年"
+      "term": "大盂鼎",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP12 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "步辇图",
-      "reason": "故宫博物院馆藏 · 综合热度TOP4 · 游客量世界第一 · 约1700万/年"
+      "term": "X夫人（皮埃尔·戈特罗夫人）",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP17 · 全球TOP3 · 约540万/年"
     },
     {
-      "term": "《天使报喜三联画》（梅罗德圣坛饰）",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP18 · 全球TOP3 · 约540万/年"
+      "term": "The Gulf Stream",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP15 · 全球TOP3 · 约540万/年"
     },
     {
-      "term": "五牛圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP2 · 游客量世界第一 · 约1700万/年"
+      "term": "击鼓说唱俑",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP8 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "后母戊鼎",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP9 · 全球参观量前列 · 约670万/年"
+      "term": "金瓯永固杯",
+      "reason": "故宫博物院馆藏 · 综合热度TOP6 · 游客量世界第一 · 约1700万/年"
     }
   ],
   "hotMuseumIds": [

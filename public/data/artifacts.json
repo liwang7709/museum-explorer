@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:42:29.274Z",
+  "generatedAt": "2026-10-13T02:43:28.662Z",
   "total": 406,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
@@ -7002,6 +7002,25 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "norway-national",
+      "qid": "Q7772973",
+      "title": "The Voice",
+      "titleEn": "The Voice",
+      "description": "Russell Watson album",
+      "imageUrl": null,
+      "imageThumb": null,
+      "wikiUrl": "https://en.wikipedia.org/wiki/The_Voice_(Russell_Watson_album)",
+      "sourceUrl": "https://www.nasjonalmuseet.no",
+      "tags": [],
+      "highlightsTags": [
+        "音樂專輯"
+      ],
+      "id": "norway-national-Q7772973",
+      "popularity": 0.741,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "korea-national",
       "qid": "Q16095663",
       "title": "청자 참외모양 병",
@@ -8114,6 +8133,27 @@
     },
     {
       "museumId": "korea-national",
+      "qid": "Q65248711",
+      "title": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
+      "titleEn": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
+      "description": "",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%86%8C%EC%9E%A5%20%EB%AA%A9%EC%A1%B0%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81%2001.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%86%8C%EC%9E%A5%20%EB%AA%A9%EC%A1%B0%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81%2001.jpg?width=420",
+      "wikiUrl": null,
+      "sourceUrl": "https://www.museum.go.kr",
+      "tags": [],
+      "highlightsTags": [
+        "文化遺產",
+        "塑像",
+        "木材"
+      ],
+      "id": "korea-national-Q65248711",
+      "popularity": 0.701,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "korea-national",
       "qid": "Q12615728",
       "title": "仁王霁色图",
       "titleEn": "Inwang jesaekdo",
@@ -8132,27 +8172,6 @@
       "wikiExtract": "Inwangjesaekdo is a landscape painting by the famous Jeong Seon. It was painted during the reign of Joseon Dynasty King Yeongjo in 1751, at his birthplace in Cheongun-dong at Jongno District, modern-day Seoul. It was designated by the South Korean government as the 216th National Treasure of Korea on August 6, 1984. The painting is currently held and managed by the Ho-Am Art Museum in Yongin, Gyeonggi Province. Previ",
       "wikiLang": "en",
       "id": "korea-national-Q12615728",
-      "popularity": 0.701,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "korea-national",
-      "qid": "Q65248711",
-      "title": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
-      "titleEn": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
-      "description": "",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%86%8C%EC%9E%A5%20%EB%AA%A9%EC%A1%B0%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81%2001.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%86%8C%EC%9E%A5%20%EB%AA%A9%EC%A1%B0%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81%2001.jpg?width=420",
-      "wikiUrl": null,
-      "sourceUrl": "https://www.museum.go.kr",
-      "tags": [],
-      "highlightsTags": [
-        "文化遺產",
-        "塑像",
-        "木材"
-      ],
-      "id": "korea-national-Q65248711",
       "popularity": 0.701,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -8888,29 +8907,6 @@
       "wikiExtract": "The Fight Between Carnival and Lent is an oil-on-panel painting executed by the Dutch and Flemish Renaissance painter Pieter Bruegel the Elder in 1559. It is a panorama of contemporary life in the Southern Netherlands. While the painting contains nearly 200 characters, it is unified under the theme of the transition from Shrove Tuesday to Lent, the period forty days before Easter.",
       "wikiLang": "en",
       "id": "khm-Q689236",
-      "popularity": 0.656,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "khm",
-      "qid": "Q2629715",
-      "title": "男子肖像",
-      "titleEn": "Portrait of a Man",
-      "description": "painting by Raphael",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=420",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_(Raphael)",
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Portrait%20of%20a%20Man%20(D%C3%BCrer)",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "文藝復興全盛期",
-        "油彩",
-        "画板",
-        "拉斐尔·圣齐奥"
-      ],
-      "id": "khm-Q2629715",
       "popularity": 0.656,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
