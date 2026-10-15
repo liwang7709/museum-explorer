@@ -1,44 +1,44 @@
 {
-  "date": "2026-10-14",
-  "generatedAt": "2026-10-14T00:26:46.833Z",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T00:04:30.182Z",
   "picks": [
-    "hermitage-Q119392717",
-    "met-Q509806",
-    "tokyo-national-Q105096033",
-    "norway-national-Q18891504",
-    "tokyo-national-Q106770251",
-    "prado-Q1150997",
-    "moma-Q28128236",
-    "prado-Q321303",
-    "norway-national-Q28802071",
-    "tokyo-national-Q11531476",
-    "prado-Q2268524",
-    "norway-national-Q46721",
-    "rijksmuseum-Q17319634",
-    "korea-national-Q65248711",
-    "louvre-Q151952",
-    "norway-national-Q18890990"
+    "norway-national-Q2494850",
+    "hermitage-Q14425558",
+    "prado-Q1091086",
+    "khm-Q690583",
+    "van-gogh-Q154469",
+    "cleveland-Q18003128",
+    "khm-Q3937443",
+    "uffizi-Q2046100",
+    "sanxingdui-Q11178546",
+    "khm-Q58701",
+    "getty-Q2282256",
+    "npm-taipei-Q15944320",
+    "moma-Q25729",
+    "palace-beijing-Q112971367",
+    "npm-taipei-Q7194972",
+    "uffizi-Q17319836"
   ],
   "hotTerms": [
     {
-      "term": "大宫女",
-      "reason": "卢浮宫馆藏 · 综合热度TOP26 · 全球参观量第一 · 约890万/年"
+      "term": "击鼓说唱俑",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP8 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "The Gulf Stream",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP15 · 全球TOP3 · 约540万/年"
+      "term": "大盂鼎",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP12 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "《天使报喜三联画》（梅罗德圣坛饰）",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP18 · 全球TOP3 · 约540万/年"
+      "term": "金瓯永固杯",
+      "reason": "故宫博物院馆藏 · 综合热度TOP6 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "X夫人（皮埃尔·戈特罗夫人）",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP17 · 全球TOP3 · 约540万/年"
+      "term": "五牛圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP2 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "洛神賦圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP5 · 游客量世界第一 · 约1700万/年"
+      "term": "拉奥孔与儿子们",
+      "reason": "梵蒂冈博物馆馆藏 · 综合热度TOP30 · 全球TOP2 · 约680万/年"
     }
   ],
   "hotMuseumIds": [
