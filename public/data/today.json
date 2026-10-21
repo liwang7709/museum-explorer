@@ -1,44 +1,44 @@
 {
-  "date": "2026-10-17",
-  "generatedAt": "2026-10-17T23:16:30.966Z",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T00:02:43.048Z",
   "picks": [
-    "hermitage-Q86621988",
-    "npm-taipei-Q133926453",
-    "tokyo-national-Q91239334",
-    "hermitage-Q119392717",
-    "british-museum-Q48584",
-    "hermitage-Q11750116",
-    "tokyo-national-Q107425",
-    "musee-rodin-Q2003287",
-    "getty-Q2282256",
-    "npm-taipei-Q134119393",
-    "korea-national-Q12607411",
-    "hermitage-Q27700947",
-    "louvre-Q616332",
-    "norway-national-Q46721",
-    "khm-Q698228",
-    "khm-Q16930210"
+    "npm-taipei-Q7231932",
+    "hermitage-Q1679443",
+    "vatican-Q667124",
+    "prado-Q2537138",
+    "louvre-Q1193312",
+    "korea-national-Q12586444",
+    "khm-Q3937443",
+    "louvre-Q216402",
+    "prado-Q3464088",
+    "vatican-Q12875810",
+    "national-gallery-london-Q2366825",
+    "moma-Q910199",
+    "prado-Q27781257",
+    "prado-Q1195238",
+    "norway-national-Q2267579",
+    "national-gallery-london-Q26708368"
   ],
   "hotTerms": [
     {
-      "term": "石鼓 (先秦)",
-      "reason": "故宫博物院馆藏 · 综合热度TOP7 · 游客量世界第一 · 约1700万/年"
+      "term": "大盂鼎",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP12 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "千里江山图",
-      "reason": "故宫博物院馆藏 · 综合热度TOP1 · 游客量世界第一 · 约1700万/年"
+      "term": "洛神賦圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP5 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "迦拿的婚礼",
-      "reason": "卢浮宫馆藏 · 综合热度TOP29 · 全球参观量第一 · 约890万/年"
+      "term": "五牛圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP2 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "大宫女",
-      "reason": "卢浮宫馆藏 · 综合热度TOP25 · 全球参观量第一 · 约890万/年"
+      "term": "The Lacemaker",
+      "reason": "卢浮宫馆藏 · 综合热度TOP27 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "人面鱼纹彩陶盆",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP11 · 全球参观量前列 · 约670万/年"
+      "term": "四羊方尊",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP10 · 全球参观量前列 · 约670万/年"
     }
   ],
   "hotMuseumIds": [
