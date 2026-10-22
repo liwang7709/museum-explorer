@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:02:43.048Z",
+  "generatedAt": "2026-10-22T00:09:26.667Z",
   "total": 406,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
@@ -550,6 +550,31 @@
     },
     {
       "museumId": "louvre",
+      "qid": "Q216402",
+      "title": "薩莫特拉斯的勝利女神",
+      "titleEn": "Winged Victory of Samothrace",
+      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
+      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
+      "tags": [],
+      "highlightsTags": [
+        "塑像",
+        "遺物",
+        "Hellenistic sculpture",
+        "帕里安大理石",
+        "Pythokritos"
+      ],
+      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
+      "wikiLang": "zh",
+      "id": "louvre-Q216402",
+      "popularity": 1,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "louvre",
       "qid": "Q1231009",
       "title": "拿破崙加冕",
       "titleEn": "The Coronation of Napoleon",
@@ -708,31 +733,6 @@
       "wikiExtract": "拉奧孔與兒子們，亦稱為拉奥孔群雕，是一座著名的大理石雕像，現藏於梵蒂岡博物館。該雕像根據古羅馬作家老普林尼所称是由三位来自于罗得岛的雕刻家：艾格桑德、阿提諾多洛斯（Athenodoros）及波利多魯斯（Polydorus）所創造的，表现了特洛伊祭司拉奥孔與他的兒子Antiphantes和Thymbraeus被海蛇纏繞而死的情景。\n",
       "wikiLang": "zh",
       "id": "vatican-Q465762",
-      "popularity": 1,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "louvre",
-      "qid": "Q216402",
-      "title": "薩莫特拉斯的勝利女神",
-      "titleEn": "Winged Victory of Samothrace",
-      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
-      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
-      "tags": [],
-      "highlightsTags": [
-        "塑像",
-        "遺物",
-        "Hellenistic sculpture",
-        "帕里安大理石",
-        "Pythokritos"
-      ],
-      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
-      "wikiLang": "zh",
-      "id": "louvre-Q216402",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -6136,8 +6136,6 @@
         "画板",
         "耶罗尼米斯·博斯"
       ],
-      "wikiExtract": "The Haywain Triptych is a panel painting by the Early Netherlandish painter Hieronymus Bosch, now in the Museo del Prado, Madrid, Spain. A date of around 1516 has been established by means of dendrochronological research. The central panel, signed \"Jheronimus Bosch\", measures 135 cm × 200 cm and the wings measure 147 cm × 66 cm. The outside shutters feature a full color version of Bosch's The Wayfarer.",
-      "wikiLang": "en",
       "id": "prado-Q2213811",
       "popularity": 0.784,
       "imageSource": "commons",
@@ -7000,6 +6998,25 @@
       ],
       "id": "korea-national-Q12588609",
       "popularity": 0.742,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "norway-national",
+      "qid": "Q7772973",
+      "title": "The Voice",
+      "titleEn": "The Voice",
+      "description": "Russell Watson album",
+      "imageUrl": null,
+      "imageThumb": null,
+      "wikiUrl": "https://en.wikipedia.org/wiki/The_Voice_(Russell_Watson_album)",
+      "sourceUrl": "https://www.nasjonalmuseet.no",
+      "tags": [],
+      "highlightsTags": [
+        "音樂專輯"
+      ],
+      "id": "norway-national-Q7772973",
+      "popularity": 0.741,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -8890,29 +8907,6 @@
       "wikiExtract": "The Fight Between Carnival and Lent is an oil-on-panel painting executed by the Dutch and Flemish Renaissance painter Pieter Bruegel the Elder in 1559. It is a panorama of contemporary life in the Southern Netherlands. While the painting contains nearly 200 characters, it is unified under the theme of the transition from Shrove Tuesday to Lent, the period forty days before Easter.",
       "wikiLang": "en",
       "id": "khm-Q689236",
-      "popularity": 0.656,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "khm",
-      "qid": "Q2629715",
-      "title": "男子肖像",
-      "titleEn": "Portrait of a Man",
-      "description": "painting by Raphael",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=420",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_(Raphael)",
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Portrait%20of%20a%20Man%20(D%C3%BCrer)",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "文藝復興全盛期",
-        "油彩",
-        "画板",
-        "拉斐尔·圣齐奥"
-      ],
-      "id": "khm-Q2629715",
       "popularity": 0.656,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
