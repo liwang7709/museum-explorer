@@ -1,44 +1,44 @@
 {
-  "date": "2026-10-22",
-  "generatedAt": "2026-10-22T00:09:26.667Z",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T00:07:26.829Z",
   "picks": [
-    "khm-Q3196",
-    "prado-Q3464088",
-    "vatican-Q186953",
-    "hermitage-Q19911647",
-    "tate-Q1800888",
+    "uffizi-Q164294",
+    "vatican-Q619135",
+    "tokyo-national-Q11400027",
+    "korea-national-Q16095663",
+    "nmc-Q97503214",
+    "khm-Q3937443",
+    "prado-Q152867",
+    "npm-taipei-Q11135165",
+    "vatican-Q64351452",
+    "palace-beijing-Q4997694",
     "national-gallery-london-Q2293953",
-    "uffizi-Q80513",
-    "khm-Q26508351",
-    "shanghai-museum-Q10933601",
-    "moma-Q2697937",
-    "louvre-Q212616",
-    "hermitage-Q5954149",
-    "british-museum-Q454667",
-    "met-Q1752990",
-    "uffizi-Q3937472",
-    "norway-national-Q18890817"
+    "smithsonian-Q640037",
+    "rijksmuseum-Q766782",
+    "korea-national-Q29383347",
+    "prado-Q27781257",
+    "aic-Q3228112"
   ],
   "hotTerms": [
     {
-      "term": "大盂鼎",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP12 · 全球参观量前列 · 约670万/年"
+      "term": "四羊方尊",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP10 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "后母戊鼎",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP9 · 全球参观量前列 · 约670万/年"
+      "term": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP16 · 全球TOP3 · 约540万/年"
     },
     {
-      "term": "石鼓 (先秦)",
-      "reason": "故宫博物院馆藏 · 综合热度TOP7 · 游客量世界第一 · 约1700万/年"
+      "term": "額爾金大理石",
+      "reason": "大英博物馆馆藏 · 综合热度TOP19 · 全球TOP5 · 约580万/年"
     },
     {
-      "term": "千里江山图",
-      "reason": "故宫博物院馆藏 · 综合热度TOP1 · 游客量世界第一 · 约1700万/年"
+      "term": "The Gulf Stream",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP15 · 全球TOP3 · 约540万/年"
     },
     {
-      "term": "步辇图",
-      "reason": "故宫博物院馆藏 · 综合热度TOP4 · 游客量世界第一 · 约1700万/年"
+      "term": "普西莎与爱神",
+      "reason": "卢浮宫馆藏 · 综合热度TOP27 · 全球参观量第一 · 约890万/年"
     }
   ],
   "hotMuseumIds": [

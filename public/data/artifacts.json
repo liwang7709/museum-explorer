@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T00:09:26.667Z",
+  "generatedAt": "2026-10-23T00:07:26.829Z",
   "total": 406,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
@@ -525,31 +525,6 @@
     },
     {
       "museumId": "louvre",
-      "qid": "Q212616",
-      "title": "梅杜薩之筏",
-      "titleEn": "The Raft of the Medusa",
-      "description": "法国的浪漫主义油画作品，收藏在卢浮宫",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/JEAN%20LOUIS%20TH%C3%89ODORE%20G%C3%89RICAULT%20-%20La%20Balsa%20de%20la%20Medusa%20(Museo%20del%20Louvre%2C%201818-19).jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/JEAN%20LOUIS%20TH%C3%89ODORE%20G%C3%89RICAULT%20-%20La%20Balsa%20de%20la%20Medusa%20(Museo%20del%20Louvre%2C%201818-19).jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E6%A2%85%E6%9D%9C%E8%96%A9%E4%B9%8B%E7%AD%8F",
-      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=The%20Raft%20of%20the%20Medusa",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "浪漫主义",
-        "油彩",
-        "画布",
-        "泰奥多尔·杰利柯"
-      ],
-      "wikiExtract": "《美杜莎之筏》 是法國浪漫主義畫家西奥多·杰利柯（1791─1824）在1818年─1819年間畫的油畫。这幅畫是在他27歲時畫的，之後成为法國浪漫主義的標誌。这幅畫的尺寸是491厘米×716厘米。这幅畫描绘了法國海軍的巡防艦美杜莎号沉没之后生還者的求生場面。这場海難發生于1816年7月2日毛里塔尼亞附近的海域，海難當時至少有147人生還，起先是在一隻自製的木筏上面漂流，但是13日后被救起时仅有15人倖存，期間他们缺少食物和饮水，甚至有人吃尸体来维持生命。導致这場海難的原因很大程度上是由于美杜莎号的船長失職無能，而这位船長是法國復辟王朝任命的，因此这一事件後來變成國際醜聞。不過實際上，任命貴族做船長是法國海軍內部的慣例，當時的路易十八無權任命船長，也並無直接參與入这一事件。\n",
-      "wikiLang": "zh",
-      "id": "louvre-Q212616",
-      "popularity": 1,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "louvre",
       "qid": "Q216402",
       "title": "薩莫特拉斯的勝利女神",
       "titleEn": "Winged Victory of Samothrace",
@@ -569,6 +544,31 @@
       "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
       "wikiLang": "zh",
       "id": "louvre-Q216402",
+      "popularity": 1,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "louvre",
+      "qid": "Q212616",
+      "title": "梅杜薩之筏",
+      "titleEn": "The Raft of the Medusa",
+      "description": "法国的浪漫主义油画作品，收藏在卢浮宫",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/JEAN%20LOUIS%20TH%C3%89ODORE%20G%C3%89RICAULT%20-%20La%20Balsa%20de%20la%20Medusa%20(Museo%20del%20Louvre%2C%201818-19).jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/JEAN%20LOUIS%20TH%C3%89ODORE%20G%C3%89RICAULT%20-%20La%20Balsa%20de%20la%20Medusa%20(Museo%20del%20Louvre%2C%201818-19).jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E6%A2%85%E6%9D%9C%E8%96%A9%E4%B9%8B%E7%AD%8F",
+      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=The%20Raft%20of%20the%20Medusa",
+      "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "浪漫主义",
+        "油彩",
+        "画布",
+        "泰奥多尔·杰利柯"
+      ],
+      "wikiExtract": "《美杜莎之筏》 是法國浪漫主義畫家西奥多·杰利柯（1791─1824）在1818年─1819年間畫的油畫。这幅畫是在他27歲時畫的，之後成为法國浪漫主義的標誌。这幅畫的尺寸是491厘米×716厘米。这幅畫描绘了法國海軍的巡防艦美杜莎号沉没之后生還者的求生場面。这場海難發生于1816年7月2日毛里塔尼亞附近的海域，海難當時至少有147人生還，起先是在一隻自製的木筏上面漂流，但是13日后被救起时仅有15人倖存，期間他们缺少食物和饮水，甚至有人吃尸体来维持生命。導致这場海難的原因很大程度上是由于美杜莎号的船長失職無能，而这位船長是法國復辟王朝任命的，因此这一事件後來變成國際醜聞。不過實際上，任命貴族做船長是法國海軍內部的慣例，當時的路易十八無權任命船長，也並無直接參與入这一事件。\n",
+      "wikiLang": "zh",
+      "id": "louvre-Q212616",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -5865,8 +5865,6 @@
       "highlightsTags": [
         "艺术流派"
       ],
-      "wikiExtract": "金剛界曼荼羅，是依據金剛乘（Vajrayāna）密教根本經典《金剛頂經》 而製作或繪畫的壇城（Mandala）。整個曼荼羅由九會組成，所以又叫九會曼陀羅。\n",
-      "wikiLang": "zh",
       "id": "tokyo-national-Q123090258",
       "popularity": 0.7949999999999999,
       "imageSource": "commons",
@@ -7002,25 +7000,6 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
-      "museumId": "norway-national",
-      "qid": "Q7772973",
-      "title": "The Voice",
-      "titleEn": "The Voice",
-      "description": "Russell Watson album",
-      "imageUrl": null,
-      "imageThumb": null,
-      "wikiUrl": "https://en.wikipedia.org/wiki/The_Voice_(Russell_Watson_album)",
-      "sourceUrl": "https://www.nasjonalmuseet.no",
-      "tags": [],
-      "highlightsTags": [
-        "音樂專輯"
-      ],
-      "id": "norway-national-Q7772973",
-      "popularity": 0.741,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
       "museumId": "korea-national",
       "qid": "Q16095663",
       "title": "청자 참외모양 병",
@@ -7185,6 +7164,25 @@
         "亨利·马蒂斯"
       ],
       "id": "reina-sofia-Q20816630",
+      "popularity": 0.734,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "tokyo-national",
+      "qid": "Q132408755",
+      "title": "普贤菩萨像",
+      "titleEn": "",
+      "description": "item from the collection of National Museum of China",
+      "imageUrl": null,
+      "imageThumb": null,
+      "wikiUrl": null,
+      "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Fugen%20Bosatsu%20statue",
+      "tags": [],
+      "highlightsTags": [
+        "雕塑作品"
+      ],
+      "id": "tokyo-national-Q132408755",
       "popularity": 0.734,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -8133,27 +8131,6 @@
     },
     {
       "museumId": "korea-national",
-      "qid": "Q65248711",
-      "title": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
-      "titleEn": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
-      "description": "",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%86%8C%EC%9E%A5%20%EB%AA%A9%EC%A1%B0%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81%2001.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%86%8C%EC%9E%A5%20%EB%AA%A9%EC%A1%B0%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81%2001.jpg?width=420",
-      "wikiUrl": null,
-      "sourceUrl": "https://www.museum.go.kr",
-      "tags": [],
-      "highlightsTags": [
-        "文化遺產",
-        "塑像",
-        "木材"
-      ],
-      "id": "korea-national-Q65248711",
-      "popularity": 0.701,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "korea-national",
       "qid": "Q12615728",
       "title": "仁王霁色图",
       "titleEn": "Inwang jesaekdo",
@@ -8172,6 +8149,27 @@
       "wikiExtract": "Inwangjesaekdo is a landscape painting by the famous Jeong Seon. It was painted during the reign of Joseon Dynasty King Yeongjo in 1751, at his birthplace in Cheongun-dong at Jongno District, modern-day Seoul. It was designated by the South Korean government as the 216th National Treasure of Korea on August 6, 1984. The painting is currently held and managed by the Ho-Am Art Museum in Yongin, Gyeonggi Province. Previ",
       "wikiLang": "en",
       "id": "korea-national-Q12615728",
+      "popularity": 0.701,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "korea-national",
+      "qid": "Q65248711",
+      "title": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
+      "titleEn": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
+      "description": "",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%86%8C%EC%9E%A5%20%EB%AA%A9%EC%A1%B0%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81%2001.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%86%8C%EC%9E%A5%20%EB%AA%A9%EC%A1%B0%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81%2001.jpg?width=420",
+      "wikiUrl": null,
+      "sourceUrl": "https://www.museum.go.kr",
+      "tags": [],
+      "highlightsTags": [
+        "文化遺產",
+        "塑像",
+        "木材"
+      ],
+      "id": "korea-national-Q65248711",
       "popularity": 0.701,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
