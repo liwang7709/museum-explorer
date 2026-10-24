@@ -1,23 +1,23 @@
 {
   "date": "2026-10-23",
-  "generatedAt": "2026-10-23T00:07:26.829Z",
+  "generatedAt": "2026-10-23T23:59:26.846Z",
   "picks": [
-    "uffizi-Q164294",
-    "vatican-Q619135",
-    "tokyo-national-Q11400027",
-    "korea-national-Q16095663",
-    "nmc-Q97503214",
-    "khm-Q3937443",
-    "prado-Q152867",
-    "npm-taipei-Q11135165",
-    "vatican-Q64351452",
+    "tokyo-national-Q48389324",
     "palace-beijing-Q4997694",
-    "national-gallery-london-Q2293953",
-    "smithsonian-Q640037",
-    "rijksmuseum-Q766782",
-    "korea-national-Q29383347",
-    "prado-Q27781257",
-    "aic-Q3228112"
+    "tokyo-national-Q11531476",
+    "vam-Q1766064",
+    "hermitage-Q742801",
+    "khm-Q16589358",
+    "hermitage-Q28060765",
+    "hermitage-Q1679443",
+    "met-Q2664039",
+    "van-gogh-Q1432536",
+    "british-museum-Q454667",
+    "khm-Q3976754",
+    "khm-Q49187469",
+    "khm-Q704757",
+    "korea-national-Q16092435",
+    "musee-rodin-Q2003287"
   ],
   "hotTerms": [
     {
@@ -37,7 +37,7 @@
       "reason": "大都会艺术博物馆馆藏 · 综合热度TOP15 · 全球TOP3 · 约540万/年"
     },
     {
-      "term": "普西莎与爱神",
+      "term": "The Lacemaker",
       "reason": "卢浮宫馆藏 · 综合热度TOP27 · 全球参观量第一 · 约890万/年"
     }
   ],
