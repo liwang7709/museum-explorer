@@ -1,44 +1,44 @@
 {
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T23:59:26.846Z",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T23:25:27.813Z",
   "picks": [
-    "tokyo-national-Q48389324",
-    "palace-beijing-Q4997694",
-    "tokyo-national-Q11531476",
-    "vam-Q1766064",
-    "hermitage-Q742801",
-    "khm-Q16589358",
-    "hermitage-Q28060765",
-    "hermitage-Q1679443",
-    "met-Q2664039",
-    "van-gogh-Q1432536",
-    "british-museum-Q454667",
-    "khm-Q3976754",
-    "khm-Q49187469",
-    "khm-Q704757",
-    "korea-national-Q16092435",
-    "musee-rodin-Q2003287"
+    "korea-national-Q12586444",
+    "sanxingdui-Q17029263",
+    "musee-rodin-Q2003287",
+    "prado-Q1150997",
+    "norway-national-Q59190739",
+    "norway-national-Q18891411",
+    "nmc-Q10936980",
+    "hermitage-Q3202069",
+    "rijksmuseum-Q766782",
+    "tokyo-national-Q11400027",
+    "tokyo-national-Q107425",
+    "hermitage-Q27033397",
+    "prado-Q208758",
+    "korea-national-Q16092399",
+    "louvre-Q216402",
+    "npm-taipei-Q11126402"
   ],
   "hotTerms": [
+    {
+      "term": "五牛圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP2 · 游客量世界第一 · 约1700万/年"
+    },
+    {
+      "term": "米洛的维纳斯",
+      "reason": "卢浮宫馆藏 · 综合热度TOP22 · 全球参观量第一 · 约890万/年"
+    },
+    {
+      "term": "普西莎与爱神",
+      "reason": "卢浮宫馆藏 · 综合热度TOP26 · 全球参观量第一 · 约890万/年"
+    },
     {
       "term": "四羊方尊",
       "reason": "中国国家博物馆馆藏 · 综合热度TOP10 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP16 · 全球TOP3 · 约540万/年"
-    },
-    {
-      "term": "額爾金大理石",
-      "reason": "大英博物馆馆藏 · 综合热度TOP19 · 全球TOP5 · 约580万/年"
-    },
-    {
-      "term": "The Gulf Stream",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP15 · 全球TOP3 · 约540万/年"
-    },
-    {
-      "term": "The Lacemaker",
-      "reason": "卢浮宫馆藏 · 综合热度TOP27 · 全球参观量第一 · 约890万/年"
+      "term": "苏格拉底之死",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP14 · 全球TOP3 · 约540万/年"
     }
   ],
   "hotMuseumIds": [
