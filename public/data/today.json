@@ -1,44 +1,44 @@
 {
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T23:25:27.813Z",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T00:34:26.045Z",
   "picks": [
-    "korea-national-Q12586444",
-    "sanxingdui-Q17029263",
-    "musee-rodin-Q2003287",
-    "prado-Q1150997",
-    "norway-national-Q59190739",
-    "norway-national-Q18891411",
-    "nmc-Q10936980",
-    "hermitage-Q3202069",
-    "rijksmuseum-Q766782",
-    "tokyo-national-Q11400027",
-    "tokyo-national-Q107425",
-    "hermitage-Q27033397",
-    "prado-Q208758",
-    "korea-national-Q16092399",
-    "louvre-Q216402",
-    "npm-taipei-Q11126402"
+    "khm-Q95562",
+    "tokyo-national-Q107045004",
+    "npm-taipei-Q15888364",
+    "khm-Q58701",
+    "louvre-Q93304",
+    "hermitage-Q742801",
+    "national-gallery-london-Q4009972",
+    "norway-national-Q106769584",
+    "korea-national-Q717407",
+    "uffizi-Q1569622",
+    "khm-Q17323989",
+    "mauritshuis-Q523974",
+    "khm-Q26508351",
+    "korea-national-Q12586410",
+    "van-gogh-Q26220165",
+    "vatican-Q55428253"
   ],
   "hotTerms": [
     {
-      "term": "五牛圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP2 · 游客量世界第一 · 约1700万/年"
+      "term": "彩绘鹳鱼石斧图陶缸",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP13 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "米洛的维纳斯",
-      "reason": "卢浮宫馆藏 · 综合热度TOP22 · 全球参观量第一 · 约890万/年"
-    },
-    {
-      "term": "普西莎与爱神",
+      "term": "大宫女",
       "reason": "卢浮宫馆藏 · 综合热度TOP26 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "四羊方尊",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP10 · 全球参观量前列 · 约670万/年"
+      "term": "步辇图",
+      "reason": "故宫博物院馆藏 · 综合热度TOP4 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "苏格拉底之死",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP14 · 全球TOP3 · 约540万/年"
+      "term": "捨杜",
+      "reason": "卢浮宫馆藏 · 综合热度TOP29 · 全球参观量第一 · 约890万/年"
+    },
+    {
+      "term": "拿破崙加冕",
+      "reason": "卢浮宫馆藏 · 综合热度TOP25 · 全球参观量第一 · 约890万/年"
     }
   ],
   "hotMuseumIds": [
