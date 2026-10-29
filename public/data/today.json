@@ -1,44 +1,44 @@
 {
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T00:40:24.455Z",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T01:06:44.320Z",
   "picks": [
-    "uffizi-Q28810336",
-    "prado-Q27781257",
-    "vatican-Q2610709",
-    "khm-Q3697662",
-    "tokyo-national-Q3443335",
-    "uffizi-Q2016193",
-    "npm-taipei-Q106770894",
-    "prado-Q2537138",
-    "khm-Q697208",
-    "npm-taipei-Q59168132",
-    "norway-national-Q6545811",
-    "met-Q776175",
+    "prado-Q17277950",
     "uffizi-Q2889924",
-    "prado-Q2268524",
-    "musee-rodin-Q2418237",
-    "met-Q2404992"
+    "vatican-Q11719033",
+    "palace-beijing-Q714802",
+    "uffizi-Q80513",
+    "rijksmuseum-Q1170480",
+    "louvre-Q3080509",
+    "tokyo-national-Q11244181",
+    "rijksmuseum-Q192110",
+    "nga-Q20127708",
+    "uffizi-Q2046100",
+    "tokyo-national-Q48389324",
+    "khm-Q1245512",
+    "national-gallery-london-Q2293953",
+    "norway-national-Q46721",
+    "norway-national-Q3955717"
   ],
   "hotTerms": [
     {
-      "term": "普西莎与爱神",
-      "reason": "卢浮宫馆藏 · 综合热度TOP26 · 全球参观量第一 · 约890万/年"
+      "term": "清明上河圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP3 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "蒙娜丽莎",
-      "reason": "卢浮宫馆藏 · 综合热度TOP21 · 全球参观量第一 · 约890万/年"
+      "term": "洛神賦圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP5 · 游客量世界第一 · 约1700万/年"
     },
     {
       "term": "大盂鼎",
       "reason": "中国国家博物馆馆藏 · 综合热度TOP12 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "金瓯永固杯",
-      "reason": "故宫博物院馆藏 · 综合热度TOP6 · 游客量世界第一 · 约1700万/年"
+      "term": "步辇图",
+      "reason": "故宫博物院馆藏 · 综合热度TOP4 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "The Gulf Stream",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP15 · 全球TOP3 · 约540万/年"
+      "term": "金瓯永固杯",
+      "reason": "故宫博物院馆藏 · 综合热度TOP6 · 游客量世界第一 · 约1700万/年"
     }
   ],
   "hotMuseumIds": [
