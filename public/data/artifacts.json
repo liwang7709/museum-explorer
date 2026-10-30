@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T01:06:44.320Z",
-  "total": 406,
+  "generatedAt": "2026-10-30T01:09:25.389Z",
+  "total": 404,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
     {
@@ -1004,6 +1004,14 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%8E%B1%E7%89%B9%E9%A3%9E%E8%A1%8C%E5%99%A8",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Wright%20Flyer",
       "tags": [],
+      "highlightsTags": [
+        "飛機",
+        "Flyer",
+        "平纹细布",
+        "spruce",
+        "钢",
+        "鑄鐵"
+      ],
       "id": "smithsonian-Q688605",
       "popularity": 0.994,
       "imageSource": "commons",
@@ -2066,6 +2074,12 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%AD%94%E9%9B%80%E5%8E%85",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Peacock%20Room",
       "tags": [],
+      "highlightsTags": [
+        "period room",
+        "裝置藝術作品",
+        "詹姆斯·惠斯勒",
+        "托馬斯·傑基爾"
+      ],
       "wikiExtract": "《蓝色与金色的和谐：孔雀厅》 是詹姆斯·惠斯勒於1876-1877年所创作的两幅帆布油画，采用油画颜料和镀金叶饰。原为英国船王、惠斯勒的主要赞助人弗雷德里克·雷兰 的伦敦住宅设计的餐厅装饰。房间尺寸：高13英尺11又5⁄8英寸，宽33英尺2英寸，深19英尺9又1⁄2英寸 现藏于華盛頓哥倫比亞特區弗瑞爾藝廊。\n",
       "wikiLang": "zh",
       "id": "smithsonian-Q16738523",
@@ -2156,12 +2170,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%A7%82%E6%99%AF%E6%AE%BF%E7%9A%84%E9%98%BF%E6%B3%A2%E7%BD%97",
       "sourceUrl": "https://www.museivaticani.va",
       "tags": [],
-      "highlightsTags": [
-        "塑像",
-        "Greek late classical period",
-        "大理岩",
-        "莱奥卡雷斯"
-      ],
       "id": "vatican-Q619135",
       "popularity": 0.9510000000000001,
       "imageSource": "commons",
@@ -2668,6 +2676,13 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E7%B4%85%E5%AF%B6%E7%9F%B3%E9%9E%8B",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Ruby%20slippers%20(Wizard%20of%20Oz)",
       "tags": [],
+      "highlightsTags": [
+        "电影纪念品收藏",
+        "fictional slipper",
+        "costume component",
+        "虚构的魔法物品",
+        "阿德里安"
+      ],
       "id": "smithsonian-Q843007",
       "popularity": 0.933,
       "imageSource": "commons",
@@ -3067,6 +3082,11 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E9%9F%A9%E7%86%99%E8%BD%BD%E5%A4%9C%E5%AE%B4%E5%9B%BE",
       "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Search?q=The%20Night%20Revels%20of%20Han%20Xizai%20(Taipei)",
       "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "丝绸",
+        "顾闳中"
+      ],
       "wikiExtract": "《韩熙载夜宴图》，據宋《宣和画谱》所載為五代十国南唐画家顾闳中的作品，現存此本摹於南宋，元代汤垕《画鉴》、清代孙承泽《庚子消夏记》、顾复《平生壮观》、《石渠宝笈初编》等书皆著錄。清末流出宫外，1945年，张大千以500兩黃金的鉅款購得，现藏于北京故宫博物院。據記載，南唐的周文矩亦作《韓熙載夜宴圖》，元朝時兩作俱在，現今僅存顧本傳世。另有唐寅摹本，现收藏於重庆中国三峡博物馆。\n",
       "wikiLang": "zh",
       "id": "npm-taipei-Q7194972",
@@ -4899,9 +4919,6 @@
       "wikiUrl": "https://en.wikipedia.org/wiki/Judith_(given_name)",
       "sourceUrl": "https://www.hermitagemuseum.org",
       "tags": [],
-      "highlightsTags": [
-        "女性人名"
-      ],
       "wikiExtract": "Judith is a feminine given name derived from the Hebrew name Yəhūdīt (יְהוּדִית), meaning \"praised\" and also more literally \"Woman of Judea\". It is the feminine form of Judah. Judith appeared in the Hebrew Bible as one of Esau's wives, while the deuterocanonical Book of Judith tells of a different Judith. It is in common usage in English, French, German, many Scandinavian languages, Dutch, and Hebrew. In Ethiopia and",
       "wikiLang": "en",
       "id": "hermitage-Q5954149",
@@ -5667,28 +5684,6 @@
       "wikiExtract": "The Second of May 1808, also known as The Charge of the Mamelukes, is a painting by the Spanish painter Francisco Goya. It is a companion to the painting The Third of May 1808 and is set in the Calle de Alcalá near Puerta del Sol, Madrid, during the Dos de Mayo Uprising. It depicts one of the many people's rebellions against the French occupation of Spain that sparked the Peninsular War.",
       "wikiLang": "en",
       "id": "prado-Q2983399",
-      "popularity": 0.799,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "hermitage",
-      "qid": "Q21481261",
-      "title": "Portrait of an Old Woman",
-      "titleEn": "Portrait of an Old Woman",
-      "description": "painting by Rembrandt",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/'Portrait%20of%20an%20Old%20Woman'%20by%20Rembrandt%2C%201654%2C%20Pushkin%20Museum.JPG?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/'Portrait%20of%20an%20Old%20Woman'%20by%20Rembrandt%2C%201654%2C%20Pushkin%20Museum.JPG?width=420",
-      "wikiUrl": null,
-      "sourceUrl": "https://www.hermitagemuseum.org",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "油彩",
-        "画布",
-        "伦勃朗"
-      ],
-      "id": "hermitage-Q21481261",
       "popularity": 0.799,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -6580,6 +6575,12 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E9%9F%B3%E4%B9%90",
       "sourceUrl": "https://www.hermitagemuseum.org",
       "tags": [],
+      "highlightsTags": [
+        "艺术种类",
+        "專業領域",
+        "研究领域",
+        "學科"
+      ],
       "wikiExtract": "音樂，廣義而言，就是指任何以聲音組成的藝術。英文Music一詞源於古希臘語的μουσική（mousike），意即缪斯（muse）女神的藝術。而中文的音樂二字，東漢許慎《說文解字》解釋為「音，聲也。生於心，有節於外，謂之音。」認為音樂和聲音的區別，在於音樂需要透過人心去想像和創造。\n",
       "wikiLang": "zh",
       "id": "hermitage-Q638",
@@ -7343,6 +7344,28 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "norway-national",
+      "qid": "Q2494850",
+      "title": "The Funeral",
+      "titleEn": "The Funeral",
+      "description": "painting by Édouard Manet",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Funeral%20MET%20DT1931.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Funeral%20MET%20DT1931.jpg?width=420",
+      "wikiUrl": "https://en.wikipedia.org/wiki/The_Funeral_(painting)",
+      "sourceUrl": "https://www.nasjonalmuseet.no",
+      "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "油彩",
+        "画布",
+        "愛德華·馬奈"
+      ],
+      "id": "norway-national-Q2494850",
+      "popularity": 0.729,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "korea-national",
       "qid": "Q29383347",
       "title": "月亮壶",
@@ -7541,27 +7564,6 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
-      "museumId": "tokyo-national",
-      "qid": "Q28803631",
-      "title": "Fugen Bosatsu",
-      "titleEn": "Fugen Bosatsu",
-      "description": "painting by anonymous painter",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fugen%20Bosatsu(Samantabhadra)%20-%20Google%20Art%20Project.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Fugen%20Bosatsu(Samantabhadra)%20-%20Google%20Art%20Project.jpg?width=420",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Fugen_Bosatsu_Riding_on_a_Elephant",
-      "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Fugen%20Bosatsu%20statue",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "丝绸",
-        "Iwaenogu"
-      ],
-      "id": "tokyo-national-Q28803631",
-      "popularity": 0.724,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
       "museumId": "norway-national",
       "qid": "Q2267579",
       "title": "The Sick Child",
@@ -7665,36 +7667,25 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
-      "museumId": "tokyo-national",
-      "qid": "Q107425",
-      "title": "景观",
-      "titleEn": "landscape",
-      "description": "一塊土地的可見特徵",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20Arnisee-region.JPG?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20Arnisee-region.JPG?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E6%99%AF%E8%A7%82",
-      "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Landscape%20(Sessh%C5%AB)",
-      "tags": [],
-      "wikiExtract": "景觀 一詞主要有兩種意義。一方面，它描述了一個地區作為一個美學整體的受文化影響的主觀感知（哲學-文化之景觀概念）；另一方面，它被用來描述一個在可被確認的科學特徵方面獨特的地區，尤其是在地理學領域。\n",
-      "wikiLang": "zh",
-      "id": "tokyo-national-Q107425",
-      "popularity": 0.72,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
       "museumId": "khm",
-      "qid": "Q2",
-      "title": "地球",
-      "titleEn": "Earth",
-      "description": "太陽系中距離太陽第三近的行星",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83",
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Earth%20(Arcimboldo)",
+      "qid": "Q16930210",
+      "title": "蘇撒拿傳",
+      "titleEn": "Susanna and the Elders",
+      "description": "episode in the Additions to Daniel",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Papyrus%20967.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Papyrus%20967.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%98%87%E6%92%92%E6%8B%BF%E5%82%B3",
+      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Susanna%20and%20the%20Elders%20(Tintoretto)",
       "tags": [],
-      "id": "khm-Q2",
-      "popularity": 0.718,
+      "highlightsTags": [
+        "chapter of the Bible",
+        "藝術主題",
+        "聖經中記載的故事"
+      ],
+      "wikiExtract": "《蘇撒拿傳》 又譯作《蘇撒納傳》，是天主教和東正教接受的次經，而新教和猶太教則不接受此書卷作正經。此書無法肯定由希伯來文或希臘文寫成。作者據推測為主前第二或第一世紀人物；除此以外其生平一概不得而知。在希臘文舊約《七十士譯本》 中，此書列於《但以理書》之前，在拉丁譯本卻列於《但以理書》之後。 \n",
+      "wikiLang": "zh",
+      "id": "khm-Q16930210",
+      "popularity": 0.72,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -8151,6 +8142,25 @@
       ],
       "id": "korea-national-Q65248711",
       "popularity": 0.701,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "norway-national",
+      "qid": "Q509003",
+      "title": "橋",
+      "titleEn": "The Bridge",
+      "description": "1959 film directed by Bernhard Wicki",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Die%20Bruecke%201959.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Die%20Bruecke%201959.jpg?width=420",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Die_Br%C3%BCcke_(film)",
+      "sourceUrl": "https://www.nasjonalmuseet.no",
+      "tags": [],
+      "highlightsTags": [
+        "電影"
+      ],
+      "id": "norway-national-Q509003",
+      "popularity": 0.6980000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -8885,29 +8895,6 @@
       "wikiExtract": "The Fight Between Carnival and Lent is an oil-on-panel painting executed by the Dutch and Flemish Renaissance painter Pieter Bruegel the Elder in 1559. It is a panorama of contemporary life in the Southern Netherlands. While the painting contains nearly 200 characters, it is unified under the theme of the transition from Shrove Tuesday to Lent, the period forty days before Easter.",
       "wikiLang": "en",
       "id": "khm-Q689236",
-      "popularity": 0.656,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "khm",
-      "qid": "Q2629715",
-      "title": "男子肖像",
-      "titleEn": "Portrait of a Man",
-      "description": "painting by Raphael",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=420",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_(Raphael)",
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Portrait%20of%20a%20Man%20(D%C3%BCrer)",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "文藝復興全盛期",
-        "油彩",
-        "画板",
-        "拉斐尔·圣齐奥"
-      ],
-      "id": "khm-Q2629715",
       "popularity": 0.656,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
