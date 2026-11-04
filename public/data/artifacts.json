@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T00:54:26.694Z",
-  "total": 406,
+  "generatedAt": "2026-11-04T01:32:26.011Z",
+  "total": 405,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
     {
@@ -714,6 +714,31 @@
     },
     {
       "museumId": "louvre",
+      "qid": "Q216402",
+      "title": "薩莫特拉斯的勝利女神",
+      "titleEn": "Winged Victory of Samothrace",
+      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
+      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
+      "tags": [],
+      "highlightsTags": [
+        "塑像",
+        "遺物",
+        "Hellenistic sculpture",
+        "帕里安大理石",
+        "Pythokritos"
+      ],
+      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
+      "wikiLang": "zh",
+      "id": "louvre-Q216402",
+      "popularity": 1,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "louvre",
       "qid": "Q3080509",
       "title": "瓦平松的浴女",
       "titleEn": "The Valpinçon Bather",
@@ -780,31 +805,6 @@
       "wikiExtract": "塔尼斯的大狮身人面像是一座古埃及的花岗岩雕塑，这个雕像采用大理石雕刻，精美美观，很庄严肃穆。其历史可以追溯到公元前26世纪。它是在埃及第21王朝和第23王朝首都塔尼斯的阿蒙-拉神庙遗址中发现的。相比阿蒙-拉神庙，这座狮身人面像的完成时间要早得多，但具体完成时间仍存在着争论，主要有两种观点，一种认为雕像完成于于第四王朝，另一种则认为完成于第十二王朝。其原始铭文上仅存有关法老阿蒙涅姆赫特二世（第十二王朝）、麦伦普塔（第十九王朝）和舍顺克一世（第二十二王朝）的部分。\n",
       "wikiLang": "zh",
       "id": "louvre-Q6028852",
-      "popularity": 1,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "louvre",
-      "qid": "Q216402",
-      "title": "薩莫特拉斯的勝利女神",
-      "titleEn": "Winged Victory of Samothrace",
-      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
-      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
-      "tags": [],
-      "highlightsTags": [
-        "塑像",
-        "遺物",
-        "Hellenistic sculpture",
-        "帕里安大理石",
-        "Pythokritos"
-      ],
-      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
-      "wikiLang": "zh",
-      "id": "louvre-Q216402",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -5130,6 +5130,10 @@
       "wikiUrl": null,
       "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Sh%C5%8Dtoku%20Taishi%20eden",
       "tags": [],
+      "highlightsTags": [
+        "绘画类型",
+        "art genre by theme"
+      ],
       "id": "tokyo-national-Q122747179",
       "popularity": 0.819,
       "imageSource": "commons",
@@ -5673,28 +5677,6 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
-      "museumId": "hermitage",
-      "qid": "Q21481261",
-      "title": "Portrait of an Old Woman",
-      "titleEn": "Portrait of an Old Woman",
-      "description": "painting by Rembrandt",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/'Portrait%20of%20an%20Old%20Woman'%20by%20Rembrandt%2C%201654%2C%20Pushkin%20Museum.JPG?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/'Portrait%20of%20an%20Old%20Woman'%20by%20Rembrandt%2C%201654%2C%20Pushkin%20Museum.JPG?width=420",
-      "wikiUrl": null,
-      "sourceUrl": "https://www.hermitagemuseum.org",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "油彩",
-        "画布",
-        "伦勃朗"
-      ],
-      "id": "hermitage-Q21481261",
-      "popularity": 0.799,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
       "museumId": "tokyo-national",
       "qid": "Q11244181",
       "title": "Kudara Kannon",
@@ -5848,27 +5830,6 @@
       "wikiLang": "zh",
       "id": "tokyo-national-Q243248",
       "popularity": 0.7959999999999999,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "tokyo-national",
-      "qid": "Q123090258",
-      "title": "金剛界曼荼羅",
-      "titleEn": "Diamond Realm Mandala",
-      "description": "佛教密宗曼荼羅之一",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kongokai.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Kongokai.jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E9%87%91%E5%89%9B%E7%95%8C%E6%9B%BC%E8%8D%BC%E7%BE%85",
-      "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Mandala%20of%20the%20Diamond%20Realm",
-      "tags": [],
-      "highlightsTags": [
-        "艺术流派"
-      ],
-      "wikiExtract": "金剛界曼荼羅，是依據金剛乘（Vajrayāna）密教根本經典《金剛頂經》 而製作或繪畫的壇城（Mandala）。整個曼荼羅由九會組成，所以又叫九會曼陀羅。\n",
-      "wikiLang": "zh",
-      "id": "tokyo-national-Q123090258",
-      "popularity": 0.7949999999999999,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -7004,25 +6965,6 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
-      "museumId": "norway-national",
-      "qid": "Q7772973",
-      "title": "The Voice",
-      "titleEn": "The Voice",
-      "description": "Russell Watson album",
-      "imageUrl": null,
-      "imageThumb": null,
-      "wikiUrl": "https://en.wikipedia.org/wiki/The_Voice_(Russell_Watson_album)",
-      "sourceUrl": "https://www.nasjonalmuseet.no",
-      "tags": [],
-      "highlightsTags": [
-        "音樂專輯"
-      ],
-      "id": "norway-national-Q7772973",
-      "popularity": 0.741,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
       "museumId": "korea-national",
       "qid": "Q16095663",
       "title": "청자 참외모양 병",
@@ -7362,6 +7304,8 @@
         "画布",
         "愛德華·馬奈"
       ],
+      "wikiExtract": "The Funeral is an 1867–1870 oil on canvas painting by Édouard Manet, now in the Metropolitan Museum of Art in New York. Incomplete, its style is very close to that of Effect of Snow on Petit-Montrouge and The Exposition Universelle of 1867. It is also known as Burial at the Glacière, the title given to it in Denis Rouart and Daniel Wildenstein's posthumous inventory of Manet's works.",
+      "wikiLang": "en",
       "id": "norway-national-Q2494850",
       "popularity": 0.729,
       "imageSource": "commons",
@@ -7562,6 +7506,27 @@
       "wikiLang": "zh",
       "id": "khm-Q690583",
       "popularity": 0.725,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "tokyo-national",
+      "qid": "Q28803631",
+      "title": "Fugen Bosatsu",
+      "titleEn": "Fugen Bosatsu",
+      "description": "painting by anonymous painter",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fugen%20Bosatsu(Samantabhadra)%20-%20Google%20Art%20Project.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Fugen%20Bosatsu(Samantabhadra)%20-%20Google%20Art%20Project.jpg?width=420",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Fugen_Bosatsu_Riding_on_a_Elephant",
+      "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Fugen%20Bosatsu%20statue",
+      "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "丝绸",
+        "Iwaenogu"
+      ],
+      "id": "tokyo-national-Q28803631",
+      "popularity": 0.724,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -7847,6 +7812,9 @@
       "wikiUrl": null,
       "sourceUrl": "https://www.nasjonalmuseet.no",
       "tags": [],
+      "highlightsTags": [
+        "电视节目分集"
+      ],
       "id": "norway-national-Q59190739",
       "popularity": 0.714,
       "imageSource": "commons",
@@ -8135,6 +8103,30 @@
     },
     {
       "museumId": "korea-national",
+      "qid": "Q12615728",
+      "title": "仁王霁色图",
+      "titleEn": "Inwang jesaekdo",
+      "description": "painting by Jeong Seon",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Inwangjesaekdo.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Inwangjesaekdo.jpg?width=420",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Inwang_jesaekdo",
+      "sourceUrl": "https://www.museum.go.kr",
+      "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "文化遺產",
+        "國寶",
+        "鄭敾"
+      ],
+      "wikiExtract": "Inwangjesaekdo is a landscape painting by the famous Jeong Seon. It was painted during the reign of Joseon Dynasty King Yeongjo in 1751, at his birthplace in Cheongun-dong at Jongno District, modern-day Seoul. It was designated by the South Korean government as the 216th National Treasure of Korea on August 6, 1984. The painting is currently held and managed by the Ho-Am Art Museum in Yongin, Gyeonggi Province. Previ",
+      "wikiLang": "en",
+      "id": "korea-national-Q12615728",
+      "popularity": 0.701,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "korea-national",
       "qid": "Q65248711",
       "title": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
       "titleEn": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
@@ -8155,26 +8147,21 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
-      "museumId": "korea-national",
-      "qid": "Q12615728",
-      "title": "仁王霁色图",
-      "titleEn": "Inwang jesaekdo",
-      "description": "painting by Jeong Seon",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Inwangjesaekdo.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Inwangjesaekdo.jpg?width=420",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Inwang_jesaekdo",
-      "sourceUrl": "https://www.museum.go.kr",
+      "museumId": "norway-national",
+      "qid": "Q509003",
+      "title": "橋",
+      "titleEn": "The Bridge",
+      "description": "1959 film directed by Bernhard Wicki",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Die%20Bruecke%201959.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Die%20Bruecke%201959.jpg?width=420",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Die_Br%C3%BCcke_(film)",
+      "sourceUrl": "https://www.nasjonalmuseet.no",
       "tags": [],
       "highlightsTags": [
-        "畫作",
-        "文化遺產",
-        "國寶",
-        "鄭敾"
+        "電影"
       ],
-      "wikiExtract": "Inwangjesaekdo is a landscape painting by the famous Jeong Seon. It was painted during the reign of Joseon Dynasty King Yeongjo in 1751, at his birthplace in Cheongun-dong at Jongno District, modern-day Seoul. It was designated by the South Korean government as the 216th National Treasure of Korea on August 6, 1984. The painting is currently held and managed by the Ho-Am Art Museum in Yongin, Gyeonggi Province. Previ",
-      "wikiLang": "en",
-      "id": "korea-national-Q12615728",
-      "popularity": 0.701,
+      "id": "norway-national-Q509003",
+      "popularity": 0.6980000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },

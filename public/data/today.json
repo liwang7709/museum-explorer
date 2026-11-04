@@ -1,44 +1,44 @@
 {
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T00:54:26.694Z",
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T01:32:26.011Z",
   "picks": [
-    "norway-national-Q59190739",
-    "vatican-Q249449",
-    "louvre-Q93304",
-    "khm-Q16930210",
-    "met-Q2873092",
+    "vatican-Q21764177",
+    "british-museum-Q27920165",
+    "prado-Q1195238",
+    "vatican-Q3968659",
+    "van-gogh-Q19835866",
     "tokyo-national-Q53752209",
-    "rijksmuseum-Q98923690",
-    "khm-Q533619",
+    "vatican-Q2551806",
+    "norway-national-Q698487",
+    "tokyo-national-Q28154824",
+    "korea-national-Q29383347",
+    "hermitage-Q5954149",
+    "louvre-Q216402",
+    "npm-taipei-Q20786155",
     "national-gallery-london-Q4009972",
-    "smithsonian-Q28796713",
-    "rijksmuseum-Q650635",
-    "khm-Q690583",
-    "aic-Q3228112",
-    "prado-Q2537138",
-    "vatican-Q186953",
-    "nmc-Q15916899"
+    "rijksmuseum-Q586035",
+    "national-gallery-london-Q257580"
   ],
   "hotTerms": [
     {
-      "term": "蒙娜丽莎",
-      "reason": "卢浮宫馆藏 · 综合热度TOP21 · 全球参观量第一 · 约890万/年"
+      "term": "大宫女",
+      "reason": "卢浮宫馆藏 · 综合热度TOP25 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "五牛圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP2 · 游客量世界第一 · 约1700万/年"
+      "term": "The Lacemaker",
+      "reason": "卢浮宫馆藏 · 综合热度TOP27 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "金瓯永固杯",
-      "reason": "故宫博物院馆藏 · 综合热度TOP6 · 游客量世界第一 · 约1700万/年"
+      "term": "失落的朋友",
+      "reason": "大英博物馆馆藏 · 综合热度TOP20 · 全球TOP5 · 约580万/年"
     },
     {
-      "term": "后母戊鼎",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP9 · 全球参观量前列 · 约670万/年"
+      "term": "洛神賦圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP5 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "迦拿的婚礼",
-      "reason": "卢浮宫馆藏 · 综合热度TOP29 · 全球参观量第一 · 约890万/年"
+      "term": "苏格拉底之死",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP14 · 全球TOP3 · 约540万/年"
     }
   ],
   "hotMuseumIds": [
