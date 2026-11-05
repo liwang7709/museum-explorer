@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T01:32:26.011Z",
+  "generatedAt": "2026-11-05T01:35:22.489Z",
   "total": 405,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
@@ -1004,6 +1004,14 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%8E%B1%E7%89%B9%E9%A3%9E%E8%A1%8C%E5%99%A8",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Wright%20Flyer",
       "tags": [],
+      "highlightsTags": [
+        "飛機",
+        "Flyer",
+        "平纹细布",
+        "spruce",
+        "钢",
+        "鑄鐵"
+      ],
       "id": "smithsonian-Q688605",
       "popularity": 0.994,
       "imageSource": "commons",
@@ -2066,6 +2074,12 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%AD%94%E9%9B%80%E5%8E%85",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Peacock%20Room",
       "tags": [],
+      "highlightsTags": [
+        "period room",
+        "裝置藝術作品",
+        "詹姆斯·惠斯勒",
+        "托馬斯·傑基爾"
+      ],
       "wikiExtract": "《蓝色与金色的和谐：孔雀厅》 是詹姆斯·惠斯勒於1876-1877年所创作的两幅帆布油画，采用油画颜料和镀金叶饰。原为英国船王、惠斯勒的主要赞助人弗雷德里克·雷兰 的伦敦住宅设计的餐厅装饰。房间尺寸：高13英尺11又5⁄8英寸，宽33英尺2英寸，深19英尺9又1⁄2英寸 现藏于華盛頓哥倫比亞特區弗瑞爾藝廊。\n",
       "wikiLang": "zh",
       "id": "smithsonian-Q16738523",
@@ -2156,12 +2170,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%A7%82%E6%99%AF%E6%AE%BF%E7%9A%84%E9%98%BF%E6%B3%A2%E7%BD%97",
       "sourceUrl": "https://www.museivaticani.va",
       "tags": [],
-      "highlightsTags": [
-        "塑像",
-        "Greek late classical period",
-        "大理岩",
-        "莱奥卡雷斯"
-      ],
       "id": "vatican-Q619135",
       "popularity": 0.9510000000000001,
       "imageSource": "commons",
@@ -2668,6 +2676,13 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E7%B4%85%E5%AF%B6%E7%9F%B3%E9%9E%8B",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Ruby%20slippers%20(Wizard%20of%20Oz)",
       "tags": [],
+      "highlightsTags": [
+        "电影纪念品收藏",
+        "fictional slipper",
+        "costume component",
+        "虚构的魔法物品",
+        "阿德里安"
+      ],
       "id": "smithsonian-Q843007",
       "popularity": 0.933,
       "imageSource": "commons",
@@ -4904,9 +4919,6 @@
       "wikiUrl": "https://en.wikipedia.org/wiki/Judith_(given_name)",
       "sourceUrl": "https://www.hermitagemuseum.org",
       "tags": [],
-      "highlightsTags": [
-        "女性人名"
-      ],
       "wikiExtract": "Judith is a feminine given name derived from the Hebrew name Yəhūdīt (יְהוּדִית), meaning \"praised\" and also more literally \"Woman of Judea\". It is the feminine form of Judah. Judith appeared in the Hebrew Bible as one of Esau's wives, while the deuterocanonical Book of Judith tells of a different Judith. It is in common usage in English, French, German, many Scandinavian languages, Dutch, and Hebrew. In Ethiopia and",
       "wikiLang": "en",
       "id": "hermitage-Q5954149",
@@ -5130,10 +5142,6 @@
       "wikiUrl": null,
       "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Sh%C5%8Dtoku%20Taishi%20eden",
       "tags": [],
-      "highlightsTags": [
-        "绘画类型",
-        "art genre by theme"
-      ],
       "id": "tokyo-national-Q122747179",
       "popularity": 0.819,
       "imageSource": "commons",
@@ -5677,6 +5685,28 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "hermitage",
+      "qid": "Q21481261",
+      "title": "Portrait of an Old Woman",
+      "titleEn": "Portrait of an Old Woman",
+      "description": "painting by Rembrandt",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/'Portrait%20of%20an%20Old%20Woman'%20by%20Rembrandt%2C%201654%2C%20Pushkin%20Museum.JPG?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/'Portrait%20of%20an%20Old%20Woman'%20by%20Rembrandt%2C%201654%2C%20Pushkin%20Museum.JPG?width=420",
+      "wikiUrl": null,
+      "sourceUrl": "https://www.hermitagemuseum.org",
+      "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "油彩",
+        "画布",
+        "伦勃朗"
+      ],
+      "id": "hermitage-Q21481261",
+      "popularity": 0.799,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "tokyo-national",
       "qid": "Q11244181",
       "title": "Kudara Kannon",
@@ -5830,6 +5860,27 @@
       "wikiLang": "zh",
       "id": "tokyo-national-Q243248",
       "popularity": 0.7959999999999999,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "tokyo-national",
+      "qid": "Q123090258",
+      "title": "金剛界曼荼羅",
+      "titleEn": "Diamond Realm Mandala",
+      "description": "佛教密宗曼荼羅之一",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kongokai.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Kongokai.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E9%87%91%E5%89%9B%E7%95%8C%E6%9B%BC%E8%8D%BC%E7%BE%85",
+      "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Mandala%20of%20the%20Diamond%20Realm",
+      "tags": [],
+      "highlightsTags": [
+        "艺术流派"
+      ],
+      "wikiExtract": "金剛界曼荼羅，是依據金剛乘（Vajrayāna）密教根本經典《金剛頂經》 而製作或繪畫的壇城（Mandala）。整個曼荼羅由九會組成，所以又叫九會曼陀羅。\n",
+      "wikiLang": "zh",
+      "id": "tokyo-national-Q123090258",
+      "popularity": 0.7949999999999999,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -6097,8 +6148,6 @@
         "画板",
         "耶罗尼米斯·博斯"
       ],
-      "wikiExtract": "The Haywain Triptych is a panel painting by the Early Netherlandish painter Hieronymus Bosch, now in the Museo del Prado, Madrid, Spain. A date of around 1516 has been established by means of dendrochronological research. The central panel, signed \"Jheronimus Bosch\", measures 135 cm × 200 cm and the wings measure 147 cm × 66 cm. The outside shutters feature a full color version of Bosch's The Wayfarer.",
-      "wikiLang": "en",
       "id": "prado-Q2213811",
       "popularity": 0.784,
       "imageSource": "commons",
@@ -6544,6 +6593,12 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E9%9F%B3%E4%B9%90",
       "sourceUrl": "https://www.hermitagemuseum.org",
       "tags": [],
+      "highlightsTags": [
+        "艺术种类",
+        "專業領域",
+        "研究领域",
+        "學科"
+      ],
       "wikiExtract": "音樂，廣義而言，就是指任何以聲音組成的藝術。英文Music一詞源於古希臘語的μουσική（mousike），意即缪斯（muse）女神的藝術。而中文的音樂二字，東漢許慎《說文解字》解釋為「音，聲也。生於心，有節於外，謂之音。」認為音樂和聲音的區別，在於音樂需要透過人心去想像和創造。\n",
       "wikiLang": "zh",
       "id": "hermitage-Q638",
@@ -6965,6 +7020,25 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "norway-national",
+      "qid": "Q7772973",
+      "title": "The Voice",
+      "titleEn": "The Voice",
+      "description": "Russell Watson album",
+      "imageUrl": null,
+      "imageThumb": null,
+      "wikiUrl": "https://en.wikipedia.org/wiki/The_Voice_(Russell_Watson_album)",
+      "sourceUrl": "https://www.nasjonalmuseet.no",
+      "tags": [],
+      "highlightsTags": [
+        "音樂專輯"
+      ],
+      "id": "norway-national-Q7772973",
+      "popularity": 0.741,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "korea-national",
       "qid": "Q16095663",
       "title": "청자 참외모양 병",
@@ -7304,8 +7378,6 @@
         "画布",
         "愛德華·馬奈"
       ],
-      "wikiExtract": "The Funeral is an 1867–1870 oil on canvas painting by Édouard Manet, now in the Metropolitan Museum of Art in New York. Incomplete, its style is very close to that of Effect of Snow on Petit-Montrouge and The Exposition Universelle of 1867. It is also known as Burial at the Glacière, the title given to it in Denis Rouart and Daniel Wildenstein's posthumous inventory of Manet's works.",
-      "wikiLang": "en",
       "id": "norway-national-Q2494850",
       "popularity": 0.729,
       "imageSource": "commons",
@@ -7510,27 +7582,6 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
-      "museumId": "tokyo-national",
-      "qid": "Q28803631",
-      "title": "Fugen Bosatsu",
-      "titleEn": "Fugen Bosatsu",
-      "description": "painting by anonymous painter",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fugen%20Bosatsu(Samantabhadra)%20-%20Google%20Art%20Project.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Fugen%20Bosatsu(Samantabhadra)%20-%20Google%20Art%20Project.jpg?width=420",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Fugen_Bosatsu_Riding_on_a_Elephant",
-      "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Fugen%20Bosatsu%20statue",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "丝绸",
-        "Iwaenogu"
-      ],
-      "id": "tokyo-national-Q28803631",
-      "popularity": 0.724,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
       "museumId": "norway-national",
       "qid": "Q2267579",
       "title": "The Sick Child",
@@ -7675,22 +7726,6 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
-      "museumId": "khm",
-      "qid": "Q2",
-      "title": "地球",
-      "titleEn": "Earth",
-      "description": "太陽系中距離太陽第三近的行星",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83",
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Earth%20(Arcimboldo)",
-      "tags": [],
-      "id": "khm-Q2",
-      "popularity": 0.718,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
       "museumId": "vam",
       "qid": "Q456932",
       "title": "Great Bed of Ware",
@@ -7812,9 +7847,6 @@
       "wikiUrl": null,
       "sourceUrl": "https://www.nasjonalmuseet.no",
       "tags": [],
-      "highlightsTags": [
-        "电视节目分集"
-      ],
       "id": "norway-national-Q59190739",
       "popularity": 0.714,
       "imageSource": "commons",
@@ -8143,25 +8175,6 @@
       ],
       "id": "korea-national-Q65248711",
       "popularity": 0.701,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "norway-national",
-      "qid": "Q509003",
-      "title": "橋",
-      "titleEn": "The Bridge",
-      "description": "1959 film directed by Bernhard Wicki",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Die%20Bruecke%201959.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Die%20Bruecke%201959.jpg?width=420",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Die_Br%C3%BCcke_(film)",
-      "sourceUrl": "https://www.nasjonalmuseet.no",
-      "tags": [],
-      "highlightsTags": [
-        "電影"
-      ],
-      "id": "norway-national-Q509003",
-      "popularity": 0.6980000000000001,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
