@@ -1,44 +1,44 @@
 {
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-05T01:35:22.489Z",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T01:41:44.586Z",
   "picks": [
-    "rijksmuseum-Q98923690",
-    "national-gallery-london-Q21948567",
-    "uffizi-Q1473546",
-    "hermitage-Q119392717",
-    "rijksmuseum-Q192110",
-    "norway-national-Q1767705",
-    "norway-national-Q7772973",
-    "tokyo-national-Q3007760",
-    "hermitage-Q27033397",
-    "khm-Q58701",
-    "npm-taipei-Q5136665",
-    "norway-national-Q2494850",
-    "reina-sofia-Q167536",
-    "tokyo-national-Q3443335",
-    "prado-Q2983399",
-    "vatican-Q55428253"
+    "vatican-Q972196",
+    "aic-Q83872",
+    "prado-Q1091086",
+    "norway-national-Q124714",
+    "louvre-Q12418",
+    "smithsonian-Q688605",
+    "norway-national-Q18890990",
+    "npm-taipei-Q4184",
+    "british-museum-Q27920165",
+    "vatican-Q2716974",
+    "norway-national-Q101065",
+    "norway-national-Q18891504",
+    "uffizi-Q2551625",
+    "vatican-Q21764177",
+    "khm-Q1313",
+    "moma-Q3877090"
   ],
   "hotTerms": [
     {
-      "term": "捨杜",
-      "reason": "卢浮宫馆藏 · 综合热度TOP28 · 全球参观量第一 · 约890万/年"
+      "term": "后母戊鼎",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP9 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "四羊方尊",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP10 · 全球参观量前列 · 约670万/年"
+      "term": "蒙娜丽莎",
+      "reason": "卢浮宫馆藏 · 综合热度TOP21 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "洛神賦圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP5 · 游客量世界第一 · 约1700万/年"
+      "term": "击鼓说唱俑",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP8 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "迦拿的婚礼",
-      "reason": "卢浮宫馆藏 · 综合热度TOP29 · 全球参观量第一 · 约890万/年"
+      "term": "大盂鼎",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP12 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "石鼓 (先秦)",
-      "reason": "故宫博物院馆藏 · 综合热度TOP7 · 游客量世界第一 · 约1700万/年"
+      "term": "The Gulf Stream",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP15 · 全球TOP3 · 约540万/年"
     }
   ],
   "hotMuseumIds": [
