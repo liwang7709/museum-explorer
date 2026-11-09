@@ -1,44 +1,44 @@
 {
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T00:45:23.144Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T01:02:44.617Z",
   "picks": [
-    "khm-Q26508351",
-    "uffizi-Q727875",
-    "hermitage-Q638",
-    "vatican-Q55428253",
-    "npm-taipei-Q15912677",
-    "uffizi-Q2011510",
-    "uffizi-Q1059211",
+    "khm-Q17323989",
+    "korea-national-Q12607411",
+    "korea-national-Q482772",
+    "moma-Q2915406",
+    "korea-national-Q12597882",
+    "hermitage-Q5954149",
+    "npm-taipei-Q536779",
+    "prado-Q27781257",
+    "hermitage-Q183332",
+    "prado-Q1526106",
+    "palace-beijing-Q22079066",
+    "vatican-Q21764177",
+    "vatican-Q64351452",
     "vatican-Q2529969",
-    "british-museum-Q27920165",
-    "vatican-Q3968659",
-    "terra-cotta-Q47672",
-    "hermitage-Q65021325",
-    "louvre-Q625140",
-    "uffizi-Q154326",
-    "musee-rodin-Q2003287",
-    "hermitage-Q128910"
+    "khm-Q3976754",
+    "moma-Q910199"
   ],
   "hotTerms": [
     {
-      "term": "彩绘鹳鱼石斧图陶缸",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP13 · 全球参观量前列 · 约670万/年"
+      "term": "金瓯永固杯",
+      "reason": "故宫博物院馆藏 · 综合热度TOP6 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "X夫人（皮埃尔·戈特罗夫人）",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP17 · 全球TOP3 · 约540万/年"
+      "term": "The Gulf Stream",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP15 · 全球TOP3 · 约540万/年"
     },
     {
-      "term": "迦拿的婚礼",
-      "reason": "卢浮宫馆藏 · 综合热度TOP29 · 全球参观量第一 · 约890万/年"
+      "term": "普西莎与爱神",
+      "reason": "卢浮宫馆藏 · 综合热度TOP26 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "千里江山图",
-      "reason": "故宫博物院馆藏 · 综合热度TOP1 · 游客量世界第一 · 约1700万/年"
+      "term": "拉奥孔与儿子们",
+      "reason": "梵蒂冈博物馆馆藏 · 综合热度TOP30 · 全球TOP2 · 约680万/年"
     },
     {
-      "term": "石鼓 (先秦)",
-      "reason": "故宫博物院馆藏 · 综合热度TOP7 · 游客量世界第一 · 约1700万/年"
+      "term": "四羊方尊",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP10 · 全球参观量前列 · 约670万/年"
     }
   ],
   "hotMuseumIds": [
