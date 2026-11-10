@@ -1,44 +1,44 @@
 {
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T01:02:44.617Z",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T03:43:31.980Z",
   "picks": [
-    "khm-Q17323989",
-    "korea-national-Q12607411",
-    "korea-national-Q482772",
-    "moma-Q2915406",
-    "korea-national-Q12597882",
-    "hermitage-Q5954149",
-    "npm-taipei-Q536779",
-    "prado-Q27781257",
+    "khm-Q27981356",
+    "national-gallery-london-Q4009972",
+    "khm-Q3196",
     "hermitage-Q183332",
-    "prado-Q1526106",
-    "palace-beijing-Q22079066",
-    "vatican-Q21764177",
-    "vatican-Q64351452",
-    "vatican-Q2529969",
-    "khm-Q3976754",
-    "moma-Q910199"
+    "norway-national-Q170516",
+    "nmc-Q132501199",
+    "uffizi-Q1569622",
+    "uffizi-Q1059211",
+    "npm-taipei-Q28092353",
+    "korea-national-Q65248711",
+    "norway-national-Q101065",
+    "palace-beijing-Q714802",
+    "nmc-Q15916899",
+    "prado-Q152867",
+    "national-gallery-london-Q21948567",
+    "korea-national-Q497657"
   ],
   "hotTerms": [
     {
-      "term": "金瓯永固杯",
-      "reason": "故宫博物院馆藏 · 综合热度TOP6 · 游客量世界第一 · 约1700万/年"
+      "term": "失落的朋友",
+      "reason": "大英博物馆馆藏 · 综合热度TOP20 · 全球TOP5 · 约580万/年"
     },
     {
-      "term": "The Gulf Stream",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP15 · 全球TOP3 · 约540万/年"
+      "term": "拿破崙加冕",
+      "reason": "卢浮宫馆藏 · 综合热度TOP24 · 全球参观量第一 · 约890万/年"
+    },
+    {
+      "term": "捨杜",
+      "reason": "卢浮宫馆藏 · 综合热度TOP28 · 全球参观量第一 · 约890万/年"
     },
     {
       "term": "普西莎与爱神",
       "reason": "卢浮宫馆藏 · 综合热度TOP26 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "拉奥孔与儿子们",
-      "reason": "梵蒂冈博物馆馆藏 · 综合热度TOP30 · 全球TOP2 · 约680万/年"
-    },
-    {
-      "term": "四羊方尊",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP10 · 全球参观量前列 · 约670万/年"
+      "term": "金瓯永固杯",
+      "reason": "故宫博物院馆藏 · 综合热度TOP6 · 游客量世界第一 · 约1700万/年"
     }
   ],
   "hotMuseumIds": [
