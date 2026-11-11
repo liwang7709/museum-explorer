@@ -1,44 +1,44 @@
 {
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T03:43:31.980Z",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T01:23:25.226Z",
   "picks": [
-    "khm-Q27981356",
-    "national-gallery-london-Q4009972",
-    "khm-Q3196",
-    "hermitage-Q183332",
-    "norway-national-Q170516",
-    "nmc-Q132501199",
-    "uffizi-Q1569622",
-    "uffizi-Q1059211",
+    "uffizi-Q2610729",
+    "khm-Q3976754",
+    "smithsonian-Q640037",
+    "vatican-Q64351452",
+    "palace-beijing-Q22079066",
+    "tokyo-national-Q123090258",
+    "npm-taipei-Q10955092",
     "npm-taipei-Q28092353",
-    "korea-national-Q65248711",
-    "norway-national-Q101065",
-    "palace-beijing-Q714802",
-    "nmc-Q15916899",
-    "prado-Q152867",
-    "national-gallery-london-Q21948567",
-    "korea-national-Q497657"
+    "vatican-Q11719033",
+    "uffizi-Q2344505",
+    "vatican-Q3922606",
+    "tokyo-national-Q21674031",
+    "uffizi-Q3937472",
+    "rijksmuseum-Q735061",
+    "tokyo-national-Q4373340",
+    "norway-national-Q18891504"
   ],
   "hotTerms": [
     {
-      "term": "失落的朋友",
-      "reason": "大英博物馆馆藏 · 综合热度TOP20 · 全球TOP5 · 约580万/年"
+      "term": "击鼓说唱俑",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP8 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "拿破崙加冕",
-      "reason": "卢浮宫馆藏 · 综合热度TOP24 · 全球参观量第一 · 约890万/年"
+      "term": "拉奥孔与儿子们",
+      "reason": "梵蒂冈博物馆馆藏 · 综合热度TOP30 · 全球TOP2 · 约680万/年"
     },
     {
-      "term": "捨杜",
-      "reason": "卢浮宫馆藏 · 综合热度TOP28 · 全球参观量第一 · 约890万/年"
+      "term": "《天使报喜三联画》（梅罗德圣坛饰）",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP18 · 全球TOP3 · 约540万/年"
+    },
+    {
+      "term": "米洛的维纳斯",
+      "reason": "卢浮宫馆藏 · 综合热度TOP22 · 全球参观量第一 · 约890万/年"
     },
     {
       "term": "普西莎与爱神",
       "reason": "卢浮宫馆藏 · 综合热度TOP26 · 全球参观量第一 · 约890万/年"
-    },
-    {
-      "term": "金瓯永固杯",
-      "reason": "故宫博物院馆藏 · 综合热度TOP6 · 游客量世界第一 · 约1700万/年"
     }
   ],
   "hotMuseumIds": [
