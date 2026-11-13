@@ -1,44 +1,44 @@
 {
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T02:24:21.647Z",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T01:58:26.904Z",
   "picks": [
+    "vatican-Q2500226",
+    "musee-rodin-Q978987",
+    "uffizi-Q2551625",
+    "norway-national-Q3955717",
+    "vatican-Q500242",
+    "vatican-Q567861",
+    "uffizi-Q154326",
+    "tokyo-national-Q44461629",
+    "npm-taipei-Q11135165",
+    "tokyo-national-Q28154824",
+    "national-gallery-london-Q1206860",
+    "cleveland-Q2509393",
     "met-Q509806",
-    "met-Q285392",
-    "tokyo-national-Q11244181",
-    "met-Q1186970",
-    "prado-Q2528477",
-    "louvre-Q93304",
-    "tate-Q1800888",
-    "prado-Q27781257",
-    "mauritshuis-Q185372",
-    "khm-Q689236",
-    "hermitage-Q21481261",
-    "norway-national-Q124714",
-    "british-museum-Q248101",
-    "national-gallery-london-Q26708368",
-    "moma-Q3877090",
-    "prado-Q1123378"
+    "prado-Q9191556",
+    "palace-beijing-Q22079066",
+    "norway-national-Q19888721"
   ],
   "hotTerms": [
     {
-      "term": "金瓯永固杯",
-      "reason": "故宫博物院馆藏 · 综合热度TOP6 · 游客量世界第一 · 约1700万/年"
+      "term": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP16 · 全球TOP3 · 约540万/年"
     },
     {
-      "term": "The Lacemaker",
-      "reason": "卢浮宫馆藏 · 综合热度TOP27 · 全球参观量第一 · 约890万/年"
-    },
-    {
-      "term": "迦拿的婚礼",
-      "reason": "卢浮宫馆藏 · 综合热度TOP29 · 全球参观量第一 · 约890万/年"
-    },
-    {
-      "term": "梅杜薩之筏",
-      "reason": "卢浮宫馆藏 · 综合热度TOP23 · 全球参观量第一 · 约890万/年"
+      "term": "大宫女",
+      "reason": "卢浮宫馆藏 · 综合热度TOP25 · 全球参观量第一 · 约890万/年"
     },
     {
       "term": "失落的朋友",
       "reason": "大英博物馆馆藏 · 综合热度TOP20 · 全球TOP5 · 约580万/年"
+    },
+    {
+      "term": "洛神賦圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP5 · 游客量世界第一 · 约1700万/年"
+    },
+    {
+      "term": "蒙娜丽莎",
+      "reason": "卢浮宫馆藏 · 综合热度TOP21 · 全球参观量第一 · 约890万/年"
     }
   ],
   "hotMuseumIds": [
