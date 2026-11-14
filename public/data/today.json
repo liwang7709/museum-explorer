@@ -1,44 +1,44 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T01:58:26.904Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T01:34:22.916Z",
   "picks": [
-    "vatican-Q2500226",
-    "musee-rodin-Q978987",
-    "uffizi-Q2551625",
-    "norway-national-Q3955717",
-    "vatican-Q500242",
-    "vatican-Q567861",
-    "uffizi-Q154326",
-    "tokyo-national-Q44461629",
-    "npm-taipei-Q11135165",
-    "tokyo-national-Q28154824",
-    "national-gallery-london-Q1206860",
-    "cleveland-Q2509393",
-    "met-Q509806",
-    "prado-Q9191556",
+    "npm-taipei-Q11126402",
+    "rijksmuseum-Q650635",
+    "tokyo-national-Q1068772",
+    "uffizi-Q2426058",
+    "vatican-Q667124",
+    "khm-Q690583",
+    "tokyo-national-Q105096033",
+    "khm-Q17323989",
+    "tokyo-national-Q3007760",
+    "palace-beijing-Q714802",
+    "prado-Q2528477",
+    "smithsonian-Q28796713",
+    "tokyo-national-Q11531476",
+    "met-Q7738501",
     "palace-beijing-Q22079066",
-    "norway-national-Q19888721"
+    "louvre-Q93304"
   ],
   "hotTerms": [
     {
-      "term": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP16 · 全球TOP3 · 约540万/年"
+      "term": "大宫女",
+      "reason": "卢浮宫馆藏 · 综合热度TOP26 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "大宫女",
-      "reason": "卢浮宫馆藏 · 综合热度TOP25 · 全球参观量第一 · 约890万/年"
+      "term": "X夫人（皮埃尔·戈特罗夫人）",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP17 · 全球TOP3 · 约540万/年"
+    },
+    {
+      "term": "梅杜薩之筏",
+      "reason": "卢浮宫馆藏 · 综合热度TOP24 · 全球参观量第一 · 约890万/年"
     },
     {
       "term": "失落的朋友",
       "reason": "大英博物馆馆藏 · 综合热度TOP20 · 全球TOP5 · 约580万/年"
     },
     {
-      "term": "洛神賦圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP5 · 游客量世界第一 · 约1700万/年"
-    },
-    {
-      "term": "蒙娜丽莎",
-      "reason": "卢浮宫馆藏 · 综合热度TOP21 · 全球参观量第一 · 约890万/年"
+      "term": "苏格拉底之死",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP14 · 全球TOP3 · 约540万/年"
     }
   ],
   "hotMuseumIds": [

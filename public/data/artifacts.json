@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T01:58:26.904Z",
-  "total": 405,
+  "generatedAt": "2026-11-14T01:34:22.916Z",
+  "total": 404,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
     {
@@ -525,6 +525,31 @@
     },
     {
       "museumId": "louvre",
+      "qid": "Q216402",
+      "title": "薩莫特拉斯的勝利女神",
+      "titleEn": "Winged Victory of Samothrace",
+      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
+      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
+      "tags": [],
+      "highlightsTags": [
+        "塑像",
+        "遺物",
+        "Hellenistic sculpture",
+        "帕里安大理石",
+        "Pythokritos"
+      ],
+      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
+      "wikiLang": "zh",
+      "id": "louvre-Q216402",
+      "popularity": 1,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "louvre",
       "qid": "Q212616",
       "title": "梅杜薩之筏",
       "titleEn": "The Raft of the Medusa",
@@ -708,31 +733,6 @@
       "wikiExtract": "拉奧孔與兒子們，亦稱為拉奥孔群雕，是一座著名的大理石雕像，現藏於梵蒂岡博物館。該雕像根據古羅馬作家老普林尼所称是由三位来自于罗得岛的雕刻家：艾格桑德、阿提諾多洛斯（Athenodoros）及波利多魯斯（Polydorus）所創造的，表现了特洛伊祭司拉奥孔與他的兒子Antiphantes和Thymbraeus被海蛇纏繞而死的情景。\n",
       "wikiLang": "zh",
       "id": "vatican-Q465762",
-      "popularity": 1,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "louvre",
-      "qid": "Q216402",
-      "title": "薩莫特拉斯的勝利女神",
-      "titleEn": "Winged Victory of Samothrace",
-      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
-      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
-      "tags": [],
-      "highlightsTags": [
-        "塑像",
-        "遺物",
-        "Hellenistic sculpture",
-        "帕里安大理石",
-        "Pythokritos"
-      ],
-      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
-      "wikiLang": "zh",
-      "id": "louvre-Q216402",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -3082,6 +3082,11 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E9%9F%A9%E7%86%99%E8%BD%BD%E5%A4%9C%E5%AE%B4%E5%9B%BE",
       "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Search?q=The%20Night%20Revels%20of%20Han%20Xizai%20(Taipei)",
       "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "丝绸",
+        "顾闳中"
+      ],
       "wikiExtract": "《韩熙载夜宴图》，據宋《宣和画谱》所載為五代十国南唐画家顾闳中的作品，現存此本摹於南宋，元代汤垕《画鉴》、清代孙承泽《庚子消夏记》、顾复《平生壮观》、《石渠宝笈初编》等书皆著錄。清末流出宫外，1945年，张大千以500兩黃金的鉅款購得，现藏于北京故宫博物院。據記載，南唐的周文矩亦作《韓熙載夜宴圖》，元朝時兩作俱在，現今僅存顧本傳世。另有唐寅摹本，现收藏於重庆中国三峡博物馆。\n",
       "wikiLang": "zh",
       "id": "npm-taipei-Q7194972",
@@ -4543,28 +4548,6 @@
       "wikiExtract": "The Portrait of Bia de' Medici is a tempera on wood painting by the Italian Mannerist painter Agnolo Bronzino, dating to around 1542 and now in the Uffizi in Florence. For a long time it was displayed in the Tribuna at the heart of the museum, but since 2012 it has been moved to the \"sale rosse\" of the Nuovi Uffizi. A second portrait, by Pontormo, has also been argued to show Bia de' Medici, but this identification i",
       "wikiLang": "en",
       "id": "uffizi-Q3937472",
-      "popularity": 0.848,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "hermitage",
-      "qid": "Q27700947",
-      "title": "The toilet of Venus",
-      "titleEn": "The toilet of Venus",
-      "description": "painting by Francesco Albani in the Prado",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Albani%20-%20Venus%20Attended%20by%20Nymphs%20and%20Cupids%20-%20WGA0111.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Albani%20-%20Venus%20Attended%20by%20Nymphs%20and%20Cupids%20-%20WGA0111.jpg?width=420",
-      "wikiUrl": null,
-      "sourceUrl": "https://www.hermitagemuseum.org",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "油彩",
-        "画布",
-        "弗朗西斯科·阿爾巴尼"
-      ],
-      "id": "hermitage-Q27700947",
       "popularity": 0.848,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -7383,22 +7366,6 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
-      "museumId": "norway-national",
-      "qid": "Q2494850",
-      "title": "The Funeral",
-      "titleEn": "The Funeral",
-      "description": "painting by Édouard Manet",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Funeral%20MET%20DT1931.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Funeral%20MET%20DT1931.jpg?width=420",
-      "wikiUrl": "https://en.wikipedia.org/wiki/The_Funeral_(painting)",
-      "sourceUrl": "https://www.nasjonalmuseet.no",
-      "tags": [],
-      "id": "norway-national-Q2494850",
-      "popularity": 0.729,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
       "museumId": "korea-national",
       "qid": "Q29383347",
       "title": "月亮壶",
@@ -7721,24 +7688,19 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
-      "museumId": "khm",
-      "qid": "Q16930210",
-      "title": "蘇撒拿傳",
-      "titleEn": "Susanna and the Elders",
-      "description": "episode in the Additions to Daniel",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Papyrus%20967.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Papyrus%20967.jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%98%87%E6%92%92%E6%8B%BF%E5%82%B3",
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Susanna%20and%20the%20Elders%20(Tintoretto)",
+      "museumId": "tokyo-national",
+      "qid": "Q107425",
+      "title": "景观",
+      "titleEn": "landscape",
+      "description": "一塊土地的可見特徵",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20Arnisee-region.JPG?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20Arnisee-region.JPG?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E6%99%AF%E8%A7%82",
+      "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Landscape%20(Sessh%C5%AB)",
       "tags": [],
-      "highlightsTags": [
-        "chapter of the Bible",
-        "藝術主題",
-        "聖經中記載的故事"
-      ],
-      "wikiExtract": "《蘇撒拿傳》 又譯作《蘇撒納傳》，是天主教和東正教接受的次經，而新教和猶太教則不接受此書卷作正經。此書無法肯定由希伯來文或希臘文寫成。作者據推測為主前第二或第一世紀人物；除此以外其生平一概不得而知。在希臘文舊約《七十士譯本》 中，此書列於《但以理書》之前，在拉丁譯本卻列於《但以理書》之後。 \n",
+      "wikiExtract": "景觀 一詞主要有兩種意義。一方面，它描述了一個地區作為一個美學整體的受文化影響的主觀感知（哲學-文化之景觀概念）；另一方面，它被用來描述一個在可被確認的科學特徵方面獨特的地區，尤其是在地理學領域。\n",
       "wikiLang": "zh",
-      "id": "khm-Q16930210",
+      "id": "tokyo-national-Q107425",
       "popularity": 0.72,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -7865,6 +7827,9 @@
       "wikiUrl": null,
       "sourceUrl": "https://www.nasjonalmuseet.no",
       "tags": [],
+      "highlightsTags": [
+        "电视节目分集"
+      ],
       "id": "norway-national-Q59190739",
       "popularity": 0.714,
       "imageSource": "commons",
@@ -8906,6 +8871,29 @@
       "wikiExtract": "The Fight Between Carnival and Lent is an oil-on-panel painting executed by the Dutch and Flemish Renaissance painter Pieter Bruegel the Elder in 1559. It is a panorama of contemporary life in the Southern Netherlands. While the painting contains nearly 200 characters, it is unified under the theme of the transition from Shrove Tuesday to Lent, the period forty days before Easter.",
       "wikiLang": "en",
       "id": "khm-Q689236",
+      "popularity": 0.656,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "khm",
+      "qid": "Q2629715",
+      "title": "男子肖像",
+      "titleEn": "Portrait of a Man",
+      "description": "painting by Raphael",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=420",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_(Raphael)",
+      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Portrait%20of%20a%20Man%20(D%C3%BCrer)",
+      "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "文藝復興全盛期",
+        "油彩",
+        "画板",
+        "拉斐尔·圣齐奥"
+      ],
+      "id": "khm-Q2629715",
       "popularity": 0.656,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
