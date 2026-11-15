@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T01:34:22.916Z",
-  "total": 404,
+  "generatedAt": "2026-11-15T01:11:44.961Z",
+  "total": 408,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
     {
@@ -525,31 +525,6 @@
     },
     {
       "museumId": "louvre",
-      "qid": "Q216402",
-      "title": "薩莫特拉斯的勝利女神",
-      "titleEn": "Winged Victory of Samothrace",
-      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
-      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
-      "tags": [],
-      "highlightsTags": [
-        "塑像",
-        "遺物",
-        "Hellenistic sculpture",
-        "帕里安大理石",
-        "Pythokritos"
-      ],
-      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
-      "wikiLang": "zh",
-      "id": "louvre-Q216402",
-      "popularity": 1,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "louvre",
       "qid": "Q212616",
       "title": "梅杜薩之筏",
       "titleEn": "The Raft of the Medusa",
@@ -859,6 +834,31 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "louvre",
+      "qid": "Q216402",
+      "title": "薩莫特拉斯的勝利女神",
+      "titleEn": "Winged Victory of Samothrace",
+      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
+      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
+      "tags": [],
+      "highlightsTags": [
+        "塑像",
+        "遺物",
+        "Hellenistic sculpture",
+        "帕里安大理石",
+        "Pythokritos"
+      ],
+      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
+      "wikiLang": "zh",
+      "id": "louvre-Q216402",
+      "popularity": 1,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "vatican",
       "qid": "Q64351452",
       "title": "Cleopatra VII, marble statue, Vatican Museums, Pius-Clementine Museum, Room of the Greek Cross, 21",
@@ -1004,14 +1004,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%8E%B1%E7%89%B9%E9%A3%9E%E8%A1%8C%E5%99%A8",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Wright%20Flyer",
       "tags": [],
-      "highlightsTags": [
-        "飛機",
-        "Flyer",
-        "平纹细布",
-        "spruce",
-        "钢",
-        "鑄鐵"
-      ],
       "id": "smithsonian-Q688605",
       "popularity": 0.994,
       "imageSource": "commons",
@@ -2074,12 +2066,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%AD%94%E9%9B%80%E5%8E%85",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Peacock%20Room",
       "tags": [],
-      "highlightsTags": [
-        "period room",
-        "裝置藝術作品",
-        "詹姆斯·惠斯勒",
-        "托馬斯·傑基爾"
-      ],
       "wikiExtract": "《蓝色与金色的和谐：孔雀厅》 是詹姆斯·惠斯勒於1876-1877年所创作的两幅帆布油画，采用油画颜料和镀金叶饰。原为英国船王、惠斯勒的主要赞助人弗雷德里克·雷兰 的伦敦住宅设计的餐厅装饰。房间尺寸：高13英尺11又5⁄8英寸，宽33英尺2英寸，深19英尺9又1⁄2英寸 现藏于華盛頓哥倫比亞特區弗瑞爾藝廊。\n",
       "wikiLang": "zh",
       "id": "smithsonian-Q16738523",
@@ -2170,6 +2156,12 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%A7%82%E6%99%AF%E6%AE%BF%E7%9A%84%E9%98%BF%E6%B3%A2%E7%BD%97",
       "sourceUrl": "https://www.museivaticani.va",
       "tags": [],
+      "highlightsTags": [
+        "塑像",
+        "Greek late classical period",
+        "大理岩",
+        "莱奥卡雷斯"
+      ],
       "id": "vatican-Q619135",
       "popularity": 0.9510000000000001,
       "imageSource": "commons",
@@ -2676,13 +2668,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E7%B4%85%E5%AF%B6%E7%9F%B3%E9%9E%8B",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Ruby%20slippers%20(Wizard%20of%20Oz)",
       "tags": [],
-      "highlightsTags": [
-        "电影纪念品收藏",
-        "fictional slipper",
-        "costume component",
-        "虚构的魔法物品",
-        "阿德里安"
-      ],
       "id": "smithsonian-Q843007",
       "popularity": 0.933,
       "imageSource": "commons",
@@ -4553,6 +4538,28 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "hermitage",
+      "qid": "Q27700947",
+      "title": "The toilet of Venus",
+      "titleEn": "The toilet of Venus",
+      "description": "painting by Francesco Albani in the Prado",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Albani%20-%20Venus%20Attended%20by%20Nymphs%20and%20Cupids%20-%20WGA0111.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Albani%20-%20Venus%20Attended%20by%20Nymphs%20and%20Cupids%20-%20WGA0111.jpg?width=420",
+      "wikiUrl": null,
+      "sourceUrl": "https://www.hermitagemuseum.org",
+      "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "油彩",
+        "画布",
+        "弗朗西斯科·阿爾巴尼"
+      ],
+      "id": "hermitage-Q27700947",
+      "popularity": 0.848,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "rijksmuseum",
       "qid": "Q17319634",
       "title": "The Threatened Swan",
@@ -4919,6 +4926,9 @@
       "wikiUrl": "https://en.wikipedia.org/wiki/Judith_(given_name)",
       "sourceUrl": "https://www.hermitagemuseum.org",
       "tags": [],
+      "highlightsTags": [
+        "女性人名"
+      ],
       "wikiExtract": "Judith is a feminine given name derived from the Hebrew name Yəhūdīt (יְהוּדִית), meaning \"praised\" and also more literally \"Woman of Judea\". It is the feminine form of Judah. Judith appeared in the Hebrew Bible as one of Esau's wives, while the deuterocanonical Book of Judith tells of a different Judith. It is in common usage in English, French, German, many Scandinavian languages, Dutch, and Hebrew. In Ethiopia and",
       "wikiLang": "en",
       "id": "hermitage-Q5954149",
@@ -6597,12 +6607,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E9%9F%B3%E4%B9%90",
       "sourceUrl": "https://www.hermitagemuseum.org",
       "tags": [],
-      "highlightsTags": [
-        "艺术种类",
-        "專業領域",
-        "研究领域",
-        "學科"
-      ],
       "wikiExtract": "音樂，廣義而言，就是指任何以聲音組成的藝術。英文Music一詞源於古希臘語的μουσική（mousike），意即缪斯（muse）女神的藝術。而中文的音樂二字，東漢許慎《說文解字》解釋為「音，聲也。生於心，有節於外，謂之音。」認為音樂和聲音的區別，在於音樂需要透過人心去想像和創造。\n",
       "wikiLang": "zh",
       "id": "hermitage-Q638",
@@ -7564,27 +7568,6 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
-      "museumId": "tokyo-national",
-      "qid": "Q28803631",
-      "title": "Fugen Bosatsu",
-      "titleEn": "Fugen Bosatsu",
-      "description": "painting by anonymous painter",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fugen%20Bosatsu(Samantabhadra)%20-%20Google%20Art%20Project.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Fugen%20Bosatsu(Samantabhadra)%20-%20Google%20Art%20Project.jpg?width=420",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Fugen_Bosatsu_Riding_on_a_Elephant",
-      "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Fugen%20Bosatsu%20statue",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "丝绸",
-        "Iwaenogu"
-      ],
-      "id": "tokyo-national-Q28803631",
-      "popularity": 0.724,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
       "museumId": "norway-national",
       "qid": "Q2267579",
       "title": "The Sick Child",
@@ -7604,6 +7587,27 @@
       "wikiExtract": "The Sick Child is the title given to a group of six paintings and a number of lithographs, drypoints and etchings completed by the Norwegian artist Edvard Munch between 1885 and 1926. Each work records the moments before the death of his older sister, Johanne Sophie (1862–1877), from tuberculosis aged 15. Munch repeatedly returned to this deeply traumatic event in his art over a period of over 40 years. In the works,",
       "wikiLang": "en",
       "id": "norway-national-Q2267579",
+      "popularity": 0.723,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "norway-national",
+      "qid": "Q309",
+      "title": "歷史",
+      "titleEn": "history",
+      "description": "過去發生的事件",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikolaos%20Gyzis%20-%20Historia.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikolaos%20Gyzis%20-%20Historia.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2",
+      "sourceUrl": "https://www.nasjonalmuseet.no",
+      "tags": [],
+      "highlightsTags": [
+        "學科"
+      ],
+      "wikiExtract": "历史是对过去的系统研究。作为一门学科，历史分析和解释证据，构建关于发生的事情的叙述并解释其发生的原因，主要关注人类历史。一些理论家将历史归类为社会科学，而另一些人则将其视为人文学科的一部分或认为它是一门混合学科。围绕历史的目的也存在类似的争论——例如，它的主要目的是理论性的（揭示真理），还是实践性的（从过去吸取教训）。在比较不同的意义上，“历史”一词不是单指学术领域，而是指过去本身或关于过去的个别文本。\n",
+      "wikiLang": "zh",
+      "id": "norway-national-Q309",
       "popularity": 0.723,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -7702,6 +7706,45 @@
       "wikiLang": "zh",
       "id": "tokyo-national-Q107425",
       "popularity": 0.72,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "khm",
+      "qid": "Q16930210",
+      "title": "蘇撒拿傳",
+      "titleEn": "Susanna and the Elders",
+      "description": "episode in the Additions to Daniel",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Papyrus%20967.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Papyrus%20967.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%98%87%E6%92%92%E6%8B%BF%E5%82%B3",
+      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Susanna%20and%20the%20Elders%20(Tintoretto)",
+      "tags": [],
+      "highlightsTags": [
+        "chapter of the Bible",
+        "藝術主題",
+        "聖經中記載的故事"
+      ],
+      "wikiExtract": "《蘇撒拿傳》 又譯作《蘇撒納傳》，是天主教和東正教接受的次經，而新教和猶太教則不接受此書卷作正經。此書無法肯定由希伯來文或希臘文寫成。作者據推測為主前第二或第一世紀人物；除此以外其生平一概不得而知。在希臘文舊約《七十士譯本》 中，此書列於《但以理書》之前，在拉丁譯本卻列於《但以理書》之後。 \n",
+      "wikiLang": "zh",
+      "id": "khm-Q16930210",
+      "popularity": 0.72,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "khm",
+      "qid": "Q2",
+      "title": "地球",
+      "titleEn": "Earth",
+      "description": "太陽系中距離太陽第三近的行星",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83",
+      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Earth%20(Arcimboldo)",
+      "tags": [],
+      "id": "khm-Q2",
+      "popularity": 0.718,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -8118,6 +8161,27 @@
     },
     {
       "museumId": "korea-national",
+      "qid": "Q65248711",
+      "title": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
+      "titleEn": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
+      "description": "",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%86%8C%EC%9E%A5%20%EB%AA%A9%EC%A1%B0%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81%2001.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%86%8C%EC%9E%A5%20%EB%AA%A9%EC%A1%B0%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81%2001.jpg?width=420",
+      "wikiUrl": null,
+      "sourceUrl": "https://www.museum.go.kr",
+      "tags": [],
+      "highlightsTags": [
+        "文化遺產",
+        "塑像",
+        "木材"
+      ],
+      "id": "korea-national-Q65248711",
+      "popularity": 0.701,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "korea-national",
       "qid": "Q12615728",
       "title": "仁王霁色图",
       "titleEn": "Inwang jesaekdo",
@@ -8197,9 +8261,6 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%AD%A3",
       "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Summer%20(Arcimboldo)",
       "tags": [],
-      "highlightsTags": [
-        "周期事件"
-      ],
       "wikiExtract": "夏季是一年四季的第二季，也是一年中最炎热的季节，同时也是一年中太阳高度最高、白昼最长的季节。北半球的夏季依公曆通常被認為在6、7、8月，但實際則隨地區而不同。夏季是许多农作物旺盛生长的季节，充足的光照和适宜的温度给植物提供了所需的条件。此外，由於夏季時全球大部份中小學學生都放暑假，因此也是相當旺盛的學生旅遊季節。以北半球為例，除了赤道一帶其他地方都有夏季：曼谷夏季約八個月、北極夏季約五個月（另外七個月為冬季）。\n",
       "wikiLang": "zh",
       "id": "khm-Q1313",
@@ -8757,6 +8818,27 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "khm",
+      "qid": "Q59676195",
+      "title": "Saint Margaret",
+      "titleEn": "Saint Margaret",
+      "description": "painting by the workshop of Titian",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Margarita%2C%20del%20taller%20de%20Tiziano%20(Museo%20del%20Prado).jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Margarita%2C%20del%20taller%20de%20Tiziano%20(Museo%20del%20Prado).jpg?width=420",
+      "wikiUrl": null,
+      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Saint%20Margaret%20(Rubens)",
+      "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "油彩",
+        "画布"
+      ],
+      "id": "khm-Q59676195",
+      "popularity": 0.67,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "norway-national",
       "qid": "Q1767705",
       "title": "The Eye",
@@ -8871,29 +8953,6 @@
       "wikiExtract": "The Fight Between Carnival and Lent is an oil-on-panel painting executed by the Dutch and Flemish Renaissance painter Pieter Bruegel the Elder in 1559. It is a panorama of contemporary life in the Southern Netherlands. While the painting contains nearly 200 characters, it is unified under the theme of the transition from Shrove Tuesday to Lent, the period forty days before Easter.",
       "wikiLang": "en",
       "id": "khm-Q689236",
-      "popularity": 0.656,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "khm",
-      "qid": "Q2629715",
-      "title": "男子肖像",
-      "titleEn": "Portrait of a Man",
-      "description": "painting by Raphael",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20Portrait%20of%20a%20man%20cat14.jpg?width=420",
-      "wikiUrl": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_(Raphael)",
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Portrait%20of%20a%20Man%20(D%C3%BCrer)",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "文藝復興全盛期",
-        "油彩",
-        "画板",
-        "拉斐尔·圣齐奥"
-      ],
-      "id": "khm-Q2629715",
       "popularity": 0.656,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
