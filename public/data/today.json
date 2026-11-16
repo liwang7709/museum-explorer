@@ -1,44 +1,44 @@
 {
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T01:11:44.961Z",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T01:11:24.449Z",
   "picks": [
-    "korea-national-Q12583858",
-    "reina-sofia-Q20816630",
-    "hermitage-Q183332",
-    "hermitage-Q4009580",
-    "prado-Q19911452",
-    "mauritshuis-Q523974",
-    "vatican-Q186953",
-    "korea-national-Q482772",
-    "hermitage-Q1679443",
-    "national-gallery-london-Q2293953",
-    "korea-national-Q29383347",
-    "npm-taipei-Q20786155",
-    "norway-national-Q59190739",
-    "norway-national-Q698487",
-    "hermitage-Q28060765",
-    "prado-Q117075431"
+    "musee-rodin-Q830183",
+    "npm-taipei-Q15888364",
+    "tokyo-national-Q16255298",
+    "prado-Q1195238",
+    "cleveland-Q18003128",
+    "prado-Q1526106",
+    "vatican-Q21764177",
+    "hermitage-Q27033397",
+    "khm-Q15293656",
+    "nmc-Q11069601",
+    "tokyo-national-Q1068772",
+    "uffizi-Q1473546",
+    "vatican-Q3922606",
+    "uffizi-Q2344505",
+    "prado-Q1091086",
+    "khm-Q3689725"
   ],
   "hotTerms": [
     {
-      "term": "石鼓 (先秦)",
-      "reason": "故宫博物院馆藏 · 综合热度TOP7 · 游客量世界第一 · 约1700万/年"
-    },
-    {
-      "term": "The Lacemaker",
-      "reason": "卢浮宫馆藏 · 综合热度TOP27 · 全球参观量第一 · 约890万/年"
-    },
-    {
-      "term": "人面鱼纹彩陶盆",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP11 · 全球参观量前列 · 约670万/年"
-    },
-    {
-      "term": "拿破崙加冕",
-      "reason": "卢浮宫馆藏 · 综合热度TOP24 · 全球参观量第一 · 约890万/年"
+      "term": "洛神賦圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP5 · 游客量世界第一 · 约1700万/年"
     },
     {
       "term": "普西莎与爱神",
       "reason": "卢浮宫馆藏 · 综合热度TOP26 · 全球参观量第一 · 约890万/年"
+    },
+    {
+      "term": "苏格拉底之死",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP14 · 全球TOP3 · 约540万/年"
+    },
+    {
+      "term": "蒙娜丽莎",
+      "reason": "卢浮宫馆藏 · 综合热度TOP21 · 全球参观量第一 · 约890万/年"
+    },
+    {
+      "term": "The Lacemaker",
+      "reason": "卢浮宫馆藏 · 综合热度TOP27 · 全球参观量第一 · 约890万/年"
     }
   ],
   "hotMuseumIds": [
