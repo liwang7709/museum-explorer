@@ -1,44 +1,44 @@
 {
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T03:02:22.082Z",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T02:43:24.922Z",
   "picks": [
-    "british-museum-Q248101",
-    "uffizi-Q1059211",
-    "uffizi-Q2344505",
-    "louvre-Q93304",
-    "norway-national-Q1931228",
-    "norway-national-Q101065",
-    "palace-beijing-Q714802",
-    "npm-taipei-Q706846",
-    "vatican-Q11719033",
-    "rijksmuseum-Q766782",
-    "hermitage-Q5954149",
-    "louvre-Q616332",
-    "uffizi-Q154326",
-    "prado-Q6402081",
-    "npm-taipei-Q11126402",
-    "tokyo-national-Q3087790"
+    "norway-national-Q18891504",
+    "prado-Q920030",
+    "norway-national-Q6545811",
+    "cleveland-Q1799228",
+    "npm-taipei-Q134225183",
+    "prado-Q1091086",
+    "tokyo-national-Q28154824",
+    "khm-Q603751",
+    "louvre-Q625140",
+    "rijksmuseum-Q2881603",
+    "hermitage-Q86621988",
+    "met-Q28912605",
+    "rijksmuseum-Q1170480",
+    "khm-Q690583",
+    "vatican-Q972196",
+    "met-Q509806"
   ],
   "hotTerms": [
     {
-      "term": "迦拿的婚礼",
-      "reason": "卢浮宫馆藏 · 综合热度TOP30 · 全球参观量第一 · 约890万/年"
+      "term": "彩绘鹳鱼石斧图陶缸",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP13 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "額爾金大理石",
-      "reason": "大英博物馆馆藏 · 综合热度TOP19 · 全球TOP5 · 约580万/年"
+      "term": "大盂鼎",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP12 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "清明上河圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP3 · 游客量世界第一 · 约1700万/年"
+      "term": "大宫女",
+      "reason": "卢浮宫馆藏 · 综合热度TOP25 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "The Gulf Stream",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP15 · 全球TOP3 · 约540万/年"
+      "term": "苏格拉底之死",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP14 · 全球TOP3 · 约540万/年"
     },
     {
-      "term": "薩莫特拉斯的勝利女神",
-      "reason": "卢浮宫馆藏 · 综合热度TOP24 · 全球参观量第一 · 约890万/年"
+      "term": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP17 · 全球TOP3 · 约540万/年"
     }
   ],
   "hotMuseumIds": [
