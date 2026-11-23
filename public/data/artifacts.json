@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T01:28:42.157Z",
-  "total": 407,
+  "generatedAt": "2026-11-23T01:52:27.307Z",
+  "total": 404,
   "note": "文物数据来源：各馆官网开放数据（MET/AIC/Cleveland/故宫数字文物库）+ 维基共享资源（附官网链接）。",
   "artifacts": [
     {
@@ -714,6 +714,31 @@
     },
     {
       "museumId": "louvre",
+      "qid": "Q216402",
+      "title": "薩莫特拉斯的勝利女神",
+      "titleEn": "Winged Victory of Samothrace",
+      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
+      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
+      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
+      "tags": [],
+      "highlightsTags": [
+        "塑像",
+        "遺物",
+        "Hellenistic sculpture",
+        "帕里安大理石",
+        "Pythokritos"
+      ],
+      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
+      "wikiLang": "zh",
+      "id": "louvre-Q216402",
+      "popularity": 1,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
+      "museumId": "louvre",
       "qid": "Q3080509",
       "title": "瓦平松的浴女",
       "titleEn": "The Valpinçon Bather",
@@ -780,31 +805,6 @@
       "wikiExtract": "塔尼斯的大狮身人面像是一座古埃及的花岗岩雕塑，这个雕像采用大理石雕刻，精美美观，很庄严肃穆。其历史可以追溯到公元前26世纪。它是在埃及第21王朝和第23王朝首都塔尼斯的阿蒙-拉神庙遗址中发现的。相比阿蒙-拉神庙，这座狮身人面像的完成时间要早得多，但具体完成时间仍存在着争论，主要有两种观点，一种认为雕像完成于于第四王朝，另一种则认为完成于第十二王朝。其原始铭文上仅存有关法老阿蒙涅姆赫特二世（第十二王朝）、麦伦普塔（第十九王朝）和舍顺克一世（第二十二王朝）的部分。\n",
       "wikiLang": "zh",
       "id": "louvre-Q6028852",
-      "popularity": 1,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "louvre",
-      "qid": "Q216402",
-      "title": "薩莫特拉斯的勝利女神",
-      "titleEn": "Winged Victory of Samothrace",
-      "description": "statue from Samothrace, Greece in the Louvre, Paris, France",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20de%20Samothrace%20-%20Musee%20du%20Louvre%20-%2020190812.jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%90%A8%E8%8E%AB%E8%89%B2%E9%9B%B7%E6%96%AF%E7%9A%84%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E",
-      "sourceUrl": "https://collections.louvre.fr/en/recherche?q=Winged%20Victory%20of%20Samothrace",
-      "tags": [],
-      "highlightsTags": [
-        "塑像",
-        "遺物",
-        "Hellenistic sculpture",
-        "帕里安大理石",
-        "Pythokritos"
-      ],
-      "wikiExtract": "萨莫色雷斯的胜利女神，是一座奉獻性的紀念碑，最初發現於愛琴海北部的萨莫色雷斯岛上。它被視為古希臘雕塑的傑作，屬於希腊化时期艺术（公元前2世紀）的作品。它由一尊代表希腊神话女神尼刻的雕塑組成，缺少頭部和手臂，以及以船頭形狀的底座。\n",
-      "wikiLang": "zh",
-      "id": "louvre-Q216402",
       "popularity": 1,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -1004,6 +1004,14 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%8E%B1%E7%89%B9%E9%A3%9E%E8%A1%8C%E5%99%A8",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Wright%20Flyer",
       "tags": [],
+      "highlightsTags": [
+        "飛機",
+        "Flyer",
+        "平纹细布",
+        "spruce",
+        "钢",
+        "鑄鐵"
+      ],
       "id": "smithsonian-Q688605",
       "popularity": 0.994,
       "imageSource": "commons",
@@ -1124,8 +1132,6 @@
         "画布",
         "欧仁·德拉克罗瓦"
       ],
-      "wikiExtract": "《自由引導人民》，或譯稱《自由領導人民》，是法国浪漫主義畫家歐仁·德拉克洛瓦為紀念1830年法國七月革命而創作的作品。此画最早在1831年的巴黎沙龙上展出，而后被巴黎羅浮宫收藏至今。\n",
-      "wikiLang": "zh",
       "id": "louvre-Q29530",
       "popularity": 0.99,
       "imageSource": "commons",
@@ -2066,6 +2072,12 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%AD%94%E9%9B%80%E5%8E%85",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Peacock%20Room",
       "tags": [],
+      "highlightsTags": [
+        "period room",
+        "裝置藝術作品",
+        "詹姆斯·惠斯勒",
+        "托馬斯·傑基爾"
+      ],
       "wikiExtract": "《蓝色与金色的和谐：孔雀厅》 是詹姆斯·惠斯勒於1876-1877年所创作的两幅帆布油画，采用油画颜料和镀金叶饰。原为英国船王、惠斯勒的主要赞助人弗雷德里克·雷兰 的伦敦住宅设计的餐厅装饰。房间尺寸：高13英尺11又5⁄8英寸，宽33英尺2英寸，深19英尺9又1⁄2英寸 现藏于華盛頓哥倫比亞特區弗瑞爾藝廊。\n",
       "wikiLang": "zh",
       "id": "smithsonian-Q16738523",
@@ -2668,6 +2680,13 @@
       "wikiUrl": "https://zh.wikipedia.org/wiki/%E7%B4%85%E5%AF%B6%E7%9F%B3%E9%9E%8B",
       "sourceUrl": "https://www.si.edu/search/collection-images?keywords=Ruby%20slippers%20(Wizard%20of%20Oz)",
       "tags": [],
+      "highlightsTags": [
+        "电影纪念品收藏",
+        "fictional slipper",
+        "costume component",
+        "虚构的魔法物品",
+        "阿德里安"
+      ],
       "id": "smithsonian-Q843007",
       "popularity": 0.933,
       "imageSource": "commons",
@@ -4904,9 +4923,6 @@
       "wikiUrl": "https://en.wikipedia.org/wiki/Judith_(given_name)",
       "sourceUrl": "https://www.hermitagemuseum.org",
       "tags": [],
-      "highlightsTags": [
-        "女性人名"
-      ],
       "wikiExtract": "Judith is a feminine given name derived from the Hebrew name Yəhūdīt (יְהוּדִית), meaning \"praised\" and also more literally \"Woman of Judea\". It is the feminine form of Judah. Judith appeared in the Hebrew Bible as one of Esau's wives, while the deuterocanonical Book of Judith tells of a different Judith. It is in common usage in English, French, German, many Scandinavian languages, Dutch, and Hebrew. In Ethiopia and",
       "wikiLang": "en",
       "id": "hermitage-Q5954149",
@@ -7006,6 +7022,25 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "norway-national",
+      "qid": "Q7772973",
+      "title": "The Voice",
+      "titleEn": "The Voice",
+      "description": "Russell Watson album",
+      "imageUrl": null,
+      "imageThumb": null,
+      "wikiUrl": "https://en.wikipedia.org/wiki/The_Voice_(Russell_Watson_album)",
+      "sourceUrl": "https://www.nasjonalmuseet.no",
+      "tags": [],
+      "highlightsTags": [
+        "音樂專輯"
+      ],
+      "id": "norway-national-Q7772973",
+      "popularity": 0.741,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "korea-national",
       "qid": "Q16095663",
       "title": "청자 참외모양 병",
@@ -7527,6 +7562,27 @@
       "sourceLabel": "官网/维基共享资源"
     },
     {
+      "museumId": "tokyo-national",
+      "qid": "Q28803631",
+      "title": "Fugen Bosatsu",
+      "titleEn": "Fugen Bosatsu",
+      "description": "painting by anonymous painter",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fugen%20Bosatsu(Samantabhadra)%20-%20Google%20Art%20Project.jpg?width=1000",
+      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Fugen%20Bosatsu(Samantabhadra)%20-%20Google%20Art%20Project.jpg?width=420",
+      "wikiUrl": "https://en.wikipedia.org/wiki/Fugen_Bosatsu_Riding_on_a_Elephant",
+      "sourceUrl": "https://colbase.nich.go.jp/collection/?q=Fugen%20Bosatsu%20statue",
+      "tags": [],
+      "highlightsTags": [
+        "畫作",
+        "丝绸",
+        "Iwaenogu"
+      ],
+      "id": "tokyo-national-Q28803631",
+      "popularity": 0.724,
+      "imageSource": "commons",
+      "sourceLabel": "官网/维基共享资源"
+    },
+    {
       "museumId": "norway-national",
       "qid": "Q2267579",
       "title": "The Sick Child",
@@ -7546,27 +7602,6 @@
       "wikiExtract": "The Sick Child is the title given to a group of six paintings and a number of lithographs, drypoints and etchings completed by the Norwegian artist Edvard Munch between 1885 and 1926. Each work records the moments before the death of his older sister, Johanne Sophie (1862–1877), from tuberculosis aged 15. Munch repeatedly returned to this deeply traumatic event in his art over a period of over 40 years. In the works,",
       "wikiLang": "en",
       "id": "norway-national-Q2267579",
-      "popularity": 0.723,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "norway-national",
-      "qid": "Q309",
-      "title": "歷史",
-      "titleEn": "history",
-      "description": "過去發生的事件",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikolaos%20Gyzis%20-%20Historia.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikolaos%20Gyzis%20-%20Historia.jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2",
-      "sourceUrl": "https://www.nasjonalmuseet.no",
-      "tags": [],
-      "highlightsTags": [
-        "學科"
-      ],
-      "wikiExtract": "历史是对过去的系统研究。作为一门学科，历史分析和解释证据，构建关于发生的事情的叙述并解释其发生的原因，主要关注人类历史。一些理论家将历史归类为社会科学，而另一些人则将其视为人文学科的一部分或认为它是一门混合学科。围绕历史的目的也存在类似的争论——例如，它的主要目的是理论性的（揭示真理），还是实践性的（从过去吸取教训）。在比较不同的意义上，“历史”一词不是单指学术领域，而是指过去本身或关于过去的个别文本。\n",
-      "wikiLang": "zh",
-      "id": "norway-national-Q309",
       "popularity": 0.723,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -7665,47 +7700,6 @@
       "wikiLang": "zh",
       "id": "tokyo-national-Q107425",
       "popularity": 0.72,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "khm",
-      "qid": "Q16930210",
-      "title": "蘇撒拿傳",
-      "titleEn": "Susanna and the Elders",
-      "description": "episode in the Additions to Daniel",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Papyrus%20967.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Papyrus%20967.jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E8%98%87%E6%92%92%E6%8B%BF%E5%82%B3",
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Susanna%20and%20the%20Elders%20(Tintoretto)",
-      "tags": [],
-      "highlightsTags": [
-        "chapter of the Bible",
-        "藝術主題",
-        "聖經中記載的故事"
-      ],
-      "wikiExtract": "《蘇撒拿傳》 又譯作《蘇撒納傳》，是天主教和東正教接受的次經，而新教和猶太教則不接受此書卷作正經。此書無法肯定由希伯來文或希臘文寫成。作者據推測為主前第二或第一世紀人物；除此以外其生平一概不得而知。在希臘文舊約《七十士譯本》 中，此書列於《但以理書》之前，在拉丁譯本卻列於《但以理書》之後。 \n",
-      "wikiLang": "zh",
-      "id": "khm-Q16930210",
-      "popularity": 0.72,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "khm",
-      "qid": "Q2",
-      "title": "地球",
-      "titleEn": "Earth",
-      "description": "太陽系中距離太陽第三近的行星",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20(5052124705).jpg?width=420",
-      "wikiUrl": "https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83",
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Earth%20(Arcimboldo)",
-      "tags": [],
-      "wikiExtract": "地球是太阳系中由內向外的第三顆行星，与太阳平均距离149,597,870公里（1天文單位），位于太阳系宜居带正中位置。地球质量约为5.972×1024公斤，平均半径约6,371公里，平均密度5.52g/cm3，是太阳系最大的一个岩石行星，也是太阳系所有天体中密度最高的。地球同时进行自转和公转运动，每自转一次为一太阳日（即一昼夜），每公转一周为一太阳年；地球自转的轨道面称为赤道面，公转轨道面称为黄道面，两者之间因转轴倾角产生的夹角称为黄赤交角，由此造成太阳直射点的纬度变化产生了四季的变化更替。作为标准行星，地球已完全独占邻近的轨道，在整个地球轨道上只在L4拉格朗日点的位置留有两个同轨道共振的地球特洛伊（2010 TK7和2020 XL5），但仍有大量近地天体可能会受地球引力影响而靠近甚至穿越地球轨道。地球仅有一顆真正意义上的天然卫星——月球，在其形成后不久就已被潮汐锁定；另外还有七个已知的越地小行星因公转周期与地球相近而被视作准卫",
-      "wikiLang": "zh",
-      "id": "khm-Q2",
-      "popularity": 0.718,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },
@@ -8140,27 +8134,6 @@
       "wikiExtract": "Inwangjesaekdo is a landscape painting by the famous Jeong Seon. It was painted during the reign of Joseon Dynasty King Yeongjo in 1751, at his birthplace in Cheongun-dong at Jongno District, modern-day Seoul. It was designated by the South Korean government as the 216th National Treasure of Korea on August 6, 1984. The painting is currently held and managed by the Ho-Am Art Museum in Yongin, Gyeonggi Province. Previ",
       "wikiLang": "en",
       "id": "korea-national-Q12615728",
-      "popularity": 0.701,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "korea-national",
-      "qid": "Q65248711",
-      "title": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
-      "titleEn": "Wooden seated Amitabha Buddha (Busan Metropolitan City Tangible Cultural Property No. 161)",
-      "description": "",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%86%8C%EC%9E%A5%20%EB%AA%A9%EC%A1%B0%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81%2001.jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%EB%A6%BD%EB%B0%95%EB%AC%BC%EA%B4%80%20%EC%86%8C%EC%9E%A5%20%EB%AA%A9%EC%A1%B0%EC%95%84%EB%AF%B8%ED%83%80%EC%97%AC%EB%9E%98%EC%A2%8C%EC%83%81%2001.jpg?width=420",
-      "wikiUrl": null,
-      "sourceUrl": "https://www.museum.go.kr",
-      "tags": [],
-      "highlightsTags": [
-        "文化遺產",
-        "塑像",
-        "木材"
-      ],
-      "id": "korea-national-Q65248711",
       "popularity": 0.701,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
@@ -8778,27 +8751,6 @@
       "wikiLang": "en",
       "id": "norway-national-Q18209775",
       "popularity": 0.672,
-      "imageSource": "commons",
-      "sourceLabel": "官网/维基共享资源"
-    },
-    {
-      "museumId": "khm",
-      "qid": "Q59676195",
-      "title": "Saint Margaret",
-      "titleEn": "Saint Margaret",
-      "description": "painting by the workshop of Titian",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Margarita%2C%20del%20taller%20de%20Tiziano%20(Museo%20del%20Prado).jpg?width=1000",
-      "imageThumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Margarita%2C%20del%20taller%20de%20Tiziano%20(Museo%20del%20Prado).jpg?width=420",
-      "wikiUrl": null,
-      "sourceUrl": "https://www.khm.at/en/objectdb/search/?q=Saint%20Margaret%20(Rubens)",
-      "tags": [],
-      "highlightsTags": [
-        "畫作",
-        "油彩",
-        "画布"
-      ],
-      "id": "khm-Q59676195",
-      "popularity": 0.67,
       "imageSource": "commons",
       "sourceLabel": "官网/维基共享资源"
     },

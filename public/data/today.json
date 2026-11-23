@@ -1,44 +1,44 @@
 {
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T01:28:42.157Z",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T01:52:27.307Z",
   "picks": [
-    "khm-Q95562",
-    "smithsonian-Q843007",
-    "reina-sofia-Q3795179",
-    "met-Q1186970",
-    "musee-rodin-Q2418237",
-    "norway-national-Q28802071",
-    "met-Q19911684",
-    "aic-Q1189907",
-    "prado-Q19911452",
-    "khm-Q27981356",
     "korea-national-Q4543149",
+    "tokyo-national-Q3443333",
+    "hermitage-Q28060765",
+    "vatican-Q11719033",
+    "reina-sofia-Q123328536",
+    "norway-national-Q1058800",
+    "korea-national-Q482772",
+    "prado-Q2528477",
+    "khm-Q27981356",
+    "hermitage-Q65021325",
+    "nmc-Q10936980",
+    "palace-beijing-Q714802",
+    "prado-Q17277950",
+    "hermitage-Q27033397",
     "vatican-Q667124",
-    "norway-national-Q471379",
-    "khm-Q3697662",
-    "vam-Q1320874",
-    "met-Q1752990"
+    "norway-national-Q18753113"
   ],
   "hotTerms": [
     {
-      "term": "四羊方尊",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP10 · 全球参观量前列 · 约670万/年"
+      "term": "蒙娜丽莎",
+      "reason": "卢浮宫馆藏 · 综合热度TOP21 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "The Gulf Stream",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP15 · 全球TOP3 · 约540万/年"
+      "term": "金瓯永固杯",
+      "reason": "故宫博物院馆藏 · 综合热度TOP6 · 游客量世界第一 · 约1700万/年"
     },
     {
-      "term": "千里江山图",
-      "reason": "故宫博物院馆藏 · 综合热度TOP1 · 游客量世界第一 · 约1700万/年"
+      "term": "人面鱼纹彩陶盆",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP11 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "石鼓 (先秦)",
-      "reason": "故宫博物院馆藏 · 综合热度TOP7 · 游客量世界第一 · 约1700万/年"
+      "term": "X夫人（皮埃尔·戈特罗夫人）",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP17 · 全球TOP3 · 约540万/年"
     },
     {
-      "term": "普西莎与爱神",
-      "reason": "卢浮宫馆藏 · 综合热度TOP26 · 全球参观量第一 · 约890万/年"
+      "term": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP16 · 全球TOP3 · 约540万/年"
     }
   ],
   "hotMuseumIds": [
