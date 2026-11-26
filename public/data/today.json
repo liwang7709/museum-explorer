@@ -1,44 +1,44 @@
 {
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T04:21:25.470Z",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T03:42:42.837Z",
   "picks": [
-    "palace-beijing-Q7618932",
-    "vatican-Q3968659",
-    "vatican-Q64351452",
-    "palace-beijing-Q4997694",
-    "nmc-Q97503214",
-    "norway-national-Q28802071",
-    "vatican-Q16933120",
-    "van-gogh-Q157541",
-    "npm-taipei-Q5136665",
-    "khm-Q500985",
-    "smithsonian-Q16738523",
-    "sanxingdui-Q17029249",
-    "norway-national-Q18891035",
-    "npm-taipei-Q11612713",
-    "national-gallery-london-Q2366825",
-    "prado-Q984058"
+    "npm-taipei-Q106770894",
+    "prado-Q321303",
+    "rijksmuseum-Q17320349",
+    "hermitage-Q4009580",
+    "nmc-Q132501266",
+    "british-museum-Q27920165",
+    "prado-Q2268524",
+    "prado-Q6402081",
+    "npm-taipei-Q4184",
+    "moma-Q2697937",
+    "prado-Q9191556",
+    "tokyo-national-Q11400027",
+    "louvre-Q93304",
+    "hermitage-Q86621988",
+    "tokyo-national-Q3443333",
+    "khm-Q500985"
   ],
   "hotTerms": [
     {
-      "term": "金瓯永固杯",
-      "reason": "故宫博物院馆藏 · 综合热度TOP6 · 游客量世界第一 · 约1700万/年"
+      "term": "苏格拉底之死",
+      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP14 · 全球TOP3 · 约540万/年"
     },
     {
-      "term": "洛神賦圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP5 · 游客量世界第一 · 约1700万/年"
+      "term": "击鼓说唱俑",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP8 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "梅杜薩之筏",
-      "reason": "卢浮宫馆藏 · 综合热度TOP23 · 全球参观量第一 · 约890万/年"
-    },
-    {
-      "term": "步辇图",
-      "reason": "故宫博物院馆藏 · 综合热度TOP4 · 游客量世界第一 · 约1700万/年"
+      "term": "石鼓 (先秦)",
+      "reason": "故宫博物院馆藏 · 综合热度TOP7 · 游客量世界第一 · 约1700万/年"
     },
     {
       "term": "清明上河圖",
       "reason": "故宫博物院馆藏 · 综合热度TOP3 · 游客量世界第一 · 约1700万/年"
+    },
+    {
+      "term": "迦拿的婚礼",
+      "reason": "卢浮宫馆藏 · 综合热度TOP29 · 全球参观量第一 · 约890万/年"
     }
   ],
   "hotMuseumIds": [
