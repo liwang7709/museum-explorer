@@ -1,44 +1,44 @@
 {
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-26T03:42:42.837Z",
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T03:46:24.669Z",
   "picks": [
-    "npm-taipei-Q106770894",
-    "prado-Q321303",
-    "rijksmuseum-Q17320349",
-    "hermitage-Q4009580",
-    "nmc-Q132501266",
-    "british-museum-Q27920165",
-    "prado-Q2268524",
-    "prado-Q6402081",
-    "npm-taipei-Q4184",
-    "moma-Q2697937",
-    "prado-Q9191556",
-    "tokyo-national-Q11400027",
-    "louvre-Q93304",
-    "hermitage-Q86621988",
-    "tokyo-national-Q3443333",
-    "khm-Q500985"
+    "vatican-Q667124",
+    "uffizi-Q549847",
+    "prado-Q2213811",
+    "korea-national-Q497657",
+    "hubei-museum-Q4902549",
+    "khm-Q26508351",
+    "khm-Q21676074",
+    "prado-Q17277950",
+    "smithsonian-Q16738523",
+    "uffizi-Q28810336",
+    "louvre-Q3080509",
+    "reina-sofia-Q3795179",
+    "npm-taipei-Q15907822",
+    "palace-beijing-Q714802",
+    "korea-national-Q12621173",
+    "hermitage-Q3202069"
   ],
   "hotTerms": [
     {
-      "term": "苏格拉底之死",
-      "reason": "大都会艺术博物馆馆藏 · 综合热度TOP14 · 全球TOP3 · 约540万/年"
+      "term": "米洛的维纳斯",
+      "reason": "卢浮宫馆藏 · 综合热度TOP22 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "击鼓说唱俑",
-      "reason": "中国国家博物馆馆藏 · 综合热度TOP8 · 全球参观量前列 · 约670万/年"
+      "term": "后母戊鼎",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP9 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "石鼓 (先秦)",
-      "reason": "故宫博物院馆藏 · 综合热度TOP7 · 游客量世界第一 · 约1700万/年"
+      "term": "大盂鼎",
+      "reason": "中国国家博物馆馆藏 · 综合热度TOP12 · 全球参观量前列 · 约670万/年"
     },
     {
-      "term": "清明上河圖",
-      "reason": "故宫博物院馆藏 · 综合热度TOP3 · 游客量世界第一 · 约1700万/年"
+      "term": "普西莎与爱神",
+      "reason": "卢浮宫馆藏 · 综合热度TOP26 · 全球参观量第一 · 约890万/年"
     },
     {
-      "term": "迦拿的婚礼",
-      "reason": "卢浮宫馆藏 · 综合热度TOP29 · 全球参观量第一 · 约890万/年"
+      "term": "洛神賦圖",
+      "reason": "故宫博物院馆藏 · 综合热度TOP5 · 游客量世界第一 · 约1700万/年"
     }
   ],
   "hotMuseumIds": [
